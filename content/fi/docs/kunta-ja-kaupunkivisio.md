@@ -1,6 +1,7 @@
 ---
 title: 10 vihreää teesiä kaupunkien kehittä­miseen
 year: 2020
+hyvaksyja: Puoluevaltuusto
 ---
 
 Kaupunkien kehittäminen on monella tapaa ratkaisevaa koko Suomen kehittymiselle. Kaupungit toimivat taloudellisen kasvun ja työllistämisen vetureina ja kaupungeilla on merkittävä potentiaali ilmastonmuutoksen torjunnassa. Kaupungit muodostavat hedelmällisen alustan tieteelliselle tutkimukselle ja kaupalliselle innovaatiotoiminnalle. Kaupungit luovat puitteet ihmisten arjelle, sillä suurin osa suomalaisista asuu kaupungeissa.
@@ -8,6 +9,7 @@ Kaupunkien kehittäminen on monella tapaa ratkaisevaa koko Suomen kehittymiselle
 Vihreät ovat jo pitkään tehneet töitä ihmisten arjen kannalta toimivien, ilmastoystävällisten ja elinvoimaisten kaupunkien kehittämiseksi. Yhä sekavammaksi käyvän maakuntauudistuksen keskellä kaupungit tarvitsevat vahvaa visiota. Onnistunut kaupunkikehitys luo hyvinvointia kaikille suomalaisille.
 
 # Viisi tapaa, joilla Vihreät kehittävät kaupunkeja
+
 ## Kunnian­hi­moinen ilmasto­po­li­tiikka
 
 Ilmastonmuutoksen torjunta on yksi Vihreiden keskeisistä tavoitteista. Pitkäjänteisen vihreän työn tuloksena Espoo on asettanut tavoitteeksi hiilineutraaliuden vuonna 2030 ja Helsinki on päättänyt sulkea Hanasaaren hiilivoimalan vuoden 2024 loppuun mennessä. Oulussa avattiin vuonna 2015 Suomen suurin aurinkovoimala, ja Oulun Energian Farmivirta luo maatiloille mahdollisuuksia sivuvirtojen hyödyntämiseen energiantuotannossa. Pori on mukana hiilineutraali kunta HINKU -hankkeessa. Jyväskylässä resurssiviisaus on ollut jo pitkään mukana kaupungin strategiassa.
@@ -43,7 +45,7 @@ Sekava sote- ja maakuntauudistusprosessi on jättänyt kaupungit hankalaan asema
 ## Lisää panostusta korkeakou­lujen tutkimuk­seen ja koulutukseen
 
 Tärkeä tekijä kaupunkien elinvoimaisuuden kehitykselle on vireä tutkimus- ja koulutustoiminta sekä hyvät yhteydet korkeakoulujen, yritysten, järjestöjen ja julkisen sektorin välillä. Hallituksen kurjistava koulutuspolitiikka haittaa merkittävästi myös kaupunkitaloutta. Koulutuksen ja tutkimuksen rahoituksen turvaaminen on tärkeää koko Suomelle, mutta myös kaupungeille.
-  
+
 ## Tuodaan energia­po­li­tiikka 2010-lu­vulle
 
 Valtaosa energiapolitiikan käytännön ratkaisuista tehdään kuntatasolla kuntien omistamissa energiayhtiöissä. Rakennusten energiatehokkuuden kehittämistä sekä vähäpäästöisen uusiutuvan energiantuotannon käyttöönottoa on mahdollista vauhdittaa uudenlaisilla teknologiaratkaisuilla sekä kuluttajia osallistavilla liiketoimintamalleilla. Valitettavasti hallituksen energiapolitiikka on tarjonnut vähänlaisesti tukea energiamarkkinoiden kehittämiseen ja kuluttaja-tuottajien aktivointiin. Keskitettyä tuotantoa ja suuria tuotantoyksiköitä suosivaan energiapolitiikkaan täytyy saada muutos. Kaavoitus- ja rakennusmääräykset pitää tuoda uudelle, nykyaikaiselle tasolle mahdollistamaan ja kannustamaan uusiutuvan energian rakennuskohtaista hyödyntämistä.
@@ -52,7 +54,7 @@ Valtaosa energiapolitiikan käytännön ratkaisuista tehdään kuntatasolla kunt
 
 Sipilän hallituskautta on voimakkaasti leimannut maahanmuuton vaikeuttaminen sekä rasistisen ilmapiirin lietsominen. Kaupunkien talouden ja elinvoimaisuuden kehityksen kannalta on kuitenkin olennaista saada Suomeen kansainvälisiä yrityksiä, investointeja ja osaajia. Työperäisen maahanmuuton esteitä tulee purkaa ja maamme johtavien päätöksentekijöiden on selvästi osoitettava, etteivät rasismi ja muukalaisviha ole hyväksyttävää. Maahanmuuttajien yhteyksiä lähtömaihinsa kannattaa hyödyntää myös yritysten kansainvälistymisessä.
 
- # Allekirjoittajat
+# Allekirjoittajat
 
 Anni Sinnemäki, apulaispormestari, Helsinki
 
