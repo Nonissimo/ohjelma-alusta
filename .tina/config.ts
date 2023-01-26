@@ -41,8 +41,25 @@ export default defineConfig({
           },
           {
             type: "string",
-            name: "type",
+            name: "categories",
             label: "Ohjelman tyyppi",
+            list: true,
+            options: [{
+              value: 'sektoriohjelma',
+              label: 'Sektoriohjelma'
+            }, {
+              value: 'linjaus',
+              label: 'Linjaus'
+            }, {
+              value: 'poliittinen_ohjelma',
+              label: 'Poliittinen ohjelma'
+            }, {
+              value: 'periaateohjelma',
+              label: 'Periaateohjelma'
+            }, {
+              value: 'kannanotto',
+              label: 'Kannanotto'
+            }]
           },
           {
             type: "string",
@@ -87,7 +104,7 @@ export default defineConfig({
           },
           {
             type: "string",
-            name: "sektori",
+            name: "tags",
             label: "Politiikkasektori",
             list: true,
             options: [{

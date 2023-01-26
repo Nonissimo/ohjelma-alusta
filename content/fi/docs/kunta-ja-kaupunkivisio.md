@@ -2,6 +2,12 @@
 title: 10 vihreää teesiä kaupunkien kehittä­miseen
 year: 2020
 hyvaksyja: Puoluevaltuusto
+categories:
+  - sektoriohjelma
+tags:
+  - alue
+  - talous
+  - ympäristö
 ---
 
 Kaupunkien kehittäminen on monella tapaa ratkaisevaa koko Suomen kehittymiselle. Kaupungit toimivat taloudellisen kasvun ja työllistämisen vetureina ja kaupungeilla on merkittävä potentiaali ilmastonmuutoksen torjunnassa. Kaupungit muodostavat hedelmällisen alustan tieteelliselle tutkimukselle ja kaupalliselle innovaatiotoiminnalle. Kaupungit luovat puitteet ihmisten arjelle, sillä suurin osa suomalaisista asuu kaupungeissa.
