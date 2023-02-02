@@ -18,27 +18,27 @@ tags:
 
 ## Sisällys
 
-[1. VIHREÄ TALOUS ELINKEINOPOLITIIKAN LÄHTÖKOHTANA](#vihrea-talous "")
+[1. VIHREÄ TALOUS ELINKEINOPOLITIIKAN LÄHTÖKOHTANA](#https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#1-vihre%C3%A4-talous-elinkeinopolitiikan-l%C3%A4ht%C3%B6kohtana "")
 
-[2. YRITTÄJYYS ELINVOIMAN TUOJANA](#yrittajyys "")
+[2. YRITTÄJYYS ELINVOIMAN TUOJANA](https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#2-yritt%C3%A4jyys-elinvoiman-tuojana "")
 
-[3. VIHREÄ VEROUUDISTUS](#verotus "")
+[3. VIHREÄ VEROUUDISTUS](https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#3-vihre%C3%A4-verouudistus "")
 
-[4. OSAAMISEN VARMISTAMINEN JA JOUSTAVAT TYÖMARKKINAT](#osaaminen-tyo "")
+[4. OSAAMISEN VARMISTAMINEN JA JOUSTAVAT TYÖMARKKINAT](https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#4-osaamisen-varmistaminen-ja-joustavat-ty%C3%B6markkinat "")
 
-[5. INNOVAATIOT ELINKEINOTOIMINNAN KULMAKIVINÄ](#innovaatiot "")
+[5. INNOVAATIOT ELINKEINOTOIMINNAN KULMAKIVINÄ](https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#5-innovaatiot-elinkeinotoiminnan-kulmakivin%C3%A4 "")
 
-[6. KESTÄVÄ KANSAINVÄLINEN TALOUS](#kv-talous "")
+[6. KESTÄVÄ KANSAINVÄLINEN TALOUS](https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#6-kest%C3%A4v%C3%A4-kansainv%C3%A4linen-talous "")
 
-[7. YRITYSTUILLA KOHTI VIHREÄÄ SIIRTYMÄÄ](#yritystuet "")
+[7. YRITYSTUILLA KOHTI VIHREÄÄ SIIRTYMÄÄ](https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#7-yritystuilla-kohti-vihre%C3%A4%C3%A4-siirtym%C3%A4%C3%A4 "")
 
-[8. KESTÄVIEN ELINKEINOJEN SUOMI](#kestavat-elinkeinot "")
+[8. KESTÄVIEN ELINKEINOJEN SUOMI](https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#8-kest%C3%A4vien-elinkeinojen-suomi "")
 
-[8.1. MENESTYSTÄ OSAAMISINTENSIIVISISTÄ PALVELUISTA](#osaamisintensiiviset-palvelut "")
+[8.1. MENESTYSTÄ OSAAMISINTENSIIVISISTÄ PALVELUISTA](https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#81-menestyst%C3%A4-osaamisintensiivisist%C3%A4-palveluista "")
 
-[8.2. TEOLLISUUS MAHDOLLISTAA VIHREÄN SIIRTYMÄN](#teollisuus "")
+[8.2. TEOLLISUUS MAHDOLLISTAA VIHREÄN SIIRTYMÄN](https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#82-teollisuus-mahdollistaa-vihre%C3%A4n-siirtym%C3%A4n "")
 
-[8.3. MAASEUDUN ELINKEINOT VAHVEMMIKSI](#maaseudun-elinkeinot "")
+[8.3. MAASEUDUN ELINKEINOT VAHVEMMIKSI](https://vihreatohjelmat.pages.dev/docs/elinkeinopoliittinen-ohjelma-talouden-avulla-tavoitteisiin-luonnos/#83-maaseudun-elinkeinot-vahvemmiksi "")
 
 ## 1. VIHREÄ TALOUS ELINKEINOPOLITIIKAN LÄHTÖKOHTANA
 
