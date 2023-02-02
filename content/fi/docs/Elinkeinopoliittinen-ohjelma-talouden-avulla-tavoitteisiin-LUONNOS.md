@@ -10,20 +10,15 @@ tags:
   - talous
 ---
 
-ELINKEINOPOLIITTINEN
-OHJELMA 2023 (LUONNOS)
-======================
+# ELINKEINOPOLIITTINEN OHJELMA 2023 (LUONNOS)
 
-TALOUDEN
-AVULLA TAVOITTEISIIN
-====================
+# TALOUDEN AVULLA TAVOITTEISIIN
 
-Puoluehallituksen esitys 21.1. puoluevaltuustolle
-11.2.2023
+*Puoluehallituksen esitys 21.1. puoluevaltuustolle 11.2.2023*
 
 ## Sisällys
 
-[1. VIHREÄ TALOUS ELINKEINOPOLITIIKAN LÄHTÖKOHTANA](#__RefHeading___Toc18141_204137610 "")
+[1. VIHREÄ TALOUS ELINKEINOPOLITIIKAN LÄHTÖKOHTANA](#vihrea-talous "")
 
 [2. YRITTÄJYYS ELINVOIMAN TUOJANA](#__RefHeading___Toc18143_204137610 "")
 
@@ -45,7 +40,9 @@ Puoluehallituksen esitys 21.1. puoluevaltuustolle
 
 [8.3. MAASEUDUN ELINKEINOT VAHVEMMIKSI](#__RefHeading___Toc18161_204137610 "")
 
-## [1. VIHREÄ TALOUS ELINKEINOPOLITIIKAN LÄHTÖKOHTANA](<> "")
+1. VIHREÄ TALOUS ELINKEINOPOLITIIKAN LÄHTÖKOHTANA
+
+***
 
 Hyvän elinkeinopolitiikan edellytys on vihreän talouden kokonaiskuvan hahmottaminen. Markkinoiden ja talouden keinoja tulee käyttää mahdollisimman vaikuttavasti yhteiskunnallisten tavoitteiden saavuttamiseksi.
 
