@@ -357,354 +357,97 @@ Joustava tulomuotojen yhdistely edellyttää myös reaaliaikaista maksujen ja et
 
 # [5. INNOVAATIOT ELINKEINOTOIMINNAN KULMAKIVINÄ](<> "")
 
-Vihreällä innovaatiopolitiikalla vauhditetaan kestäviin
-ratkaisuihin perustuvan elinkeinotoiminnan kehittymistä. Vaikuttava
-innovaatiopolitiikka tukee edelläkävijämarkkinan syntymistä.
+Vihreällä innovaatiopolitiikalla vauhditetaan kestäviin ratkaisuihin perustuvan elinkeinotoiminnan kehittymistä. Vaikuttava innovaatiopolitiikka tukee edelläkävijämarkkinan syntymistä.
 
- 
-
-Innovaatio on idea tai keksintö, joka on otettu käyttöön joko
-uutena kaupallisena tuotteena, teknologiana tai palveluna, tai uutena ja
-parempana toimintatapana. Suomen tulee pärjätä vihreän siirtymän
-edelläkävijämarkkinoilla. Kun menestymme kansainvälisessä kilpailussa,
-kasvatamme globaalia kädenjälkeämme. Innovaatiot lisäävät tuottavuutta ja
-kasvattavat jalostusarvoa, mikä puolestaan lisää työpaikkoja ja hyvinvointia.
-Yhteiskunnan kannalta arvokkaimmat innovaatiot vievät meitä kohti
+Innovaatio on idea tai keksintö, joka on otettu käyttöön joko uutena kaupallisena tuotteena, teknologiana tai palveluna, tai uutena ja parempana toimintatapana. Suomen tulee pärjätä vihreän siirtymän edelläkävijämarkkinoilla. Kun menestymme kansainvälisessä kilpailussa, kasvatamme globaalia kädenjälkeämme. Innovaatiot lisäävät tuottavuutta ja kasvattavat jalostusarvoa, mikä puolestaan lisää työpaikkoja ja hyvinvointia. Yhteiskunnan kannalta arvokkaimmat innovaatiot vievät meitä kohti
 päätavoitetta: ihmisten ja luonnon hyvinvointia luonnon kantokyvyn rajoissa.
 
- 
-
-Vihreällä innovaatiopolitiikalla luodaan hyvä
-toimintaympäristö innovaatiotoiminnalle, kannustetaan organisaatioita
-uudistumaan ja suunnataan innovaatiotoimintaa yhteiskunnallisesti merkittävien
-haasteiden ratkaisemiseen. Julkisen sektorin pitää siirtyä pienistä
-korjausliikkeistä ohjaavammaksi ja aktiivisemmaksi. Radikaalimmat innovaatiot
-ja rohkeammat tavoitteet vaativat laajaa yritysten, julkisen hallinnon,
-TKI-organisaatioiden ja rahoittajien yhteistyötä. Valtion tulee tukea
-nimenomaan strategisiin tavoitteisiin johtavien sekä useita sektoreita ja
-toimijoita yhdistävien kokonaisvaltaisten innovaatioiden syntyä. Tämä on
-huomattava muutos aiemmin Suomessa toteutettuun innovaatiopolitiikkaan
+Vihreällä innovaatiopolitiikalla luodaan hyvä toimintaympäristö innovaatiotoiminnalle, kannustetaan organisaatioita uudistumaan ja suunnataan innovaatiotoimintaa yhteiskunnallisesti merkittävien
+haasteiden ratkaisemiseen. Julkisen sektorin pitää siirtyä pienistä korjausliikkeistä ohjaavammaksi ja aktiivisemmaksi. Radikaalimmat innovaatiot ja rohkeammat tavoitteet vaativat laajaa yritysten, julkisen hallinnon, TKI-organisaatioiden ja rahoittajien yhteistyötä. Valtion tulee tukea nimenomaan strategisiin tavoitteisiin johtavien sekä useita sektoreita ja toimijoita yhdistävien kokonaisvaltaisten innovaatioiden syntyä. Tämä on huomattava muutos aiemmin Suomessa toteutettuun innovaatiopolitiikkaan
 verrattuna.
 
- 
+Suomen julkisen sektorin T\&K-toimintaan tarvitaan lisäpanostuksia, sillä Suomen T\&K-investoinnit ovat jääneet jälkeen OECD:n keskiarvosta. Lisäksi Suomen tulee kyetä houkuttelemaan enemmän kansainvälistä
+T\&K-toimintaa. Rahoitus ja verokannustimet ovat keskeisiä innovaatiopolitiikan keinoja. Näitä oikein käyttämällä saadaan moninkertainen hyöty sekä yhteiskunnallisten ongelmien ratkaisemisen että innovatiivisen ja menestyvän elinkeinoelämän myötä. Rahoituksen lisäksi innovaatiopolitiikassa tulee käyttää laajempaa keinopalettia, kuten sääntelyä, innovatiivisia hankintoja ja julkisen sektorin omaa innovaatiotoimintaa.
 
-Suomen julkisen sektorin T\&K-toimintaan tarvitaan
-lisäpanostuksia, sillä Suomen T\&K-investoinnit ovat jääneet jälkeen OECD:n
-keskiarvosta. Lisäksi Suomen tulee kyetä houkuttelemaan enemmän kansainvälistä
-T\&K-toimintaa. Rahoitus ja verokannustimet ovat keskeisiä
-innovaatiopolitiikan keinoja. Näitä oikein käyttämällä saadaan moninkertainen
-hyöty sekä yhteiskunnallisten ongelmien ratkaisemisen että innovatiivisen ja
-menestyvän elinkeinoelämän myötä. Rahoituksen lisäksi innovaatiopolitiikassa
-tulee käyttää laajempaa keinopalettia, kuten sääntelyä, innovatiivisia
-hankintoja ja julkisen sektorin omaa innovaatiotoimintaa.
+### Tavoitelähtöinen innovaatiostrategia
 
- 
+Innovaatiopolitiikkaa ohjaavat yhteiset päämäärät tulee konkretisoida tasolle, jossa valitaan mihin Suomen yhteiskuntana pitäisi panostaa tulevaisuudessa ja mihin ei. Tarvitaan yli sektorirajojen ja
+vaalikausien ulottuvia tavoitteita, jotka paitsi näyttävät suuntaa myös mahdollistavat organisoitumisen niiden ympärille. Yhteiset isot strategiset päämäärät pitää sopia parlamentaarisesti. Tavoitteiden avulla osoitetaan suuntaa, mutta jätetään liikkumavaraa yrityksiltä ja ihmisiltä nousevien ratkaisujen tekemiselle. Tavoitelähtöisyys ja innovaatioiden edistäminen vaativat rakenteellisia muutoksia, joilla varmistetaan kokeiluihin ja innovaatiopanostuksiin kannustava toimintaympäristö. Tämä edellyttää keskeisten tutkimus- ja innovaatiotoimijoiden, kuten sektoriministeriöiden, Suomen Akatemian, Business Finlandin, Sitran, Valtion ilmastorahaston ja VTT:n suurempaa ohjautumista yhteisten tavoitteiden kautta.
 
-Tavoitelähtöinen innovaatiostrategia
+Tavoitelähtöisessä innovaatiopolitiikassa innovaatiotyö eri tasoilla suunnataan muuttamaan olemassa olevia järjestelmiä (esim. energiasysteemit, liikenne, ruoantuotanto) haluttuun, kestävään suuntaan. Perusperiaateena ovat tavoitteellisuus ja mitattavuus, kokeilullisuus sekä vahva osallistaminen. Tämä tarkoittaa myös sitä, ettei tueta kestävän kehityksen tavoitteiden vastaisia hankkeita.
 
- 
+* Siirrytään innovaatiopolitiikassa sektorit ylittävien tavoitteiden kautta ohjaamiseen. Tehdään Suomelle pitkän tähtäimen innovaatiostrategia ja vastuutetaan sen toimeenpano yli hallituskausien.
+* Muokataan innovaatiopolitiikan instrumentteja tavoitelähtöisen politiikan mukaisiksi tarvittaessa muuttamalla vanhoja rakenteita ja synnyttämällä uusia.
+* Kehitetään tutkimus- ja innovaationeuvoston (TIN) toimintaa strategisemmaksi kattaen kaikkien ministeriöiden vastuualueet.
 
-Innovaatiopolitiikkaa ohjaavat yhteiset päämäärät tulee
-konkretisoida tasolle, jossa valitaan mihin Suomen yhteiskuntana pitäisi
-panostaa tulevaisuudessa ja mihin ei. Tarvitaan yli sektorirajojen ja
-vaalikausien ulottuvia tavoitteita, jotka paitsi näyttävät suuntaa myös
-mahdollistavat organisoitumisen niiden ympärille. Yhteiset isot strategiset
-päämäärät pitää sopia parlamentaarisesti. Tavoitteiden avulla osoitetaan
-suuntaa, mutta jätetään liikkumavaraa yrityksiltä ja ihmisiltä nousevien
-ratkaisujen tekemiselle. Tavoitelähtöisyys ja innovaatioiden edistäminen
-vaativat rakenteellisia muutoksia, joilla varmistetaan kokeiluihin ja
-innovaatiopanostuksiin kannustava toimintaympäristö. Tämä edellyttää keskeisten
-tutkimus- ja innovaatiotoimijoiden, kuten sektoriministeriöiden, Suomen
-Akatemian, Business Finlandin, Sitran, Valtion ilmastorahaston ja VTT:n
-suurempaa ohjautumista yhteisten tavoitteiden kautta.
+### Riittävä rahoitus edistää innovaatioita
 
- 
+Innovaatiopolitiikan onnistuminen riippuu pitkälti siitä, että investointeja tutkimukseen ja kehitykseen tehdään aikaisempaa enemmän ja että investointeja ohjataan tavoitelähtöisesti. Elinkeinotoimintaan ja maatalouteen liittyvät tutkimus- ja kehittämistoiminnan menot ovat verotuksessa vähennyskelpoisia (nk. T\&K-verotuki), mikä täydentää suoria T\&K-tukia ja kannustaa yrityksiä T\&K-toimintaan.
 
-Tavoitelähtöisessä 
-innovaatiopolitiikassa innovaatiotyö eri tasoilla suunnataan muuttamaan
-olemassa olevia järjestelmiä (esim. energiasysteemit, liikenne, ruoantuotanto)
-haluttuun, kestävään suuntaan. Perusperiaateena ovat tavoitteellisuus ja
-mitattavuus, kokeilullisuus sekä vahva osallistaminen. Tämä tarkoittaa myös
-sitä, ettei tueta kestävän kehityksen tavoitteiden vastaisia hankkeita.
+Lisääntyvä tutkimustoimintaan panostaminen tukee osaamiseen pohjautuvien innovaatioiden kehittämistä. Varmistetaan eri alojen tutkimuksen hyödynnettävyys panostamalla tasapainoisesti tiedon arvoketjuun: perustutkimus, soveltava tutkimus ja innovaatioiden läheinen tutkimus. Usein arvokkaimmat sovellukset syntyvät monen osaamisalan risteyskohtiin. Tutkimusinnovaatiot eivät myöskään ole pelkästään teknologialähtöisiä, vaan voivat olla lähtöisin miltä tutkimusalueelta tahansa. Politiikkatoimien pitäisi edistää sekä akateemisten tutkijoiden että yritysten T\&K-toiminnan sijoittumista Suomeen.
 
- 
+* Selkeytetään eri rahoitusinstrumenttien (muun muassa Finnfund, Finnvera, TESI, Business Finland, Ilmastorahasto) roolia yritysten asioinnin helpottamiseksi.
+* Kehitetään edelleen T\&K-verotukia kokemusten ja vaikutusarvioiden perusteella.
+* Nostetaan T\&K-menojen osuus vähintään 4 prosenttiin Suomen BKT:sta vuoteen 2030 mennessä. Vivutetaan julkisilla panostuksilla yritysten osallistumista. Nostetaan tutkimus- ja kehittämisrahoituksen suunnitelmassa julkisen sektorin osuus rahoituksesta vähintään 1,33 prosenttiin BKT:stä vuoteen 2030 mennessä.
+* Vakiinnutetaan mekanismit tutkimuslähtöisen liiketoiminnan synnyttämiseksi sekä tukemalla tutkimusorganisaatioiden kaupallistamisosaamista että suuntaamalla rahoitusta kaupallistamiseen
+  tähtääviin hankkeisiin.
+* Kaksinkertaistetaan Suomen kotiuttama EU:n TKI-rahoitus luomalla kansallisen EU-neuvontapalvelun kokemusten pohjalta pysyvä toimintamalli EU-hankkeiden kansalliselle vastinrahoitukselle ja osoittamalla yrityksille ja tutkimuslaitoksille resursseja EU-hankevalmisteluun.
+* Vahvistetaan toimia yritysten tutkimus- ja kehittämistoiminnan houkuttelemiseksi Suomeen esimerkiksi suuntaamalla avustuksia yritysten uusien tutkimuskeskusten perustamiseen sekä laitteistoihin ja tutkimustoimintaan.
+* Julkiset hankinnat ja lainsäädäntö edistämään innovaatiotoimintaa.
+* Julkisia hankintoja tulee ohjata kestävään ja innovatiiviseen suuntaan yhteistyötä, rakenteita ja toimintamalleja kehittämällä. Tällä hetkellä julkisissa hankinnoissa on pula hankintaosaamisesta ja yhteistyö yritysten kanssa voisi olla tiiviimpää. Tarvitsemme toiminta- ja rahoitusmalleja, joilla voidaan vähentää ja jakaa nousevien teknologioiden hankintaan liittyvää innovaatioriskiä.
+* Vahvistetaan julkisten hankintojen innovaatio- ja kestävyyskriteerejä kaikilla hallinnon tasoilla.
+* Kehitetään Innovaatiokumppanuus-hankintamallia ja perustetaan innovatiivisten hankintojen riskirahasto tai muu riskinjakoinstrumentti ja otetaan käyttöön kansallinen riskienhallintaväline innovatiivisten hankintojen vauhdittamiseksi.
+* Kehitetään julkisen sektorin kestävien ja innovatiivisten hankintojen johtamista ja osaamista mm. poikkisektoraaliseen KEINO-ohjelmaan panostamalla.
+* Muokataan toimintaympäristöä innovaatioystävällisemmäksi muun muassa kokeilulainsäädännön ja lainsäädännöllisten esteiden poistamisen ja ennaltaehkäisemisen kautta.
 
-•   
-Siirrytään innovaatiopolitiikassa sektorit
-ylittävien tavoitteiden kautta ohjaamiseen. Tehdään Suomelle pitkän tähtäimen
-innovaatiostrategia ja vastuutetaan sen toimeenpano yli hallituskausien.
+# [6. KESTÄVÄ KANSAINVÄLINEN TALOUS](<> "")
 
-•   
-Muokataan innovaatiopolitiikan instrumentteja
-tavoitelähtöisen politiikan mukaisiksi tarvittaessa muuttamalla vanhoja
-rakenteita ja synnyttämällä uusia.
+Ajatusten, tavaroiden ja palveluiden liikkuminen rajojen yli on Suomen kaltaiselle pienelle avoimelle taloudelle elinehto. Se on myös keino vähentää köyhyyttä maailmanlaajuisesti. Jotta globalisaatio on
+ekologisesti ja sosiaalisesti kestävää, tulee kansainvälisen kaupan sääntöjen huomioida vaikutukset eri ihmisryhmiin ja ympäristöön.
 
-•   
-Kehitetään tutkimus- ja innovaationeuvoston
-(TIN) toimintaa strategisemmaksi kattaen kaikkien ministeriöiden vastuualueet.
+Kestävän kansainvälisen talouden kulmakiviä ovat kestävät ja oikeudenmukaiset tuotantoketjut, sääntöperustaisuus, oikeudenmukainen verotus, reilu kilpailulainsäädäntö, yhteistyö, vakaus ja standardointi. Näiden kulmakivien varaan rakentuvat maailmanlaajuiset markkinat tarjoavat hyvän
+toimintaympäristön suomalaisyrityksille menestyä vihreiden ratkaisujen, korkean osaamisen, palveluiden ja vastuullisen liiketoiminnan edelläkävijöinä.
 
- 
-
-Riittävä rahoitus edistää innovaatioita
-
- 
-
-Innovaatiopolitiikan onnistuminen riippuu pitkälti siitä,
-että investointeja tutkimukseen ja kehitykseen tehdään aikaisempaa enemmän ja
-että investointeja ohjataan tavoitelähtöisesti. Elinkeinotoimintaan ja
-maatalouteen liittyvät tutkimus- ja kehittämistoiminnan menot ovat verotuksessa
-vähennyskelpoisia (nk. T\&K-verotuki), mikä täydentää suoria T\&K-tukia
-ja kannustaa yrityksiä T\&K-toimintaan.
-
- 
-
-Lisääntyvä tutkimustoimintaan panostaminen tukee osaamiseen
-pohjautuvien innovaatioiden kehittämistä. Varmistetaan eri alojen tutkimuksen
-hyödynnettävyys panostamalla tasapainoisesti tiedon arvoketjuun: perustutkimus,
-soveltava tutkimus ja innovaatioiden läheinen tutkimus. Usein arvokkaimmat
-sovellukset syntyvät monen osaamisalan risteyskohtiin. Tutkimusinnovaatiot
-eivät myöskään ole pelkästään teknologialähtöisiä, vaan voivat olla lähtöisin miltä
-tutkimusalueelta tahansa. Politiikkatoimien pitäisi edistää sekä akateemisten
-tutkijoiden että yritysten T\&K-toiminnan sijoittumista Suomeen.
-
- 
-
-•   
-Selkeytetään eri rahoitusinstrumenttien (muun
-muassa Finnfund, Finnvera, TESI, Business Finland, Ilmastorahasto) roolia
-yritysten asioinnin helpottamiseksi.
-
-•   
-Kehitetään edelleen T\&K-verotukia kokemusten
-ja vaikutusarvioiden perusteella.
-
-•   
-Nostetaan T\&K-menojen osuus vähintään 4
-prosenttiin Suomen BKT:sta vuoteen 2030 mennessä. Vivutetaan julkisilla
-panostuksilla yritysten osallistumista. Nostetaan tutkimus- ja
-kehittämisrahoituksen suunnitelmassa julkisen sektorin osuus rahoituksesta
-vähintään 1,33 prosenttiin BKT:stä vuoteen 2030 mennessä.
-
-•   
-Vakiinnutetaan mekanismit tutkimuslähtöisen
-liiketoiminnan synnyttämiseksi sekä tukemalla tutkimusorganisaatioiden
-kaupallistamisosaamista että suuntaamalla rahoitusta kaupallistamiseen
-tähtääviin hankkeisiin.
-
-•   
-Kaksinkertaistetaan Suomen kotiuttama EU:n
-TKI-rahoitus luomalla kansallisen EU-neuvontapalvelun kokemusten pohjalta
-pysyvä toimintamalli EU-hankkeiden kansalliselle vastinrahoitukselle ja
-osoittamalla yrityksille ja tutkimuslaitoksille resursseja
-EU-hankevalmisteluun.
-
-•   
-Vahvistetaan toimia yritysten tutkimus- ja
-kehittämistoiminnan houkuttelemiseksi Suomeen esimerkiksi suuntaamalla
-avustuksia yritysten uusien tutkimuskeskusten perustamiseen sekä laitteistoihin
-ja tutkimustoimintaan.
-
- 
-
-Julkiset hankinnat ja lainsäädäntö edistämään
-innovaatiotoimintaa
-
- 
-
-Julkisia hankintoja tulee ohjata kestävään ja innovatiiviseen
-suuntaan yhteistyötä, rakenteita ja toimintamalleja kehittämällä. Tällä
-hetkellä julkisissa hankinnoissa on pula hankintaosaamisesta ja yhteistyö
-yritysten kanssa voisi olla tiiviimpää. Tarvitsemme toiminta- ja
-rahoitusmalleja, joilla voidaan vähentää ja jakaa nousevien teknologioiden
-hankintaan liittyvää innovaatioriskiä.
-
- 
-
-•   
-Vahvistetaan julkisten hankintojen innovaatio-
-ja kestävyyskriteerejä kaikilla hallinnon tasoilla.
-
-•   
-Kehitetään Innovaatiokumppanuus-hankintamallia
-ja perustetaan innovatiivisten hankintojen riskirahasto tai muu
-riskinjakoinstrumentti  ja otetaan
-käyttöön kansallinen riskienhallintaväline innovatiivisten hankintojen
-vauhdittamiseksi.
-
-•   
-Kehitetään julkisen sektorin kestävien ja
-innovatiivisten hankintojen johtamista ja osaamista mm. poikkisektoraaliseen
-KEINO-ohjelmaan panostamalla.
-
-•   
-Muokataan toimintaympäristöä
-innovaatioystävällisemmäksi muun muassa kokeilulainsäädännön ja
-lainsäädännöllisten esteiden poistamisen ja ennaltaehkäisemisen kautta.
-
- 
-
-#  
-
-[6.
-KESTÄVÄ KANSAINVÄLINEN TALOUS](<> "")
-=====================================
-
- 
-
-Ajatusten, tavaroiden ja palveluiden liikkuminen rajojen
-yli on Suomen kaltaiselle pienelle avoimelle taloudelle elinehto. Se on myös
-keino vähentää köyhyyttä maailmanlaajuisesti. Jotta globalisaatio on
-ekologisesti ja sosiaalisesti kestävää, tulee kansainvälisen kaupan sääntöjen
-huomioida vaikutukset eri ihmisryhmiin ja ympäristöön.
-
- 
-
-Kestävän kansainvälisen talouden kulmakiviä ovat kestävät ja
-oikeudenmukaiset tuotantoketjut, sääntöperustaisuus, oikeudenmukainen verotus,
-reilu kilpailulainsäädäntö, yhteistyö, vakaus ja standardointi. Näiden
-kulmakivien varaan rakentuvat maailmanlaajuiset markkinat tarjoavat hyvän
-toimintaympäristön suomalaisyrityksille menestyä vihreiden ratkaisujen, korkean
-osaamisen, palveluiden ja vastuullisen liiketoiminnan edelläkävijöinä.
-
- 
-
-Ilmaston ja markkinoiden tasapuolisuuden kannalta on tärkeää
-asettaa EU:n ulkopuoliselle tuotannolle hiilitulli ja vastaavia muita
-mekanismeja, joilla asetetaan hinta uusiutumattomien luonnonvarojen käytölle.
-Myös keskeisiä kilpailijamaita tulee rohkaista asettamaan päästöilleen riittävä
+Ilmaston ja markkinoiden tasapuolisuuden kannalta on tärkeää asettaa EU:n ulkopuoliselle tuotannolle hiilitulli ja vastaavia muita mekanismeja, joilla asetetaan hinta uusiutumattomien luonnonvarojen käytölle. Myös keskeisiä kilpailijamaita tulee rohkaista asettamaan päästöilleen riittävä
 hinta.
 
- 
+Riippuvuus autoritaarisista, ihmisoikeuksia polkevista maista on turvallisuusriski ja vaarantaa sääntöpohjaisen kansainvälisen järjestyksen. Riippuvuutta näistä maista tulee vähentää tiivistämällä kumppanuuksia demokraattisten maiden kanssa ja monipuolistamalla tuotantoketjuja.
 
-Riippuvuus autoritaarisista, ihmisoikeuksia polkevista maista
-on turvallisuusriski ja vaarantaa sääntöpohjaisen kansainvälisen järjestyksen.
-Riippuvuutta näistä maista tulee vähentää tiivistämällä kumppanuuksia
-demokraattisten maiden kanssa ja monipuolistamalla tuotantoketjuja.
+### Sääntöperustaisuus ja yhteistyö kaupassa ja verotuksessa
 
- 
+Suomen ja suomalaisyritysten etu on mahdollisimman vakaa maailma, jossa mailla on varaa torjua ilmastokriisiä ja sopeutua sen vaikutuksiin ja jossa ihmisillä on edellytykset hyvään elämään.
+Kansainvälisellä verotuksella on tässä keskeinen rooli. Suomen tulee edistää EU:ssa ja kansainvälisesti tiiviitä veropohjia ja verotusoikeuden oikeudenmukaista jakautumista maiden kesken. Samalla tulee jatkaa yhteistyötä muiden EU-maiden kanssa keskinäisen verokilpailun hillitsemiseksi ja yhteisöverokantojen nostamiseksi globaalisti.
 
-Sääntöperustaisuus ja yhteistyö kaupassa ja verotuksessa
+Sekä yrityksillä että valtioilla on roolinsa ihmisoikeuksien toteutumisessa. Yritysten ihmisoikeusvaikutusten huomioiminen lisää talouden ja tuotantoketjujen toimintakykyä poikkeustilanteissa. EU:n tulee olla aktiivinen vaikuttaja ja säätää yritysvastuulaki, joka sisältää mm. ilmastoa koskevan huolellisuusvelvoitteen sekä antaa yritystoiminnan haitallisten vaikutusten uhreille kanneoikeuden EU-jäsenmaiden tuomioistuimisssa. EU:n lainsäädäntö vaikuttaa yrityksiin myös Euroopan ulkopuolella.
 
- 
+* Edistetään EU:ssa ja kansainvälisesti yhteistyötä maiden välisen verokilpailun sekä siihen rinnastuvan epäterveen yritystuilla kilpailun hillitsemiseksi. Pyritään asteittain nousevaan yhteisöveron vähimmäiskantaan sekä tiiviisiin veropohjiin.
+* Säädetään EU:n laajuinen yritysvastuulaki, joka ulottaa ihmisoikeus- ja ympäristövastuun koko globaaliin arvoketjuun. Toimeenpannaan direktiivi säätämällä kunnianhimoinen kansallinen
+  yritysvastuulaki.
+* Vähennetään kaupankäyntiä ja riippuvuutta ihmis- ja ympäristöoikeuksia polkevista talouksista edistämällä ympäristö ja ihmisoikeudet huomioivaa kauppapolitiikkaa EU:ssa.
+* Vahvistetaan yritysten todellisten edunsaajien julkisuutta tekemällä edunsaajarekisteristä maksuton ja parantamalla sen käytettävyyttä.
 
-Suomen ja suomalaisyritysten etu on mahdollisimman vakaa
-maailma, jossa mailla on varaa torjua ilmastokriisiä ja sopeutua sen
-vaikutuksiin ja jossa ihmisillä on edellytykset hyvään elämään.
-Kansainvälisellä verotuksella on tässä keskeinen rooli. Suomen tulee edistää
-EU:ssa ja kansainvälisesti tiiviitä veropohjia ja verotusoikeuden
-oikeudenmukaista jakautumista maiden kesken. Samalla tulee jatkaa yhteistyötä
-muiden EU-maiden kanssa keskinäisen verokilpailun hillitsemiseksi ja
-yhteisöverokantojen nostamiseksi globaalisti.
+### Kansainvälinen ilmastopolitiikka
 
- 
+Päästökauppa on tehokkain tapa ohjata yrityksiä vähentämään päästöjään. Kaikkeen tuotantoon Euroopan ulkopuolella ei kuitenkaan kohdistu samanlaista päästöjen hintaohjausta, mikä voi maailmanlaajuisessa kilpailussa heikentää eurooppalaisten yritysten kilpailukykyä.
 
-Sekä yrityksillä että valtioilla on roolinsa ihmisoikeuksien
-toteutumisessa. Yritysten ihmisoikeusvaikutusten huomioiminen lisää talouden ja
-tuotantoketjujen toimintakykyä poikkeustilanteissa. EU:n tulee olla aktiivinen
-vaikuttaja ja säätää yritysvastuulaki, joka sisältää mm. ilmastoa koskevan
-huolellisuusvelvoitteen sekä antaa yritystoiminnan haitallisten vaikutusten
-uhreille kanneoikeuden EU-jäsenmaiden tuomioistuimisssa. EU:n lainsäädäntö
-vaikuttaa yrityksiin myös Euroopan ulkopuolella.
+* Edistetään hiilen hinnoittelun leviämistä ja
+  EU-alueen hiilitullien käyttöä niin, että vaikutukset köyhimpiin maihin
+  kompensoidaan niille.
+* Varmistetaan etteivät esimerkiksi investointisuojasopimukset ja -lausekkeet estä kunnianhimoista ilmasto- ja ympäristöpolitiikkaa.
+* Kannustetaan muita maita ottamaan päästökauppa käyttöön ja linkittämään markkinat eurooppalaiseen päästökauppaan.
 
- 
+### Eurooppalainen omavaraisuus ja kriisinkestävyys
 
-•   
-Edistetään EU:ssa ja kansainvälisesti
-yhteistyötä maiden välisen verokilpailun sekä siihen rinnastuvan epäterveen
-yritystuilla kilpailun hillitsemiseksi. Pyritään asteittain nousevaan
-yhteisöveron vähimmäiskantaan sekä tiiviisiin veropohjiin.
+EU:n on kyettävä varmistamaan digitaalinen, teknologinen ja teollinen toimintakyky kriisienkin keskellä. Euroopan riippuvuus muun muassa Kiinasta mineraalien, lääkeaineiden, materiaalien, komponenttien ja kriittisen infrastruktuurin osalta on riski, jota tulee hajauttaa aktiivisella elinkeinopolitiikalla. Kriittistä infrastruktuuria tai teknologiaa ei tule myydä autoritaarisille maille.
 
-•   
-Säädetään EU:n laajuinen yritysvastuulaki, joka
-ulottaa ihmisoikeus- ja ympäristövastuun koko globaaliin arvoketjuun.
-Toimeenpannaan direktiivi säätämällä kunnianhimoinen kansallinen
-yritysvastuulaki.
+Standardisointi on noussut suurvaltojen valtakilpailun kentäksi. Vaikutusvalta standardisointiin antaa taloudellista ja teknologista etumatkaa kilpailijoihin ja mahdollisuuden edistää omia ratkaisuja globaalisti. Standardit heijastelevat myös niiden asettajien arvomaailmaa. Demokraattiset maat korostavat esimerkiksi yksityisyydensuojaa ja ihmisoikeuksia standardeissa, kun taas autoritaariset maat ovat halukkaampia sallimaan valvontateknologioita.
 
-•   
-Vähennetään kaupankäyntiä ja riippuvuutta ihmis-
-ja ympäristöoikeuksia polkevista talouksista edistämällä ympäristö ja
-ihmisoikeudet huomioivaa kauppapolitiikkaa EU:ssa.
+* Kasvatetaan teknologista ja teollista omistajuutta ja omavaraisuutta strategisesti kriittisillä toimialoilla koko EU:n tasolla.
+* Tarkastellaan EU:n ja ETA-maiden ulkopuolisia investointeja Suomeen myös strategisen, turvallisuuspoliittisen ulottuvuuden näkökulmasta.
+* Laaditaan kansallinen standardisointistrategia, jolla vaikutetaan digivihreän siirtymän toteutumiseen ja vahvistetaan kilpailukykyämme. Valitaan painopistealueet, joilla olemme suunnitelmallisesti
+  vaikuttamassa globaaleihin pelisääntöihin osana EU:ta.
 
-•   
-Vahvistetaan yritysten todellisten edunsaajien
-julkisuutta tekemällä edunsaajarekisteristä maksuton ja parantamalla sen
-käytettävyyttä.
-
- 
-
-Kansainvälinen ilmastopolitiikka
-
- 
-
-Päästökauppa on tehokkain tapa ohjata yrityksiä vähentämään
-päästöjään. Kaikkeen tuotantoon Euroopan ulkopuolella ei kuitenkaan kohdistu
-samanlaista päästöjen hintaohjausta, mikä voi maailmanlaajuisessa kilpailussa
-heikentää eurooppalaisten yritysten kilpailukykyä.
-
- 
-
-•   
-Edistetään hiilen hinnoittelun leviämistä ja
-EU-alueen hiilitullien käyttöä niin, että vaikutukset köyhimpiin maihin
-kompensoidaan niille.
-
-•   
-Varmistetaan etteivät esimerkiksi
-investointisuojasopimukset ja -lausekkeet estä kunnianhimoista ilmasto- ja
-ympäristöpolitiikkaa.
-
-•   
-Kannustetaan muita maita ottamaan päästökauppa
-käyttöön ja linkittämään markkinat eurooppalaiseen päästökauppaan.
-
- 
-
-Eurooppalainen omavaraisuus ja kriisinkestävyys
-
- 
-
-EU:n on kyettävä varmistamaan digitaalinen, teknologinen ja
-teollinen toimintakyky kriisienkin keskellä. Euroopan riippuvuus muun muassa
-Kiinasta mineraalien, lääkeaineiden, materiaalien, komponenttien ja kriittisen
-infrastruktuurin osalta on riski, jota tulee hajauttaa aktiivisella
-elinkeinopolitiikalla. Kriittistä infrastruktuuria tai teknologiaa ei tule
-myydä autoritaarisille maille.
-
- 
-
-Standardisointi on noussut suurvaltojen valtakilpailun
-kentäksi. Vaikutusvalta standardisointiin antaa taloudellista ja teknologista
-etumatkaa kilpailijoihin ja mahdollisuuden edistää omia ratkaisuja globaalisti.
-Standardit heijastelevat myös niiden asettajien arvomaailmaa. Demokraattiset
-maat korostavat esimerkiksi yksityisyydensuojaa ja ihmisoikeuksia
-standardeissa, kun taas autoritaariset maat ovat halukkaampia sallimaan
-valvontateknologioita.
-
- 
-
-•   
-Kasvatetaan teknologista ja teollista
-omistajuutta ja omavaraisuutta strategisesti kriittisillä toimialoilla koko
-EU:n tasolla.
-
-•   
-Tarkastellaan EU:n ja ETA-maiden ulkopuolisia
-investointeja Suomeen myös strategisen, turvallisuuspoliittisen ulottuvuuden
-näkökulmasta.
-
-•   
-Laaditaan kansallinen standardisointistrategia,
-jolla vaikutetaan digivihreän siirtymän toteutumiseen ja vahvistetaan
-kilpailukykyämme. Valitaan painopistealueet, joilla olemme suunnitelmallisesti
-vaikuttamassa globaaleihin pelisääntöihin osana EU:ta.
-
- 
-
-[7. YRITYSTUILLA KOHTI VIHREÄÄ
-SIIRTYMÄÄ](<> "")
-=================
-
- 
+# [7. YRITYSTUILLA KOHTI VIHREÄÄ SIIRTYMÄÄ](<> "")
 
 Yritystukien tulee olla kannattavia sijoituksia. Huonosti
 kohdennettuina ne ovat haitallisia. Tärkeää on uudistaa yrityskenttää ja
