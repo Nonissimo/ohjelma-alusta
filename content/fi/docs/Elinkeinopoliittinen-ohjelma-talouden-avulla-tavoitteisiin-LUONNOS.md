@@ -45,9 +45,7 @@ Puoluehallituksen esitys 21.1. puoluevaltuustolle
 
 [8.3. MAASEUDUN ELINKEINOT VAHVEMMIKSI](#__RefHeading___Toc18161_204137610 "")
 
-[1. VIHREÄ TALOUS
-ELINKEINOPOLITIIKAN LÄHTÖKOHTANA](<> "")
-----------------------------------------
+## [1. VIHREÄ TALOUS ELINKEINOPOLITIIKAN LÄHTÖKOHTANA](<> "")
 
 Hyvän elinkeinopolitiikan edellytys on vihreän talouden kokonaiskuvan hahmottaminen. Markkinoiden ja talouden keinoja tulee käyttää mahdollisimman vaikuttavasti yhteiskunnallisten tavoitteiden saavuttamiseksi.
 
@@ -56,8 +54,7 @@ Vihreät tavoittelee talousjärjestelmää, joka lisää luonnon ja ihmisten hyv
 Elinkeinotoiminnan ulkoisvaikutukset tulee sisällyttää tuotteiden ja palveluiden hintaan esimerkiksi haittaverotuksen ja päästökaupan avulla. Lisäksi on määrätietoisesti edistettävä työmarkkinoiden ja kulutuksen siirtymää kohti kestävää taloutta. Hyödynnämme julkisen sektorin budjetoinnissa erilaisia vaikutusten arviointeja (ympäristö, sukupuoli, lapset) edistääksemme oikeudenmukaisempaa taloutta.
 
 Vakaan demokratian ja teknologisen edelläkävijyyden Suomessa syntyy innovaatioita, yrityksiä sekä palvelujen ja tuotteiden vientiä maailmanlaajuisesti merkittävien ongelmien ratkaisemiseksi. Tämä tuottaa
-hyvinvointia ja tekee Suomesta moninkertaisesti kokoaan suuremman kansainvälisen vaikuttajan sosiaalisesti kestävän vihreän siirtymän toteuttamisessa. Vihreiden tavoittelema talousjärjestelmä tunnistaa palkattoman
-työn osaksi talouden kirjanpitoa ja julkinen sektori sekä kansalaisten nettovelkaantuminen ovat siinä tasapainossa. Automatisaation ja digitalisaation mahdollistama työn tuottavuuden parantuminen näkyy vihreän vision mukaan myös lisääntyneenä vapaa-aikana.
+hyvinvointia ja tekee Suomesta moninkertaisesti kokoaan suuremman kansainvälisen vaikuttajan sosiaalisesti kestävän vihreän siirtymän toteuttamisessa. Vihreiden tavoittelema talousjärjestelmä tunnistaa palkattoman työn osaksi talouden kirjanpitoa ja julkinen sektori sekä kansalaisten nettovelkaantuminen ovat siinä tasapainossa. Automatisaation ja digitalisaation mahdollistama työn tuottavuuden parantuminen näkyy vihreän vision mukaan myös lisääntyneenä vapaa-aikana.
 
 Tämä Vihreiden elinkeinopoliittinen ohjelma nojautuu seuraaviin periaatteisiin:
 
@@ -75,8 +72,7 @@ Vihreiden talousvisiossa planeetan kantokyvyn rajat on yhdistetty YK:n sosiaalis
 
 ### Tavoitteeksi korjaava ja uusintava talous
 
-Vihreä talous- ja elinkeinopolitiikka valjastaa talouden välineeksi maapallon ekologisen kantokyvyn sekä ihmisten perusoikeuksien ja hyvinvoinnin turvaamiseen. Kestävyyden rajat on nyt monin paikoin jo ylitetty.
-Enää ei riitä, että talous nähdään keinona tuottaa hyvinvointia maapallon kantokyvyn rajoissa. On päästävä tilanteeseen, jossa talous sekä korjaa jo syntyneitä vahinkoja että uusintaa eli ylläpitää ja kehittää tulevaisuuden rakennusaineita, kuten ekologista ja sosiaalista pääomaamme. Yhteiskunnallisten päämäärien tavoittelu tarkoittaa valtion, yritysten ja kolmannen sektorin luovuuden valjastamista luontokadon, ilmaston lämpenemisen ja eriarvoisuuden torjumiseen. Tavoitteellinen talouspolitiikka on markkinataloutta, jossa julkinen sektori ohjaa markkinoita sosiaalisesti ja ekologisesti kestävään suuntaan, ja varmistaa reilun kilpailun.
+Vihreä talous- ja elinkeinopolitiikka valjastaa talouden välineeksi maapallon ekologisen kantokyvyn sekä ihmisten perusoikeuksien ja hyvinvoinnin turvaamiseen. Kestävyyden rajat on nyt monin paikoin jo ylitetty. Enää ei riitä, että talous nähdään keinona tuottaa hyvinvointia maapallon kantokyvyn rajoissa. On päästävä tilanteeseen, jossa talous sekä korjaa jo syntyneitä vahinkoja että uusintaa eli ylläpitää ja kehittää tulevaisuuden rakennusaineita, kuten ekologista ja sosiaalista pääomaamme. Yhteiskunnallisten päämäärien tavoittelu tarkoittaa valtion, yritysten ja kolmannen sektorin luovuuden valjastamista luontokadon, ilmaston lämpenemisen ja eriarvoisuuden torjumiseen. Tavoitteellinen talouspolitiikka on markkinataloutta, jossa julkinen sektori ohjaa markkinoita sosiaalisesti ja ekologisesti kestävään suuntaan, ja varmistaa reilun kilpailun.
 
 ### Osaaminen on valtion tärkein elinkeinopoliittinen väline
 
@@ -89,23 +85,17 @@ Suomen ympäristötoimet eivät saa kasvattaa päästöjä ja luontokatoa muuall
 
 ### Talouden vakaus ja taloudellisen toiminnan laatu ovat&#xA;kasvua tärkeämpiä
 
-Talouden tulee kasvaa aloilla, jotka vähentävät resurssien kulutusta ja päästöjä tai pohjautuvat hyvinvointia lisäävään aineettomaan arvonluontiin. Talouden tulee kutistua aloilla, jotka tuhoavat luontoa,
-lisäävät päästöjä ja haaskaavat voimavaroja. Rajallisia luonnonvaroja ja ihmisten osaamista tulisi ohjata välttämättömyyksiin sekä kohteisiin, joiden avulla vihreää siirtymää tehdään. Taloudellisen menestyksen mittareissa pitää huomioida luonnonvarojen kuluminen sekä haittojen ja hyötyjen jakautuminen yhteiskunnassa. Vihreille on tärkeämpää se, millä ja miten hyvinvointi tuotetaan kuin bruttokansantuotteen koko. Työllisyys, laadullisesti hyvän talouskasvun edistäminen ja nettovelkaantumisen hallinta kuuluvat
-tavoitelähtöisen talouspolitiikan keskeisiin keinoihin, olematta kuitenkaan ensisijaisia päämääriä.
+Talouden tulee kasvaa aloilla, jotka vähentävät resurssien kulutusta ja päästöjä tai pohjautuvat hyvinvointia lisäävään aineettomaan arvonluontiin. Talouden tulee kutistua aloilla, jotka tuhoavat luontoa, lisäävät päästöjä ja haaskaavat voimavaroja. Rajallisia luonnonvaroja ja ihmisten osaamista tulisi ohjata välttämättömyyksiin sekä kohteisiin, joiden avulla vihreää siirtymää tehdään. Taloudellisen menestyksen mittareissa pitää huomioida luonnonvarojen kuluminen sekä haittojen ja hyötyjen jakautuminen yhteiskunnassa. Vihreille on tärkeämpää se, millä ja miten hyvinvointi tuotetaan kuin bruttokansantuotteen koko. Työllisyys, laadullisesti hyvän talouskasvun edistäminen ja nettovelkaantumisen hallinta kuuluvat tavoitelähtöisen talouspolitiikan keskeisiin keinoihin, olematta kuitenkaan ensisijaisia päämääriä.
 
 ### Julkisen talouden tasapainottaminen edellyttää sijoituksia&#xA;tulevaisuuteen
 
-Elinkeinopolitiikan yhtenä tavoitteena on monipuolinen elinkeinorakenne, joka kestää hyvin erilaisia suhdanteita tai kriisejä. Suuret rakenteelliset muutokset vaativat suuria rahallisia investointeja, jotka mahdollistavat julkisen talouden tasapainottamisen ja kohtuullisen nettovelan määrän vuoteen 2035 mennessä. Investoinneissa tulee huomioida uusintavan talouden näkökulma: laadukas varhaiskasvatus ja koulutus varmistavat osaavan työvoiman saatavuuden, kulttuuri sekä ennaltaehkäisevät sosiaali- ja terveyspalvelut edistävät terveyttä ja hyvinvointia. Tarvitsemme investointeja tutkimukseen, koulutukseen, julkiseen infrastruktuuriin sekä kiertotalouden kehittämiseen. Vihreä siirtymä ja ilmastonmuutoksen vaikutuksiin sopeutuminen edellyttävät myös panostuksia luonnonsuojeluun ja ennallistamiseen. Monet
-vihreät investoinnit toimivat erityisen hyvin suhdannepolitiikan välineinä, ne ovat usein paikallisia ja työvoimavaltaisia.
+Elinkeinopolitiikan yhtenä tavoitteena on monipuolinen elinkeinorakenne, joka kestää hyvin erilaisia suhdanteita tai kriisejä. Suuret rakenteelliset muutokset vaativat suuria rahallisia investointeja, jotka mahdollistavat julkisen talouden tasapainottamisen ja kohtuullisen nettovelan määrän vuoteen 2035 mennessä. Investoinneissa tulee huomioida uusintavan talouden näkökulma: laadukas varhaiskasvatus ja koulutus varmistavat osaavan työvoiman saatavuuden, kulttuuri sekä ennaltaehkäisevät sosiaali- ja terveyspalvelut edistävät terveyttä ja hyvinvointia. Tarvitsemme investointeja tutkimukseen, koulutukseen, julkiseen infrastruktuuriin sekä kiertotalouden kehittämiseen. Vihreä siirtymä ja ilmastonmuutoksen vaikutuksiin sopeutuminen edellyttävät myös panostuksia luonnonsuojeluun ja ennallistamiseen. Monet vihreät investoinnit toimivat erityisen hyvin suhdannepolitiikan välineinä, ne ovat usein paikallisia ja työvoimavaltaisia.
 
 ### Jaettu vauraus hyvinvoinnin lähteenä
 
-Onnellisuus- ja hyvinvointitutkimuksissa pääsääntöisesti parhaiten pärjäävät ne vauraat länsimaat, joissa vaurautta on jaettu tasaisimmin. Planeetan kantokyvyn rajoissa toimiminen haastaa hyvinvointia entisestään, kun kaikille tulee turvata hyvän elämän edellytykset. Pohjoismaat ovat hyviä sekä talouden perinteisissä kovissa mittareissa, kuten vauraus ja alouden innovatiivisuus, että ihmisten hyvinvoinnin ja sen tasa-arvoisen
-jakautumisen mittareissa. Vaurautta ja hyvinvointia kannattaa pyrkiä levittämään poliittisilla ratkaisuilla.
+Onnellisuus- ja hyvinvointitutkimuksissa pääsääntöisesti parhaiten pärjäävät ne vauraat länsimaat, joissa vaurautta on jaettu tasaisimmin. Planeetan kantokyvyn rajoissa toimiminen haastaa hyvinvointia entisestään, kun kaikille tulee turvata hyvän elämän edellytykset. Pohjoismaat ovat hyviä sekä talouden perinteisissä kovissa mittareissa, kuten vauraus ja alouden innovatiivisuus, että ihmisten hyvinvoinnin ja sen tasa-arvoisen jakautumisen mittareissa. Vaurautta ja hyvinvointia kannattaa pyrkiä levittämään poliittisilla ratkaisuilla.
 
-[2. YRITTÄJYYS ELINVOIMAN
-TUOJANA](<> "")
----------------
+## [2. YRITTÄJYYS ELINVOIMAN TUOJANA](<> "")
 
 Hyvinvointivaltion yhtenä kivijalkana toimivat yritykset, niin työllistävät yritykset kuin yhden hengen itsensätyöllistäjät. Vihreät haluaa edesauttaa yhä useamman yrityksen syntymistä ja kasvamista varteenottavaksi työnantajaksi ja hyvinvoinnin rakentajaksi.
 
@@ -142,17 +132,15 @@ Yritysostot ovat yleinen tapa kasvattaa yrityksen kokoa. Jotta ostetun yhtiön a
 Teknologian mahdollistamat uudet tavat järjestää yritystoimintaa, kuten älysopimukset ja hajautetut autonomiset organisaatiot tulee tunnistaa sääntelyssä.
 
 * Luodaan lainsäädäntökehys yhteiskunnallisille yrityksille hyödyntäen Yhteiskunnallinen yritys -merkin kriteereitä ja Euroopan komission määritelmää. Lisätään yhteiskunnallisen yrittämisen tunnettuutta.
-* Tuodaan osuustoiminta vaihtoehtona yrityksille oppilaitosten yrittäjyyskoulutuksessa sekä maksuttomassa yritysneuvonnassa. Varmistetaan, että yritystuet ottavat tasavertaisesti huomioon myös
-  osuuskunnat.
-* Edistetään vihreiden compounder-yritysten syntyä ja pörssilistautumista kehittämällä kriteeristöjä yritysostoihin sekä toimintatapoja ostetun yrityksen sisällyttämisestä emoyhtiöön suoran
-  sulauttamisen sijaan.
+* Tuodaan osuustoiminta vaihtoehtona yrityksille oppilaitosten yrittäjyyskoulutuksessa sekä maksuttomassa yritysneuvonnassa. Varmistetaan, että yritystuet ottavat tasavertaisesti huomioon myös osuuskunnat.
+* Edistetään vihreiden compounder-yritysten syntyä ja pörssilistautumista kehittämällä kriteeristöjä yritysostoihin sekä toimintatapoja ostetun yrityksen sisällyttämisestä emoyhtiöön suoran sulauttamisen sijaan.
 * Selvitetään hajautettujen autonomisten organisaatioiden laillinen asema ja ilmiöön liittyvät sääntelytarpeet, kuten verotuskysymykset.
 
 ### Kilpailu ja vapaat markkinat
 
 Terve kilpailu luo liiketoimintamahdollisuuksia uusille ja pienille yrityksille, kannustaa kehittämään toimintaa ja luomaan uusia liiketoimintaratkaisuja, sekä huolehtimaan siitä, että hinta ja laatu ovat kohdillaan. Suomen kotimarkkinat ovat kansainvälisesti verrattuna melko keskittyneet ja heikosti kilpaillut, vaikka isoja alakohtaisia eroja on. Huonosti toimivat markkinat ja kuluttajansuojalain rikkomukset aiheuttavat merkittävää vahinkoa kuluttajille, kansantaloudelle ja yritystoiminnalle. Tietyillä toimialoilla, kuten esimerkiksi apteekkialalla, taksialalla ja alkoholin myynnissä, on tunnistettu muutostarpeita. Suomalainen päivittäistavarakauppa, jonka sijoittautumiseen vaikutetaan suoraan muun muassa kaavoituspäätöksillä, on hyvin keskittynyttä.
 
-Kilpailua ohjaavaa lainsäädäntöä tulee uudistaa myös EU:n puitteissa siten, että liiketoiminta ja teknologian kehitys eivät keskity harvoille. Kilpailuvalvonnan resursseja tulee vahvistaa, jotta markkinoiden toimivuuden kannalta vahingollisiin ilmiöihin voidaan puuttua ja niitä voidaan ennaltaehkäistä. Yrityskauppavalvonnalla voidaan suoraan vaikuttaa siihen, että markkinat eivät haitallisesti keskity ja että toimialoja hallitsevat yritykset eivät estä uusien innovatiivisten kilpailijoiden tuloa alalle. Yrityskauppavalvonnan liikevaihtorajoja on laskettu, mutta osa haitallisista yrityskaupoista jää kuitenkin yrityskauppavalvonnan ulkopuolelle. Useassa EU-maassa on jo järjestelmä, jossa toimivaltainen taho voi samalla hakemuksella hakea sekä lainvastaiselle menettelylle kieltoa että kuluttajille hyvityksiä menetyksistä, joita heille on lainvastaisesta toiminnasta aiheutunut. Suomen tulee pyrkiä samaan, jotta käsittely sekä elinkeinoharjoittajan että kuluttajien näkökulmasta sujuvoituu ja kustannukset yhteiskunnalle laskevat.
+Kilpailua ohjaavaa lainsäädäntöä tulee uudistaa myös EU:n puitteissa siten, että liiketoiminta ja teknologian kehitys eivät keskity harvoille. Kilpailuvalvonnan resursseja tulee vahvistaa, jotta markkinoiden toimivuuden kannalta vahingollisiin ilmiöihin voidaan puuttua ja niitä voidaan ennaltaehkäistä. Yrityskauppavalvonnalla voidaan suoraan vaikuttaa siihen, että markkinat eivät haitallisesti keskity ja että toimialoja hallitsevat yritykset eivät estä uusien innovatiivisten kilpailijoiden tuloa alalle. Yrityskauppavalvonnan liikevaihtorajoja on laskettu, mutta osa haitallisista yrityskaupoista jää kuitenkin yrityskauppavalvonnan ulkopuolelle. Useassa EU-maassa on jo järjestelmä, jossa toimivaltainen taho voi samalla hakemuksella hakea sekä lainvastaiselle menettelylle kieltoa että kuluttajille hyvityksiä menetyksistä, joita heille on lainvastaisesta toiminnasta aiheutunut. Suomen tulee pyrkiä samaan, jotta käsittely sekä elinkeinoharjoittajan että kuluttajien näkökulmasta sujuvoituu ja kustannukset yhteiskunnalle laskevat.
 
 Julkisia hankintoja yrityksiltä tehdään vuodessa 31 miljardilla eurolla. Jo pienikin prosentuaalinen tehostuminen säästäisi satoja miljoonia veronmaksajien rahoja. Säästöä tulee hakea kehittämällä julkisia hankintoja tietopohjaisesti, mikä puolestaan edellyttää hankintoihin liittyvän aineiston keskitettyä keräämistä. Hankintojen mitoitus ja kilpailutusehdot on mahdollisuuksien mukaan laadittava niin, että tarjouskilpailuun osallistuminen ei vaadi kohtuutonta työpanosta. Näin pienillä ja keskisuurilla yrityksillä on mahdollisuus osallistua.
 
@@ -167,14 +155,11 @@ Julkisia hankintoja yrityksiltä tehdään vuodessa 31 miljardilla eurolla. Jo p
 
 ### Yritysystävällinen sujuva hallinto
 
-Yrittämiseen liittyvää hallinnollista taakkaa pitää pyrkiä vähentämään mm. automaation ja selkeiden ja läpinäkyvien prosessien avulla. Nykyisin digitaalinen yhden luukun periaate ei toteudu, ja useita viranomaislupia vaativien hankkeiden ennakkovalvonta voisi olla sujuvampaa. 
+Yrittämiseen liittyvää hallinnollista taakkaa pitää pyrkiä vähentämään mm. automaation ja selkeiden ja läpinäkyvien prosessien avulla. Nykyisin digitaalinen yhden luukun periaate ei toteudu, ja useita viranomaislupia vaativien hankkeiden ennakkovalvonta voisi olla sujuvampaa.
 
-Lupaprosesseja voidaan tehostaa keskittämällä investointihankkeiden lupakäsittelyt valtakunnalliselle lupa- ja
-valvontaviranomaiselle. Viranomaisten keskinäistä yhteistyötä ja aktiivista asiakasneuvontaa tulee parantaa. Sitovat palvelulupaukset lupaprosessien läpinäkyvyydestä ja kohtuullisista viranomaiskäsittelyn ajoista tulee
-sisällyttää lupaviranomaisten toiminnan ohjeistuksiin. Tämä vaatii riittävät määrärahat, niin lupakäsittelyihin kuin valitustuomioistuimiin.
+Lupaprosesseja voidaan tehostaa keskittämällä investointihankkeiden lupakäsittelyt valtakunnalliselle lupa- ja valvontaviranomaiselle. Viranomaisten keskinäistä yhteistyötä ja aktiivista asiakasneuvontaa tulee parantaa. Sitovat palvelulupaukset lupaprosessien läpinäkyvyydestä ja kohtuullisista viranomaiskäsittelyn ajoista tulee sisällyttää lupaviranomaisten toiminnan ohjeistuksiin. Tämä vaatii riittävät määrärahat, niin lupakäsittelyihin kuin valitustuomioistuimiin.
 
-* Automatisoidaan viranomaisbyrokratiaa tarjoamalla käytettäviä ja yhteensopivia julkisen sektorin digitaalisia
-  palveluita yrityksen pakollisten ilmoitusten tekemiseen. Muotoillaan viranomaisasioinnin palvelukokemus uudelleen asiakasnäkökulmasta.
+* Automatisoidaan viranomaisbyrokratiaa tarjoamalla käytettäviä ja yhteensopivia julkisen sektorin digitaalisia palveluita yrityksen pakollisten ilmoitusten tekemiseen. Muotoillaan viranomaisasioinnin palvelukokemus uudelleen asiakasnäkökulmasta.
 * Tehdään erityisesti vihreään siirtymään tähtäävien investointien viranomaiskäsittelystä sujuvampaa ja läpinäkyvämpää laadusta tinkimättä. Edistetään lupien saamista yhdeltä luukulta, mielellään aika- ja paikkariippumattomasti.
 
 ### Yrityksen loppuminen tai siirto eteenpäin
@@ -193,11 +178,9 @@ Yrityksen lopettaminen voi olla monivaiheinen ja hidas prosessi, joka vaatii asi
 * Tarjotaan maksutonta yritysneuvontaa myös yritystoiminnan lopettamiseen ja tuodaan yrittäjän talousapu sen osaksi. Tarjotaan tukea ja apua yrittäjän elämänmuutokseen.
 * Kohtuullistetaan rajuja veronkorotuksia ja sanktioita, joita määrätään arvonlisäverotuksessa, jos veroilmoituksia ei ole tehty ajallaan esimerkiksi yritystoiminnan loppumisen vuoksi.
 * Mahdollistetaan lakkautetun yrityksen velkojen maksun vähentäminen yrittäjän henkilökohtaisessa verotuksessa.
-* Muutetaan ulosoton kohdentamisjärjestys niin, että ensin maksetaan pääoma ja vasta sen jälkeen kertyneet korot.
+* [Muutetaan ulosoton kohdentamisjärjestys niin, että ensin maksetaan pääoma ja vasta sen jälkeen kertyneet korot](https://vihreatohjelmat.pages.dev/docs/sosiaaliturvaohjelma/ "").
 * Poistetaan verottajalta oikeus evätä uuden yrityksen ennakkoperintärekisteriin merkitseminen, kun yrittäjällä ei ole aiemman konkurssin väärinkäytöksiä eikä liiketoimintakieltoa.
-* Huolehditaan pankkisääntelyssä, ettei
-  esimerkiksi konkurssiin päätyneen yrityksen hallituksen jäsenenä toimiminen
-  estä uuden yritystoiminnan aloittamista ja rahoituksen saamista.
+* Huolehditaan pankkisääntelyssä, ettei esimerkiksi konkurssiin päätyneen yrityksen hallituksen jäsenenä toimiminen estä uuden yritystoiminnan aloittamista ja rahoituksen saamista.
 
 ## [3. VIHREÄ VEROUUDISTUS](<> "")
 
@@ -207,39 +190,32 @@ Verotus vaikuttaa suoraan yritysten toimintaympäristöön ja verovaroin tuotetu
 
 Hyvän verojärjestelmän periaatteita ovat yksinkertaisuus, veropohjan laajuus ja tiiviys, neutraalius, tehokkuus sekä verojen kohdentuminen maksukyvyn mukaan. Veroilla on kuitenkin eroja – tässä esitetään vihreä verouudistus elinkeinopolitiikan näkökulmasta keskeisten verolajien osalta.
 
-Verotuksen eri muutosten vaikutuksia on tarkasteltava kokonaisuutena sekä valtiontalouden, tuloerojen että yksittäisen veronmaksajan näkökulmasta. Tavoitteemme on vahvistaa verotuloja ja kaventaa tuloeroja, mutta
-esimerkiksi yrittäjien ja sijoittajien kohdalla tarkastelemme muutosten kokonaisvaikutusta, yhtiöverotus huomioiden.
+Verotuksen eri muutosten vaikutuksia on tarkasteltava kokonaisuutena sekä valtiontalouden, tuloerojen että yksittäisen veronmaksajan näkökulmasta. Tavoitteemme on vahvistaa verotuloja ja kaventaa tuloeroja, mutta esimerkiksi yrittäjien ja sijoittajien kohdalla tarkastelemme muutosten kokonaisvaikutusta, yhtiöverotus huomioiden.
 
-Päästöjen ja luonnonvarojen käytön verottaminen on markkinalähtöinen tapa hillitä haitallista kulutusta ja suosia vähäpäästöisiä tuotteita ja palveluja. Päästö- ja luonnonvaraverotuksen ensisijainen tehtävä ei ole kerryttää verotuloja, vaan ohjata toimintaa yhteiskunnan kannalta vähemmän haitalliseen suuntaan. Siksi näiden verojen rooli hyvinvointivaltion rahoituksen turvaamisessa on väistämättä rajallinen. Päästöverotuksen
-kompensointi energiarahalla on keino huolehtia ihmisten ostovoimasta ja muutosten sosiaalisesta oikeudenmukaisuudesta. Energiaraha toteuttaisi hiiliosingon periaatetta, jossa päästöjen vähentämiseen tähtäävistä veroista saadut tulot jaetaan kokonaan tai osittain takaisin kansalaisille.
+Päästöjen ja luonnonvarojen käytön verottaminen on markkinalähtöinen tapa hillitä haitallista kulutusta ja suosia vähäpäästöisiä tuotteita ja palveluja. Päästö- ja luonnonvaraverotuksen ensisijainen tehtävä ei ole kerryttää verotuloja, vaan ohjata toimintaa yhteiskunnan kannalta vähemmän haitalliseen suuntaan. Siksi näiden verojen rooli hyvinvointivaltion rahoituksen turvaamisessa on väistämättä rajallinen. Päästöverotuksen kompensointi energiarahalla on keino huolehtia ihmisten ostovoimasta ja muutosten sosiaalisesta oikeudenmukaisuudesta. Energiaraha toteuttaisi hiiliosingon periaatetta, jossa päästöjen vähentämiseen tähtäävistä veroista saadut tulot jaetaan kokonaan tai osittain takaisin kansalaisille.
 
 Toimiva yritysverotus kohtelee erikokoisia ja omistuspohjaltaan erilaisia yhtiöitä tasapuolisesti, kannustaa kestävään liiketoimintaan ja edistää toimivia markkinoita. Reilut markkinat edellyttävät myös yritysveropohjan tilkitsemistä lainsäädännöllä Suomessa, EU:n tasolla ja globaalisti.
 
 Ansio- ja pääomatuloverotus vaikuttavat työmarkkinoihin ja yritysten rahoitusympäristöön. Työikäisen väestön supistumisen takia suuriin tuloveron kevennyksiin ei ole todennäköisesti varaa, jotta peruspalvelut pystytään turvaamaan kaikille. Ansiotuloverotuksen keventäminen yhdessä perustulon kanssa kuitenkin lisää kannusteita työllistää ja työskennellä Suomessa sekä pitää yllä ostovoimaa. Pääomatulojen ansiotuloa matalampi verotus on edistänyt varallisuuden keskittymistä, eikä verotuksen progressiivisuus Suomessa toteudu ylimmissä tuloluokissa. Varallisuuden kasvun tasaisempi jakautuminen lisäisi hyvinvointia, talouden elinvoimaa ja edellytyksiä yrittäjyydelle.
 
-Arvonlisävero koskee käytännössä kaikkea elinkeinotoimintaa ja sen tuotto valtiolle on merkittävä. Arvonlisäverotuksen yksinkertaistaminen toisi hyötyjä, jos vihreän elinkeinopolitiikan kannalta tärkeitä aloja ja
-palveluita pystytään tukemaan tehokkaammin toisten ohjauskeinojen avulla.
+Arvonlisävero koskee käytännössä kaikkea elinkeinotoimintaa ja sen tuotto valtiolle on merkittävä. Arvonlisäverotuksen yksinkertaistaminen toisi hyötyjä, jos vihreän elinkeinopolitiikan kannalta tärkeitä aloja ja palveluita pystytään tukemaan tehokkaammin toisten ohjauskeinojen avulla.
 
 Vihreän verouudistuksen kokonaisuudessa painotetaan taloutta vähiten vääristäviä veroja, kuten kiinteistöjen, perintöjen ja varallisuuden verottamista, ja toisaalta haittaveroja, joilla pyritään ohjaamaan käyttäytymistä yhteiskunnan kannalta myönteiseen suuntaan.
 
 ### Päästöverotuksella ja energiarahalla päästöt alas oikeudenmukaisesti
 
-Päästö- ja luonnonvaraverojen vaikutus ostovoimaan on järkevintä kompensoida energiarahalla, joka on sidottu kerättyjen päästö- ja luonnonvaraverotulojen määrään. Energiarahan voi jakaa tasaisesti kaikille tai
-kohdentaa tarvelähtöisesti. 
+Päästö- ja luonnonvaraverojen vaikutus ostovoimaan on järkevintä kompensoida energiarahalla, joka on sidottu kerättyjen päästö- ja luonnonvaraverotulojen määrään. Energiarahan voi jakaa tasaisesti kaikille tai kohdentaa tarvelähtöisesti.
 
-* Sidotaan fossiilisten polttoaineiden valmistevero indeksiin, jotta se ohjaa päästövähennyksiin suunnitelmallisesti ja ennakoitavasti. Pitäydytään korotuksista tilanteissa, joissa fossiilisten
-  polttoaineiden hinnat ovat nousseet poikkeuksellisen paljon lyhyessä ajassa.
+* Sidotaan fossiilisten polttoaineiden valmistevero indeksiin, jotta se ohjaa päästövähennyksiin suunnitelmallisesti ja ennakoitavasti. Pitäydytään korotuksista tilanteissa, joissa fossiilisten polttoaineiden hinnat ovat nousseet poikkeuksellisen paljon lyhyessä ajassa.
 * Poistetaan fossiilisten polttoaineiden alennetut verokannat siirtymäajalla.
-* Säädetään vero lentoliikenteelle, jätteenpoltolle, ainespuun polttamiselle  ja neitseelliselle maa-ainekselle. Selvitetään ympäristöperusteista veroa elintarvikkeille.
+* Säädetään vero lentoliikenteelle, jätteenpoltolle, ainespuun polttamiselle ja neitseelliselle maa-ainekselle. Selvitetään ympäristöperusteista veroa elintarvikkeille.
 * Maksetaan suuri osa päästö- ja luonnonvaraverotuksella kerätyistä tuloista energiarahana takaisin kansalaisille.
 
 ### Reilumpi yritysverotus parantaa toimintaympäristöä
 
 Yhteisöverokannoilla kilpailemisen aika on päättymässä. Sen osoittaa globaaliin yritysveron minimitasoon tähtäävä OECD:n verouudistus sekä mallin pohjalle rakennettu EU:n minimiverodirektiivi. Suomessa yhteisöveroa laskettiin useaan otteeseen 2000-luvulla, mikä on luonut paineita muualle veropohjaan. 
 
-Listaamattomien yhtiöiden osinkoveron laskennassa tulee siirtyä nettovarallisuuteen perustuvasta mallista selkeisiin euromääräisiin rajoihin. Uudistus kannustaa investointeihin, vähentää esteitä listautumiselle
-ja tukee pienyrittäjiä. Suomi on ainoa Euroopan maa, jossa yrityksen nettovarallisuus vaikuttaa osinkojen verotukseen. Nykymalli suosii aineellisia sijoituksia tekeviä yrityksiä palvelualojen kustannuksella. Samalla se
-kasvattaa varallisuuseroja sekä kannustaa tulonmuuntoon ja verotuksen keventämiseen esimerkiksi sijoitusasunnoilla. Euromääräiset rajat tulee asettaa tasolle, jolla pienen nettovarallisuuden yhtiöstä maksettujen pienten osinkojen verotus kevenee ja suuren nettovarallisuuden yhtiöistä maksettujen suurten osinkojen verotus kiristyy nykyisestä. Uudistus tulee toteuttaa niin, että se vahvistaa verotuloja ja kaventaa tuloeroja.
+Listaamattomien yhtiöiden osinkoveron laskennassa tulee siirtyä nettovarallisuuteen perustuvasta mallista selkeisiin euromääräisiin rajoihin. Uudistus kannustaa investointeihin, vähentää esteitä listautumiselle ja tukee pienyrittäjiä. Suomi on ainoa Euroopan maa, jossa yrityksen nettovarallisuus vaikuttaa osinkojen verotukseen. Nykymalli suosii aineellisia sijoituksia tekeviä yrityksiä palvelualojen kustannuksella. Samalla se kasvattaa varallisuuseroja sekä kannustaa tulonmuuntoon ja verotuksen keventämiseen esimerkiksi sijoitusasunnoilla. Euromääräiset rajat tulee asettaa tasolle, jolla pienen nettovarallisuuden yhtiöstä maksettujen pienten osinkojen verotus kevenee ja suuren nettovarallisuuden yhtiöistä maksettujen suurten osinkojen verotus kiristyy nykyisestä. Uudistus tulee toteuttaa niin, että se vahvistaa verotuloja ja kaventaa tuloeroja.
 
 Yritysten mahdollisuutta tehdä vihreitä investointeja omarahoitteisesti voidaan tukea ottamalla käyttöön vihreä investointivaraus. Investointivaraus antaisi yritykselle mahdollisuuden siirtää verotettavaa tulosta myöhempään ajankohtaan selkeästi määriteltyjen ehtojen täyttyessä. Mikäli investointia ei tehdä, investointivaraus tuloutetaan yrityksen tulokseen ja verotetaan. Vihreät investoinnit tulee määritellä teknologianeutraalisti niin, että kriteereinä käytetään päästövähennyksiä ja luonnonvarojen käytön
 vähentämistä.
@@ -266,27 +242,14 @@ Yksi vaihtoehto pääomatuloverotuksen uudistamiseen on normaalituottomalli, jos
 
 ### Uudistetaan arvonlisävero
 
-Laajapohjainen arvonlisävero on yksinkertainen ja ennakoitava
-tapa kerätä verotuloja. Nykyinen arvonlisävero ei kuitenkaan vastaa hyvän
-verotuksen periaatteita. Alennettujen verokantojen viidakko on mutkikas ja
-osittain mielivaltainen. Tavoitteena tulee olla tärkeiden alojen ja palvelujen
-kuten kulttuurin, liikunnan ja joukkoliikenteen tukeminen. Tiedetään kuitenkin,
-että arvonlisäveron ohjausvaikutus hintoihin ja kulutuskäyttäytymiseen on
-heikko. Tavoitteet voidaan saavuttaa myös esimerkiksi tulonsiirroilla ja
-toimialakohtaisilla yritystuilla. 
+Laajapohjainen arvonlisävero on yksinkertainen ja ennakoitava tapa kerätä verotuloja. Nykyinen arvonlisävero ei kuitenkaan vastaa hyvän verotuksen periaatteita. Alennettujen verokantojen viidakko on mutkikas ja osittain mielivaltainen. Tavoitteena tulee olla tärkeiden alojen ja palvelujen kuten kulttuurin, liikunnan ja joukkoliikenteen tukeminen. Tiedetään kuitenkin, että arvonlisäveron ohjausvaikutus hintoihin ja kulutuskäyttäytymiseen on heikko. Tavoitteet voidaan saavuttaa myös esimerkiksi tulonsiirroilla ja toimialakohtaisilla yritystuilla.
 
-Pienituloiset kotitaloudet maksavat enemmän arvonlisäveroja
-kuin suurituloiset suhteessa tuloihinsa. Siksi on tärkeää varmistaa, että
-pienituloisten ostovoima säilyy, kun uudistuksia tehdään. Kannatamme
-yhteiskuntaa, jossa kaikkea ei ole pakko tehdä itse. Palvelujaan
-yksityistalouksille myyvälle pienyrittäjälle, jonka tarvikehankinnat ovat
-pieniä, liikevaihdosta maksettava arvonlisävero on suoraan pois yrittäjän
-omasta toimeentulosta.
+Pienituloiset kotitaloudet maksavat enemmän arvonlisäveroja kuin suurituloiset suhteessa tuloihinsa. Siksi on tärkeää varmistaa, että pienituloisten ostovoima säilyy, kun uudistuksia tehdään. Kannatamme
+yhteiskuntaa, jossa kaikkea ei ole pakko tehdä itse. Palvelujaan yksityistalouksille myyvälle pienyrittäjälle, jonka tarvikehankinnat ovat pieniä, liikevaihdosta maksettava arvonlisävero on suoraan pois yrittäjän omasta toimeentulosta.
 
 * Lyhyellä aikavälillä nostetaan lentoliikenne ylimpään alv-kantaan ja madalletaan korjauspalvelujen arvonlisäveroa.
 * Keskipitkällä aikavälillä vähennetään arvonlisäverokantojen lukumäärää ja korvataan vastaavasti matalampien alv-kantojen verotukia tehokkaammilla suorilla ohjauskeinoilla.
-* Varmistetaan verotuksen kokonaisprogressiivisuuden säilyminen arvonlisäverouudistuksen yhteydessä
-  tuloverotuksen, indeksikorotusten ja perustulon avulla.
+* Varmistetaan verotuksen kokonaisprogressiivisuuden säilyminen arvonlisäverouudistuksen yhteydessä tuloverotuksen, indeksikorotusten ja perustulon avulla.
 
 ### Painotetaan taloutta vähiten vääristäviä veroja
 
@@ -299,358 +262,100 @@ Elintarvikkeiden terveysperusteisella verolla vähennettäisiin liiallisen suola
 * Otetaan käyttöön maltillinen varallisuusvero suurille omaisuuksille.
 * Otetaan vaiheittain käyttöön elintarvikkeiden laaja-alainen terveysvero.
 
-[4. OSAAMISEN VARMISTAMINEN JA
-JOUSTAVAT TYÖMARKKINAT](<> "")
-------------------------------
+## [4. OSAAMISEN VARMISTAMINEN JA JOUSTAVAT TYÖMARKKINAT](<> "")
 
- 
+saavan työvoiman saatavuus sekä talouden muutoksiin vastaavat työmarkkinat ovat edellytyksiä menestyvälle elinkeinoelämälle. Osaavat työntekijät ovat myös yksi tärkeä tekijä silloin, kun kansainväliset yritykset miettivät sijoittumista ja investointikohteita.
 
-Osaavan työvoiman saatavuus sekä talouden muutoksiin
-vastaavat työmarkkinat ovat edellytyksiä menestyvälle elinkeinoelämälle.
-Osaavat työntekijät ovat myös yksi tärkeä tekijä silloin, kun kansainväliset
-yritykset miettivät sijoittumista ja investointikohteita.
+Suomen menestys globaalissa kilpailussa perustuu laajaan sivistykseen ja vahvaan osaamiseen. Viheliäisten ongelmien ratkominen edellyttää tietämyksen ja erilaisten taitojen ohella uusia ajattelumalleja, luovuutta, kriittistä ajattelua sekä kykyä tehdä johtopäätöksiä monimutkaisissa tilanteissa. Nämä ajattelun taidot ovat olennaisia työelämässä ja yrittäjyydessä, ja niihin panostaminen edistää Suomen talouden uudistumiskykyä teknologian ja talouden murroksessa. Luovien ja osaavien ihmisten työllä syntyy uutta tietoa, ratkaisuja ja teknologioita yhteiskunnallisesti merkittävien haasteiden ratkaisemiseen. Koulutuksen ja tutkimuksen avulla tulee tavoitella korkeaan jalostusarvoon sekä tuottavuuden kasvuun pohjautuvaa kestävää elinkeinotoimintaa.
 
- 
+Suomalaiset ikääntyvät, eikä massoittain eläkkeelle siirtyvien tilalle saada uusia osaajia samassa suhteessa. Osaajapulaan vastaaminen vaatii sekä nopeita että pitkäjänteisiä toimia. Osaavien kansainvälisten ammattilaisten houkuttelulla, työikäisten osaamisen päivittämisellä, työuria loppupäästä pidentämällä sekä koulutuksen läpäisyä parantamalla vastaamme haasteisiin nopeasti. Pitkällä aikavälillä tarvitsemme edelleen vahvaa ja jatkuvaa panostamista koulutukseen kaikilla tasoilla. On huolehdittava, että tarvittava osaamisen ketju on kunnossa laadukkaasta ja monipuolisesta varhaiskasvatuksesta ja peruskoulusta huippututkimukseen asti.
 
-Suomen menestys globaalissa kilpailussa perustuu laajaan
-sivistykseen ja vahvaan osaamiseen. Viheliäisten ongelmien ratkominen
-edellyttää tietämyksen ja erilaisten taitojen ohella uusia ajattelumalleja,
-luovuutta, kriittistä ajattelua sekä kykyä tehdä johtopäätöksiä monimutkaisissa
-tilanteissa. Nämä ajattelun taidot ovat olennaisia työelämässä ja
-yrittäjyydessä, ja niihin panostaminen edistää Suomen talouden uudistumiskykyä
-teknologian ja talouden murroksessa. Luovien ja osaavien ihmisten työllä syntyy
-uutta tietoa, ratkaisuja ja teknologioita yhteiskunnallisesti merkittävien
-haasteiden ratkaisemiseen. Koulutuksen ja tutkimuksen avulla tulee tavoitella
-korkeaan jalostusarvoon sekä tuottavuuden kasvuun pohjautuvaa kestävää
-elinkeinotoimintaa.
+Ulkomaisen työvoiman lisääminen ja maahanmuuttajien työllistymisestä huolehtiminen ovat keskeisiä elinkeinopoliittisia keinoja osaamisen saatavuuden vahvistamiseen. Näitä aiheita on käsitelty laajasti Vihreiden maahanmuuttopoliittisessa ohjelmassa.
 
- 
+### Tasa-arvoinen työelämä vahvistaa myös työvoiman saatavuutta.
 
-Suomalaiset ikääntyvät, eikä massoittain eläkkeelle
-siirtyvien tilalle saada uusia osaajia samassa suhteessa. Osaajapulaan
-vastaaminen vaatii sekä nopeita että pitkäjänteisiä toimia. Osaavien
-kansainvälisten ammattilaisten houkuttelulla, työikäisten osaamisen
-päivittämisellä, työuria loppupäästä pidentämällä sekä koulutuksen läpäisyä
-parantamalla vastaamme haasteisiin nopeasti. Pitkällä aikavälillä tarvitsemme
-edelleen vahvaa ja jatkuvaa panostamista koulutukseen kaikilla tasoilla. On
-huolehdittava, että tarvittava osaamisen ketju on kunnossa laadukkaasta ja
-monipuolisesta varhaiskasvatuksesta ja peruskoulusta huippututkimukseen asti.
+Teknologinen kehitys tuhoaa vanhaa ja luo uutta työtä samalla, kun työn tekemisen muodot muuttuvat. Tämä vaatii uusia pelisääntöjä työmarkkinoille ja myös sopeutumiskykyä yhteiskunnalta, organisaatioilta ja yksilöiltä. On pidettävä huoli siitä, ettei murros luo lisää köyhyyttä, vaan hyödyt tuottavuuden kasvusta jakautuvat oikeudenmukaisesti. Ihmisille, joiden työt katoavat esimerkiksi automatisaation vuoksi tulee tarjota mahdollisuus uudelleenkoulutukseen.
 
- 
-
-Ulkomaisen työvoiman lisääminen ja maahanmuuttajien
-työllistymisestä huolehtiminen ovat keskeisiä elinkeinopoliittisia keinoja
-osaamisen saatavuuden vahvistamiseen. Näitä aiheita on käsitelty laajasti
-Vihreiden maahanmuuttopoliittisessa ohjelmassa.
-
- 
-
-Tasa-arvoinen työelämä vahvistaa myös työvoiman
-saatavuutta.
-
- 
-
-Teknologinen kehitys tuhoaa vanhaa ja luo uutta työtä
-samalla, kun työn tekemisen muodot muuttuvat. Tämä vaatii uusia pelisääntöjä
-työmarkkinoille ja myös sopeutumiskykyä yhteiskunnalta, organisaatioilta ja
-yksilöiltä. On pidettävä huoli siitä, ettei murros luo lisää köyhyyttä, vaan
-hyödyt tuottavuuden kasvusta jakautuvat oikeudenmukaisesti. Ihmisille, joiden
-työt katoavat esimerkiksi automatisaation vuoksi tulee tarjota mahdollisuus
-uudelleenkoulutukseen.
-
- 
-
-Erilaisia tapoja työllistää ja tehdä työtä on kohdeltava
-tasapuolisesti. Työelämän pirstaloitumisen voi kääntää mahdollisuudeksi
-kasvattaa samanaikaisesti sekä ihmisten vapautta että työmarkkinoiden
+Erilaisia tapoja työllistää ja tehdä työtä on kohdeltava tasapuolisesti. Työelämän pirstaloitumisen voi kääntää mahdollisuudeksi kasvattaa samanaikaisesti sekä ihmisten vapautta että työmarkkinoiden
 joustavuutta.
 
- 
+### Osaamisen saatavuuden varmistaminen
 
-Osaamisen saatavuuden varmistaminen
+Suomalaisten nuorten koulutustaso on pudonnut OECD-keskitason alapuolelle. Jotta Suomi on kilpailukykyinen maa myös jatkossa, koulutukseen pitää kohdistaa nopeasti ja pysyvästi lisäpanostuksia kaikilla tasoilla varhaiskasvatuksesta lähtien. Lisäksi jatkuvalla oppimisella vastataan tarpeeseen kehittää ja uudistaa osaamista elämän ja työuran eri vaiheissa.
 
- 
+Yliopistojen ja korkeakoulujen aloituspaikkoja tulee lisätä nostamalla sekä perusrahoituksen että yksityisen rahoituksen määrää. Jotta korkeakoulutettujen määrää voidaan lisätä tulee korkeakouluvalmiuksien kehittymistä tukea jo perus- ja toisen asteen opetuksessa. Korkeakoulutuksen pitää pohjautua vahvaan perustutkimukseen. Joustavilla, tieteenrajat ylittävillä ainevalintamahdollisuuksilla pidetään osaaminen mukautumiskykyisenä.
 
-Suomalaisten nuorten koulutustaso on pudonnut OECD-keskitason
-alapuolelle. Jotta Suomi on kilpailukykyinen maa myös jatkossa, koulutukseen
-pitää kohdistaa nopeasti ja pysyvästi lisäpanostuksia kaikilla tasoilla
-varhaiskasvatuksesta lähtien. Lisäksi jatkuvalla oppimisella vastataan
-tarpeeseen kehittää ja uudistaa osaamista elämän ja työuran eri vaiheissa.
+* Puolet nuorista aikuisista on suorittanut korkeakoulututkinnon 2030-luvun alussa ja 70 % vuoteen 2040 mennessä.
+* Jatkuva oppiminen on varmistettava kaiken ikäisille.
+* Lisätään korkeakoulujen aloituspaikkoja kaikille osaajatarvealoille.
+* Laajennetaan voimakkaasti oppisopimuskoulutusta kohdennettuna niille 20–35- vuotiaille, joilta puuttuu toisen asteen tutkinto.
+* Palautetaan perustutkimuksen rahoitus kansainvälisesti korkealle tasolle Suomen Akatemian ja yliopistojen rahoituksen pysyvällä nostolla.
+* Varmistetaan, että Suomen korkeakoulutus mahdollistaa tieteenalat ylittävän koulutuksen, jotta se pystyy tarjoamaan osaamista tulevaisuuden muuttuviin tarpeisiin.
+* Kehitetään julkisesti tuettuja yritysten yhteishankintakoulutuksia, kuten täsmä-, rekry- ja muutoskoulutuksia joustavammiksi ja yrityslähtöisemmiksi.
+* Luodaan ammatilliseen, yliopisto- ja täydennyskoulutukseen digitaalisia opintokokonaisuuksia, joita voi suorittaa joustavasti aika- ja paikkariippumattomasti.
 
- 
+### Tavoitteena työhön johtava maahanmuutto
 
-Yliopistojen ja korkeakoulujen aloituspaikkoja tulee lisätä
-nostamalla sekä perusrahoituksen että yksityisen rahoituksen määrää. Jotta
-korkeakoulutettujen määrää voidaan lisätä tulee korkeakouluvalmiuksien kehittymistä
-tukea jo perus- ja toisen asteen opetuksessa. Korkeakoulutuksen pitää pohjautua
-vahvaan perustutkimukseen. Joustavilla, tieteenrajat ylittävillä
-ainevalintamahdollisuuksilla pidetään osaaminen mukautumiskykyisenä.
+Jokaisella Suomeen muuttaneella tulee maahantulon syystä riippumatta olla parhaat mahdollisuudet työllistyä, tulla toimeen ja kiinnittyä yhteiskuntaan. Siksi eri syistä maahan muuttaneiden on nykyistä nopeammin päästävä omaa koulutusta vastaaviin tehtäviin tai opiskelemaan. Meidän tulee päästä eroon siitä, että osaavat ihmiset joutuvat työskentelemään osaamistaan alemman tason työtehtävissä tai että kielitaidon puute estää työllistymisen aloilla, joilla se ei ole kriittinen tekijä.
 
- 
-
-•   
-Puolet nuorista aikuisista on suorittanut
-korkeakoulututkinnon 2030-luvun alussa ja 70 % vuoteen 2040 mennessä.
-
-•   
-Jatkuva oppiminen on varmistettava kaiken
-ikäisille.
-
-•   
-Lisätään korkeakoulujen aloituspaikkoja kaikille
-osaajatarvealoille.
-
-•   
-Laajennetaan voimakkaasti oppisopimuskoulutusta
-kohdennettuna niille 20–35- vuotiaille, joilta puuttuu toisen asteen tutkinto.
-
-•   
-Palautetaan perustutkimuksen rahoitus
-kansainvälisesti korkealle tasolle Suomen Akatemian ja yliopistojen rahoituksen
-pysyvällä nostolla.
-
-•   
-Varmistetaan, että Suomen korkeakoulutus
-mahdollistaa tieteenalat ylittävän koulutuksen, jotta se pystyy tarjoamaan
-osaamista tulevaisuuden muuttuviin tarpeisiin.
-
-•   
-Kehitetään julkisesti tuettuja yritysten
-yhteishankintakoulutuksia, kuten täsmä-, rekry- ja muutoskoulutuksia joustavammiksi
-ja yrityslähtöisemmiksi.
-
-•   
-Luodaan ammatilliseen, yliopisto- ja
-täydennyskoulutukseen digitaalisia opintokokonaisuuksia, joita voi suorittaa
-joustavasti aika- ja paikkariippumattomasti.
-
- 
-
-Tavoitteena työhön johtava maahanmuutto
-
- 
-
-Jokaisella Suomeen muuttaneella tulee maahantulon syystä
-riippumatta olla parhaat mahdollisuudet työllistyä, tulla toimeen ja
-kiinnittyä  yhteiskuntaan. Siksi eri
-syistä maahan muuttaneiden on nykyistä nopeammin päästävä omaa koulutusta
-vastaaviin tehtäviin tai opiskelemaan. Meidän tulee päästä eroon siitä, että
-osaavat ihmiset joutuvat työskentelemään osaamistaan alemman tason
-työtehtävissä tai että kielitaidon puute estää työllistymisen aloilla, joilla
-se ei ole kriittinen tekijä.
-
- 
-
-Suomeen tulevat korkeakouluopiskelijat ovat valtava
-voimavara, jos heidät saadaan jäämään Suomeen töihin. Kansainvälisten
-opiskelijoiden työllistymistä Suomeen opiskelujen aikana ja valmistumisen
+Suomeen tulevat korkeakouluopiskelijat ovat valtava voimavara, jos heidät saadaan jäämään Suomeen töihin. Kansainvälisten opiskelijoiden työllistymistä Suomeen opiskelujen aikana ja valmistumisen
 jälkeen tuleekin tukea.
 
- 
+Tärkeä vetovoimatekijä kansainvälisille osaajille ovat mahdollisuudet puolison työllistymiseen ja lasten mielekkääseen maahan asettumiseen. Väliaikaisesti Suomeen muuttaville perheille tulee tarjota myös englanninkielistä koulutusta ja varhaiskasvatusta. Suomeen pysyvästi muuttavien osalta on tärkeää mahdollistaa kotimaisten kielten oppiminen.
 
-Tärkeä vetovoimatekijä kansainvälisille osaajille ovat
-mahdollisuudet puolison työllistymiseen ja lasten mielekkääseen maahan
-asettumiseen. Väliaikaisesti Suomeen muuttaville perheille tulee tarjota myös
-englanninkielistä koulutusta ja varhaiskasvatusta. Suomeen pysyvästi muuttavien
-osalta on tärkeää mahdollistaa kotimaisten kielten oppiminen.
+* Käynnistetään korkeakoulujen yhteinen työharjoitteluohjelma ja parannetaan korkeakouluopiskelijoiden mahdollisuutta opiskella suomea ja ruotsia.
+* Toteutetaan kotoutumiskoulutuksesta selvästi nykyistä suurempi osa palkkatuettuna oppisopimuskoulutuksena, johon kytketään oikeus kieliopintoihin.
+* Helpotetaan kotimaisten kielten osaamisvaatimuksia siellä, missä se on mahdollista.
+* Lisätään englanninkielistä varhaiskasvatusta.
+* Parannetaan Suomen houkuttelevuutta ulkomailta tuleville huippuosaajille huolehtimalla puolisoiden työllistymisestä, lasten koulutuspaikoista ja muusta kotoutuksesta sekä selvittämällä väliaikaisten veroetujen vaikuttavuutta.
 
- 
+Lue lisää Vihreiden [Maahanmuuttopoliittisesta ohjelmasta (2022)](https://www.vihreat.fi/maahanmuuttopoliittinen-ohjelma/#tavoitteena-työhön-johtava-maahanmuutto "").
 
-•   
-Käynnistetään korkeakoulujen yhteinen
-työharjoitteluohjelma ja parannetaan korkeakouluopiskelijoiden mahdollisuutta
-opiskella suomea ja ruotsia.
+### Tasa-arvo ja yhdenvertaisuus elinkeinopolitiikan keinona
 
-•   
-Toteutetaan kotoutumiskoulutuksesta selvästi
-nykyistä suurempi osa palkkatuettuna oppisopimuskoulutuksena, johon kytketään
-oikeus kieliopintoihin.
+Työelämän tasa-arvon ja yhdenvertaisuuden parantaminen on elinkeinopolitiikkaa, jolla edistetään työvoiman saatavuutta, työhyvinvointia sekä työyhteisöjen luovuutta. Työmarkkinoiden sukupuolittuneisuus sekä rasistiset ja muut syrjivät rakenteet hukkaavat ihmisten potentiaalia ja kasvun mahdollisuuksia. Erityisesti teknologia-alat ovat erittäin sukupuolittuneita, ja tasa-arvon ja yhdenvertaisuuden lisääminen olisi tärkeää sekä reiluuden että diversiteetin tuomien etujen takia. Muutos vaatii mm. panostuksia varhaiskasvatuksen ammattilaisten, opettajien ja opinto-ohjaajien koulutukseen, jotta nuorten koulutuspaikkavalinnat eivät perustu pelkästään sukupuoleen.
 
-•   
-Helpotetaan kotimaisten kielten
-osaamisvaatimuksia siellä, missä se on mahdollista.
+Mahdollisuus toimeentulon hankkimiseen työtä tekemällä on perustuslain jokaiselle turvaama perusoikeus. Siksi on rakennettava kannustimia ja toimintamalleja, joilla eri syistä heikoimmin työllistyvät ja täsmätyökykyiset pääsevät työn pariin.
 
-•   
-Lisätään englanninkielistä varhaiskasvatusta.
+* Korjataan työelämän sukupuolittuneita rakenteita esimerkiksi kehittämällä palkka-avoimuutta, inklusiivista ja anonyymiä rekrytointia sekä vahvistamalla koulutusammattilaisten osaamista.
+* Edistetään vanhempainvapaiden tasaisempaa jakautumista.
+* Tiukennetaan työnantajien velvoitteita tasa-arvo- ja yhdenvertaisuustyöhön, määritellään sanktiot
+  tasa-arvorikkomuksille ja laiminlyönneille ja vahvistetaan henkilöstöedustajien tiedonsaantioikeutta.
+* Raportoidaan innovaatiotukien sukupuoli- ja yhdenvertaisuustiedot ja otetaan käyttöön innovaatiopolitiikan sukupuoli- ja yhdenvertaisuuden vaikuttavuusarviot.
+* Kehitetään täsmätyökykyisten työllistymiseen malleja, joissa työllistyminen tulee kannattavaksi myös työnantajalle.
+* Kehitetään hakevaa toimintaa, jonka tavoitteena on työelämän ulkopuolelle joutuneiden saaminen työllistymistä edistävien koulutus-, sosiaali- ja terveyspalveluiden pariin.
 
-•   
-Parannetaan Suomen houkuttelevuutta ulkomailta
-tuleville huippuosaajille huolehtimalla puolisoiden työllistymisestä, lasten
-koulutuspaikoista ja muusta kotoutuksesta sekä selvittämällä väliaikaisten
-veroetujen vaikuttavuutta.
+### Työelämän murroksessa tarvitaan joustavuutta ja reiluja turvaverkkoja
 
- 
+Oikeus toimeentuloon ja reiluihin työehtoihin on turvattava kaikille. Samalla pitää tunnistaa yritysten muuttuva kilpailuympäristö ja sen toimialakohtaiset erot. Ratkaisuja ovat joustava työlainsäädäntö, joka turvaa ihmisten hyvinvoinnin, sekä perustulo. Perustulo auttaa pitämään mukana työelämässä mahdollisimman laajan osan työikäisestä väestöstä, sillä se luo joustavuutta ja turvaa muuttuvaan työelämään. Se myös kannustaa työn vastaanottamiseen ja yrittäjyyteen.
 
-Lue lisää Vihreiden [Maahanmuuttopoliittisesta
-ohjelmasta (2022)](https://www.vihreat.fi/maahanmuuttopoliittinen-ohjelma/#tavoitteena-työhön-johtava-maahanmuutto "").
+Alustatyö ja työttömyystuen joustot on otettava lainsäädännössä paremmin huomioon esimerkiksi opiskeluun ja pienimuotoiseen yrittämiseen liittyen. Alustayritysten kautta työtä tekevien eläke- ja sosiaaliturvan toteutumista tulee parantaa riippumatta siitä, toimiiko alustaa käyttävä tekijä yrityksen, toiminimen vai itseään työllistävän työntekijän roolissa. Lisäksi yrittäjinä alustojen kautta työskentelevien tulee
+voida järjestäytyä parantaakseen neuvotteluasemaansa suhteessa alustan tarjoajaan.
 
- 
+* Uudistetaan työlainsäädäntöä niin, että se turvaa lakisääteisesti kaikkien työntekijöiden aseman riittävällä tasolla ja samalla mahdollistaa toimialakohtaisen ja paikallisesti sovittavan
+  joustavuuden.
+* Mahdollistetaan alustayrittäjien eläke- ja sosiaaliturvamaksujen pidättäminen palkkiosta ja maksaminen suoraan alustan kautta sekä tietojen välittäminen automaattisesti alustayrityksiltä viranomaisten sekä eläke- ja vakuutusyhtiöiden käyttöön.
+* Parannetaan alustayrittäjien asemaa sallimalla järjestäytyminen ilman pelkoa kartellisyytteistä.
+* Mahdollistetaan työttömyysetuutta saavalle henkilölle sivutoiminen ja pienimuotoinen yrittäjyys ilman pelkoa työttömyystuen menettämisestä.
+* Luodaan joustoja työttömyystuella opiskeluun, jotta ihmiset voivat tarvittaessa opiskella ja parantaa
+  työllistymismahdollisuuksiaan ilman pelkoa työttömyystuen menettämisestä.
+* Otetaan käyttöön perustulo, jolla turvataan ihmisten pärjääminen myös elämäntilanteen muutoksissa.
 
-Tasa-arvo ja yhdenvertaisuus elinkeinopolitiikan keinona
+### Lokeroinnista kohti yhteisiä periaatteita
 
- 
-
-Työelämän tasa-arvon ja yhdenvertaisuuden parantaminen on elinkeinopolitiikkaa,
-jolla edistetään työvoiman saatavuutta, työhyvinvointia sekä työyhteisöjen
-luovuutta. Työmarkkinoiden sukupuolittuneisuus sekä rasistiset ja muut syrjivät
-rakenteet hukkaavat ihmisten potentiaalia ja kasvun mahdollisuuksia. Erityisesti
-teknologia-alat ovat erittäin sukupuolittuneita, ja tasa-arvon ja
-yhdenvertaisuuden lisääminen olisi tärkeää sekä reiluuden että diversiteetin
-tuomien etujen takia. Muutos vaatii mm. panostuksia varhaiskasvatuksen
-ammattilaisten, opettajien ja opinto-ohjaajien koulutukseen, jotta nuorten
-koulutuspaikkavalinnat eivät perustu pelkästään sukupuoleen.
-
- 
-
-Mahdollisuus toimeentulon hankkimiseen työtä tekemällä on
-perustuslain jokaiselle turvaama perusoikeus. Siksi on rakennettava kannustimia
-ja toimintamalleja, joilla eri syistä heikoimmin työllistyvät ja
-täsmätyökykyiset pääsevät työn pariin.
-
- 
-
-•   
-Korjataan työelämän sukupuolittuneita rakenteita
-esimerkiksi kehittämällä palkka-avoimuutta, inklusiivista ja anonyymiä
-rekrytointia sekä vahvistamalla koulutusammattilaisten osaamista.
-
-•   
-Edistetään vanhempainvapaiden tasaisempaa
-jakautumista.
-
-•   
-Tiukennetaan työnantajien velvoitteita
-tasa-arvo- ja yhdenvertaisuustyöhön, määritellään sanktiot
-tasa-arvorikkomuksille ja laiminlyönneille ja vahvistetaan henkilöstöedustajien
-tiedonsaantioikeutta.
-
-•   
-Raportoidaan innovaatiotukien sukupuoli- ja
-yhdenvertaisuustiedot ja otetaan käyttöön innovaatiopolitiikan sukupuoli- ja
-yhdenvertaisuuden vaikuttavuusarviot.
-
-•   
-Kehitetään täsmätyökykyisten työllistymiseen
-malleja, joissa työllistyminen tulee kannattavaksi myös työnantajalle.
-
-•   
-Kehitetään hakevaa toimintaa, jonka tavoitteena
-on työelämän ulkopuolelle joutuneiden saaminen työllistymistä edistävien
-koulutus-, sosiaali- ja terveyspalveluiden pariin.
-
- 
-
-Työelämän murroksessa tarvitaan joustavuutta ja reiluja
-turvaverkkoja
-
- 
-
-Oikeus toimeentuloon ja reiluihin työehtoihin on turvattava
-kaikille. Samalla pitää tunnistaa yritysten muuttuva kilpailuympäristö ja sen
-toimialakohtaiset erot. Ratkaisuja ovat joustava työlainsäädäntö, joka turvaa
-ihmisten hyvinvoinnin, sekä perustulo. Perustulo auttaa pitämään mukana
-työelämässä mahdollisimman laajan osan työikäisestä väestöstä, sillä se luo
-joustavuutta ja turvaa muuttuvaan työelämään. Se myös kannustaa työn
-vastaanottamiseen ja yrittäjyyteen.
-
- 
-
-Alustatyö ja  työttömyystuen
-joustot on otettava lainsäädännössä paremmin huomioon esimerkiksi opiskeluun ja
-pienimuotoiseen yrittämiseen liittyen. Alustayritysten kautta työtä tekevien
-eläke- ja sosiaaliturvan toteutumista tulee parantaa riippumatta siitä,
-toimiiko alustaa käyttävä tekijä yrityksen, toiminimen vai itseään työllistävän
-työntekijän roolissa. Lisäksi yrittäjinä alustojen kautta työskentelevien tulee
-voida järjestäytyä parantaakseen neuvotteluasemaansa suhteessa alustan
-tarjoajaan.
-
- 
-
-•   
-Uudistetaan työlainsäädäntöä niin, että se
-turvaa lakisääteisesti kaikkien työntekijöiden aseman riittävällä tasolla ja
-samalla mahdollistaa toimialakohtaisen ja paikallisesti sovittavan
-joustavuuden.
-
-•   
-Mahdollistetaan alustayrittäjien eläke- ja
-sosiaaliturvamaksujen pidättäminen palkkiosta ja maksaminen suoraan alustan
-kautta sekä tietojen välittäminen automaattisesti alustayrityksiltä
-viranomaisten sekä eläke- ja vakuutusyhtiöiden käyttöön.
-
-•   
-Parannetaan alustayrittäjien asemaa sallimalla
-järjestäytyminen ilman pelkoa kartellisyytteistä.
-
-•   
-Mahdollistetaan työttömyysetuutta saavalle
-henkilölle sivutoiminen ja pienimuotoinen yrittäjyys ilman pelkoa
-työttömyystuen menettämisestä.
-
-•   
-Luodaan joustoja työttömyystuella opiskeluun,
-jotta ihmiset voivat tarvittaessa opiskella ja parantaa
-työllistymismahdollisuuksiaan ilman pelkoa työttömyystuen menettämisestä.
-
-•   
-Otetaan käyttöön perustulo, jolla turvataan
-ihmisten pärjääminen myös elämäntilanteen muutoksissa.
-
- 
-
-Lokeroinnista kohti yhteisiä periaatteita
-
- 
-
-Verotuksen sekä eläke- ja sosiaaliturvan tulee mahdollistaa
-erilaisten tulomuotojen joustava yhdistäminen oli sitten kyse palkkatuloista,
-yrittäjätuloista, eläkkeistä, apurahoista tai opintotuista. Nykyinen lokerointi
-yrittäjiin, palkansaajiin ja työttömiin tulee häivyttää. Yritystuloa tulee
-kohdella palkkatulon tavoin eläke- ja työttömyysvakuuttamisessa sekä muussa
-sosiaaliturvassa. Toiminimiyrittäjien asemaa voidaan parantaa mm.
-mahdollistamalla sairaan lapsen hoidosta syntyvien kustannusten verovähennys
+Verotuksen sekä eläke- ja sosiaaliturvan tulee mahdollistaa erilaisten tulomuotojen joustava yhdistäminen oli sitten kyse palkkatuloista, yrittäjätuloista, eläkkeistä, apurahoista tai opintotuista. Nykyinen lokerointi yrittäjiin, palkansaajiin ja työttömiin tulee häivyttää. Yritystuloa tulee kohdella palkkatulon tavoin eläke- ja työttömyysvakuuttamisessa sekä muussa sosiaaliturvassa. Toiminimiyrittäjien asemaa voidaan parantaa mm. mahdollistamalla sairaan lapsen hoidosta syntyvien kustannusten verovähennys
 vastaavalla tavalla kuin muissa yritysmuodoissa.
 
- 
+Joustava tulomuotojen yhdistely edellyttää myös reaaliaikaista maksujen ja etuuksien laskentaa ja maksatusta. Digitaalisen veroinfrastruktuurin avulla lakisääteinen rahaliikenne valtion, yksilöiden ja yritysten välillä voidaan hoitaa pitkälti automaattisesti.
 
-Joustava tulomuotojen yhdistely edellyttää myös
-reaaliaikaista maksujen ja etuuksien laskentaa ja maksatusta. Digitaalisen
-veroinfrastruktuurin avulla lakisääteinen rahaliikenne valtion, yksilöiden ja
-yritysten välillä voidaan hoitaa pitkälti automaattisesti.
+* Saatetaan itsensätyöllistäjien ja freelancereiden sosiaaliturva tasavertaiseksi palkansaajien kanssa ja tuodaan työskentelyapurahat kokonaisuudessaan sosiaaliturvan piiriin.
+* Yhdistetään palkansaajan ja yrittäjän työttömyysvakuutukset. Mahdollistetaan yrittäjälle työttömyysturva myös, kun työskentely yrityksessä päättyy ilman työkyvyttömyyttä tai yrityksen
+  lopettamista.
+* Kaikille tulee mahdollistaa työnteon, yrittämisen, opintojen tai eläkkeen joustava yhdistäminen esimerkiksi osa-aikatyön edellytyksiä parantamalla.
+* Sallitaan toiminimiyrittäjän vähentää verotuksessa sairaan lapsen hoitajan tai sijaisen palkka.
+* Kehitetään tulorekisteriä ja digitaalista veroinfrastruktuuria kaikki tulomuodot yhteentuovaksi reaaliaikaiseksi alustaksi.
 
- 
-
-•   
-Saatetaan itsensätyöllistäjien ja
-freelancereiden sosiaaliturva tasavertaiseksi palkansaajien kanssa ja tuodaan
-työskentelyapurahat kokonaisuudessaan sosiaaliturvan piiriin.
-
-•   
-Yhdistetään palkansaajan ja yrittäjän
-työttömyysvakuutukset. Mahdollistetaan yrittäjälle työttömyysturva myös, kun
-työskentely yrityksessä päättyy ilman työkyvyttömyyttä tai yrityksen
-lopettamista.
-
-•   
-Kaikille tulee mahdollistaa työnteon,
-yrittämisen, opintojen tai eläkkeen joustava yhdistäminen esimerkiksi
-osa-aikatyön edellytyksiä parantamalla.
-
-•   
-Sallitaan toiminimiyrittäjän vähentää
-verotuksessa sairaan lapsen hoitajan tai sijaisen palkka.
-
-•   
-Kehitetään tulorekisteriä ja digitaalista
-veroinfrastruktuuria kaikki tulomuodot yhteentuovaksi reaaliaikaiseksi alustaksi.
-
- 
-
-[5. INNOVAATIOT
-ELINKEINOTOIMINNAN KULMAKIVINÄ](<> "")
-======================================
-
- 
+# [5. INNOVAATIOT ELINKEINOTOIMINNAN KULMAKIVINÄ](<> "")
 
 Vihreällä innovaatiopolitiikalla vauhditetaan kestäviin
 ratkaisuihin perustuvan elinkeinotoiminnan kehittymistä. Vaikuttava
