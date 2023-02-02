@@ -40,9 +40,7 @@ tags:
 
 [8.3. MAASEUDUN ELINKEINOT VAHVEMMIKSI](#maaseudun-elinkeinot "")
 
-<a name="vihrea-talous"> ## 1. VIHREÄ TALOUS ELINKEINOPOLITIIKAN LÄHTÖKOHTANA</a>
-
-***
+## 1. VIHREÄ TALOUS ELINKEINOPOLITIIKAN LÄHTÖKOHTANA
 
 Hyvän elinkeinopolitiikan edellytys on vihreän talouden kokonaiskuvan hahmottaminen. Markkinoiden ja talouden keinoja tulee käyttää mahdollisimman vaikuttavasti yhteiskunnallisten tavoitteiden saavuttamiseksi.
 
@@ -92,7 +90,7 @@ Elinkeinopolitiikan yhtenä tavoitteena on monipuolinen elinkeinorakenne, joka k
 
 Onnellisuus- ja hyvinvointitutkimuksissa pääsääntöisesti parhaiten pärjäävät ne vauraat länsimaat, joissa vaurautta on jaettu tasaisimmin. Planeetan kantokyvyn rajoissa toimiminen haastaa hyvinvointia entisestään, kun kaikille tulee turvata hyvän elämän edellytykset. Pohjoismaat ovat hyviä sekä talouden perinteisissä kovissa mittareissa, kuten vauraus ja alouden innovatiivisuus, että ihmisten hyvinvoinnin ja sen tasa-arvoisen jakautumisen mittareissa. Vaurautta ja hyvinvointia kannattaa pyrkiä levittämään poliittisilla ratkaisuilla.
 
-## [2. YRITTÄJYYS ELINVOIMAN TUOJANA](<> "")
+## 2. YRITTÄJYYS ELINVOIMAN TUOJANA
 
 Hyvinvointivaltion yhtenä kivijalkana toimivat yritykset, niin työllistävät yritykset kuin yhden hengen itsensätyöllistäjät. Vihreät haluaa edesauttaa yhä useamman yrityksen syntymistä ja kasvamista varteenottavaksi työnantajaksi ja hyvinvoinnin rakentajaksi.
 
@@ -179,7 +177,7 @@ Yrityksen lopettaminen voi olla monivaiheinen ja hidas prosessi, joka vaatii asi
 * Poistetaan verottajalta oikeus evätä uuden yrityksen ennakkoperintärekisteriin merkitseminen, kun yrittäjällä ei ole aiemman konkurssin väärinkäytöksiä eikä liiketoimintakieltoa.
 * Huolehditaan pankkisääntelyssä, ettei esimerkiksi konkurssiin päätyneen yrityksen hallituksen jäsenenä toimiminen estä uuden yritystoiminnan aloittamista ja rahoituksen saamista.
 
-## [3. VIHREÄ VEROUUDISTUS](<> "")
+## 3. VIHREÄ VEROUUDISTUS
 
 Talouden sopeuttaminen ympäristön rajoihin, työmarkkinoiden muutokset ja Suomen väestön ikääntyminen edellyttävät verotuksen uudistamista. Vihreän verouudistuksen tavoite on kannustaa kuluttajia ja yrityksiä vähäpäästöisiin ratkaisuihin ja varmistaa hyvinvointivaltion rahoitus oikeudenmukaisella tavalla.
 
@@ -259,7 +257,7 @@ Elintarvikkeiden terveysperusteisella verolla vähennettäisiin liiallisen suola
 * Otetaan käyttöön maltillinen varallisuusvero suurille omaisuuksille.
 * Otetaan vaiheittain käyttöön elintarvikkeiden laaja-alainen terveysvero.
 
-## [4. OSAAMISEN VARMISTAMINEN JA JOUSTAVAT TYÖMARKKINAT](<> "")
+## 4. OSAAMISEN VARMISTAMINEN JA JOUSTAVAT TYÖMARKKINAT
 
 saavan työvoiman saatavuus sekä talouden muutoksiin vastaavat työmarkkinat ovat edellytyksiä menestyvälle elinkeinoelämälle. Osaavat työntekijät ovat myös yksi tärkeä tekijä silloin, kun kansainväliset yritykset miettivät sijoittumista ja investointikohteita.
 
@@ -334,8 +332,7 @@ voida järjestäytyä parantaakseen neuvotteluasemaansa suhteessa alustan tarjoa
 * Mahdollistetaan alustayrittäjien eläke- ja sosiaaliturvamaksujen pidättäminen palkkiosta ja maksaminen suoraan alustan kautta sekä tietojen välittäminen automaattisesti alustayrityksiltä viranomaisten sekä eläke- ja vakuutusyhtiöiden käyttöön.
 * Parannetaan alustayrittäjien asemaa sallimalla järjestäytyminen ilman pelkoa kartellisyytteistä.
 * Mahdollistetaan työttömyysetuutta saavalle henkilölle sivutoiminen ja pienimuotoinen yrittäjyys ilman pelkoa työttömyystuen menettämisestä.
-* Luodaan joustoja työttömyystuella opiskeluun, jotta ihmiset voivat tarvittaessa opiskella ja parantaa
-  työllistymismahdollisuuksiaan ilman pelkoa työttömyystuen menettämisestä.
+* Luodaan joustoja työttömyystuella opiskeluun, jotta ihmiset voivat tarvittaessa opiskella ja parantaa työllistymismahdollisuuksiaan ilman pelkoa työttömyystuen menettämisestä.
 * Otetaan käyttöön perustulo, jolla turvataan ihmisten pärjääminen myös elämäntilanteen muutoksissa.
 
 ### Lokeroinnista kohti yhteisiä periaatteita
@@ -352,7 +349,7 @@ Joustava tulomuotojen yhdistely edellyttää myös reaaliaikaista maksujen ja et
 * Sallitaan toiminimiyrittäjän vähentää verotuksessa sairaan lapsen hoitajan tai sijaisen palkka.
 * Kehitetään tulorekisteriä ja digitaalista veroinfrastruktuuria kaikki tulomuodot yhteentuovaksi reaaliaikaiseksi alustaksi.
 
-# [5. INNOVAATIOT ELINKEINOTOIMINNAN KULMAKIVINÄ](<> "")
+## 5. INNOVAATIOT ELINKEINOTOIMINNAN KULMAKIVINÄ
 
 Vihreällä innovaatiopolitiikalla vauhditetaan kestäviin ratkaisuihin perustuvan elinkeinotoiminnan kehittymistä. Vaikuttava innovaatiopolitiikka tukee edelläkävijämarkkinan syntymistä.
 
@@ -397,7 +394,7 @@ Lisääntyvä tutkimustoimintaan panostaminen tukee osaamiseen pohjautuvien inno
 * Kehitetään julkisen sektorin kestävien ja innovatiivisten hankintojen johtamista ja osaamista mm. poikkisektoraaliseen KEINO-ohjelmaan panostamalla.
 * Muokataan toimintaympäristöä innovaatioystävällisemmäksi muun muassa kokeilulainsäädännön ja lainsäädännöllisten esteiden poistamisen ja ennaltaehkäisemisen kautta.
 
-# [6. KESTÄVÄ KANSAINVÄLINEN TALOUS](<> "")
+## 6. KESTÄVÄ KANSAINVÄLINEN TALOUS
 
 Ajatusten, tavaroiden ja palveluiden liikkuminen rajojen yli on Suomen kaltaiselle pienelle avoimelle taloudelle elinehto. Se on myös keino vähentää köyhyyttä maailmanlaajuisesti. Jotta globalisaatio on
 ekologisesti ja sosiaalisesti kestävää, tulee kansainvälisen kaupan sääntöjen huomioida vaikutukset eri ihmisryhmiin ja ympäristöön.
@@ -418,8 +415,7 @@ Kansainvälisellä verotuksella on tässä keskeinen rooli. Suomen tulee edistä
 Sekä yrityksillä että valtioilla on roolinsa ihmisoikeuksien toteutumisessa. Yritysten ihmisoikeusvaikutusten huomioiminen lisää talouden ja tuotantoketjujen toimintakykyä poikkeustilanteissa. EU:n tulee olla aktiivinen vaikuttaja ja säätää yritysvastuulaki, joka sisältää mm. ilmastoa koskevan huolellisuusvelvoitteen sekä antaa yritystoiminnan haitallisten vaikutusten uhreille kanneoikeuden EU-jäsenmaiden tuomioistuimisssa. EU:n lainsäädäntö vaikuttaa yrityksiin myös Euroopan ulkopuolella.
 
 * Edistetään EU:ssa ja kansainvälisesti yhteistyötä maiden välisen verokilpailun sekä siihen rinnastuvan epäterveen yritystuilla kilpailun hillitsemiseksi. Pyritään asteittain nousevaan yhteisöveron vähimmäiskantaan sekä tiiviisiin veropohjiin.
-* Säädetään EU:n laajuinen yritysvastuulaki, joka ulottaa ihmisoikeus- ja ympäristövastuun koko globaaliin arvoketjuun. Toimeenpannaan direktiivi säätämällä kunnianhimoinen kansallinen
-  yritysvastuulaki.
+* Säädetään EU:n laajuinen yritysvastuulaki, joka ulottaa ihmisoikeus- ja ympäristövastuun koko globaaliin arvoketjuun. Toimeenpannaan direktiivi säätämällä kunnianhimoinen kansallinen yritysvastuulaki.
 * Vähennetään kaupankäyntiä ja riippuvuutta ihmis- ja ympäristöoikeuksia polkevista talouksista edistämällä ympäristö ja ihmisoikeudet huomioivaa kauppapolitiikkaa EU:ssa.
 * Vahvistetaan yritysten todellisten edunsaajien julkisuutta tekemällä edunsaajarekisteristä maksuton ja parantamalla sen käytettävyyttä.
 
@@ -427,9 +423,7 @@ Sekä yrityksillä että valtioilla on roolinsa ihmisoikeuksien toteutumisessa. 
 
 Päästökauppa on tehokkain tapa ohjata yrityksiä vähentämään päästöjään. Kaikkeen tuotantoon Euroopan ulkopuolella ei kuitenkaan kohdistu samanlaista päästöjen hintaohjausta, mikä voi maailmanlaajuisessa kilpailussa heikentää eurooppalaisten yritysten kilpailukykyä.
 
-* Edistetään hiilen hinnoittelun leviämistä ja
-  EU-alueen hiilitullien käyttöä niin, että vaikutukset köyhimpiin maihin
-  kompensoidaan niille.
+* Edistetään hiilen hinnoittelun leviämistä ja EU-alueen hiilitullien käyttöä niin, että vaikutukset köyhimpiin maihin kompensoidaan niille.
 * Varmistetaan etteivät esimerkiksi investointisuojasopimukset ja -lausekkeet estä kunnianhimoista ilmasto- ja ympäristöpolitiikkaa.
 * Kannustetaan muita maita ottamaan päästökauppa käyttöön ja linkittämään markkinat eurooppalaiseen päästökauppaan.
 
@@ -441,10 +435,9 @@ Standardisointi on noussut suurvaltojen valtakilpailun kentäksi. Vaikutusvalta 
 
 * Kasvatetaan teknologista ja teollista omistajuutta ja omavaraisuutta strategisesti kriittisillä toimialoilla koko EU:n tasolla.
 * Tarkastellaan EU:n ja ETA-maiden ulkopuolisia investointeja Suomeen myös strategisen, turvallisuuspoliittisen ulottuvuuden näkökulmasta.
-* Laaditaan kansallinen standardisointistrategia, jolla vaikutetaan digivihreän siirtymän toteutumiseen ja vahvistetaan kilpailukykyämme. Valitaan painopistealueet, joilla olemme suunnitelmallisesti
-  vaikuttamassa globaaleihin pelisääntöihin osana EU:ta.
+* Laaditaan kansallinen standardisointistrategia, jolla vaikutetaan digivihreän siirtymän toteutumiseen ja vahvistetaan kilpailukykyämme. Valitaan painopistealueet, joilla olemme suunnitelmallisesti vaikuttamassa globaaleihin pelisääntöihin osana EU:ta.
 
-# [7. YRITYSTUILLA KOHTI VIHREÄÄ SIIRTYMÄÄ](<> "")
+## 7. YRITYSTUILLA KOHTI VIHREÄÄ SIIRTYMÄÄ
 
 Yritystukien tulee olla kannattavia sijoituksia. Huonosti kohdennettuina ne ovat haitallisia. Tärkeää on uudistaa yrityskenttää ja varmistaa, että yritystuilla saavutetaan halutut yhteiskunnalliset tavoitteet.
 
@@ -464,7 +457,7 @@ tulevaisuustyöhön. Pk-yrityksille tuki tutkimus- ja kehitystoimintaan on tärk
 * Luodaan tekniselle hiilensidonnalle selkeä sääntelykehikko ja riittävät taloudelliset kannustimet, jotta se yleistyy ilmastotavoitteittemme edellyttämässä tahdissa.
 * Vaaditaan suurille yrityksille myönnettäviin uudistavan rahoituksen hankkeisiin kumppanuuksia pienempien yritysten sekä tutkimusorganisaatioiden kanssa.
 
-# [8. KESTÄVIEN ELINKEINOJEN SUOMI](<> "")
+## 8. KESTÄVIEN ELINKEINOJEN SUOMI
 
 Vihreän elinkeinopolitiikan ytimessä on elinkeinorakenteen jatkuva uudistuminen. Elinkeinorakenne vaikuttaa keskeisesti siihen, kuinka hyvin Suomi pystyy toimimaan luonnonvarojen kannalta kestävissä rajoissa ja kilpailemaan kansainvälisesti. Suomi ei ole pitkään aikaan ollut luonnonvaraintensiivinen talous. Kansantaloutemme pohjautuu osaamiseen ja ihmisiin.
 
@@ -473,7 +466,7 @@ osaamisintensiivisten palvelujen ja aineettoman tuotannon osuuden tulee kasvaa m
 
 Tässä linjauksessa tarkempaan käsittelyyn on valittu korkean osaamisen palvelut, teollisuus, kiertotalous, alkutuotanto ja ruokaketju. Näiden alojen uudistumisella on olennainen merkitys vihreän siirtymän onnistumisessa ja ne ovat merkittäviä talouden ja työllisyyden näkökulmasta.
 
-## [8.1. MENESTYSTÄ OSAAMISINTENSIIVISISTÄ PALVELUISTA](<> "")
+### 8.1. MENESTYSTÄ OSAAMISINTENSIIVISISTÄ PALVELUISTA
 
 Digitalisaatio on muuttanut perinteisiä asetelmia. Valokuitua pitkin koko maailma on tavoitettavissa sekunneissa Ilomantsin Möhköstä Hongkongiin. Alueellinen elinvoima ei ole riippuvainen vain raskaasta
 teollisuudesta, vaan työpaikkoja syntyy myös palveluviennistä. Erityisesti kaupungeissa palveluihin ja kulttuurialoihin pohjautuva vienti muodostavat nyt ja tulevaisuudessa suuren osuuden liiketoiminnasta. Vihreä elinkeinopolitiikka tunnistaakin kaupunkien merkityksen Suomen elinvoimaisuuden ja kehityksen
@@ -498,7 +491,7 @@ Vertailukohta löytyy esimerkiksi naapurimaa Ruotsin saavuttamasta asemasta moni
 * Vauhditetaan yritysten digitalisaatiota mm. laajentamalla T\&K-verohuojennus koskemaan yritysten tekemiä data-, pilvipalvelu- ja ICT-investointeja.
 * Jatketaan audiovisuaalisen alan tuotantotukea.
 
-## [8.2. TEOLLISUUS MAHDOLLISTAA VIHREÄN SIIRTYMÄN](<> "")
+### 8.2. TEOLLISUUS MAHDOLLISTAA VIHREÄN SIIRTYMÄN
 
 Vihreän teollisuuspolitiikan tavoitteena on edistää suomalaisen ja eurooppalaisen teollisuuden kilpailu- ja uudistumiskykyä huolehtien samalla sen kestävyyssiirtymästä. Käytännössä vihreällä teollisuuspolitiikalla edistetään teollisuuden hiilivapaata energiakäyttöä sekä pysäytetään teollisesta toiminnasta aiheutuvaa luontokatoa edistämällä kiertotalousratkaisuja. Teollisuus on avainasemassa vihreän siirtymän edistämisessä, ja tavoitteiden saavuttaminen vaatii valtavan mittaluokan investointeja.
 
@@ -538,7 +531,7 @@ Uusien kestävien energiatuotannon ja varastoinnin ratkaisujen kehittämiseen ja
 * Ohjataan tutkimus- ja kehitysrahoitusta energiainnovaatioiden kehittämiseen ja demohankkeisiin.
 * Uusien ratkaisujen käyttöönottoa on tuettava ja sujuvoitettava erityisesti sääntelyn avulla.
 
-## [8.3. MAASEUDUN ELINKEINOT VAHVEMMIKSI](<> "")
+### 8.3. MAASEUDUN ELINKEINOT VAHVEMMIKSI
 
 Vahvistetaan maaseudun elinkeinoja ottamalla käyttöön kustannustehokkaimmat toimet suomalaisen luonnon pelastamiseen ja hiilivarastojen lisäämiseen.
 
@@ -579,5 +572,3 @@ Luonto- ja ilmastotavoitteet asettavat reunaehdot vihreälle elinkeinopolitiikal
 * Uudistetaan maatalouden tukia niin, että ne ohjaavat ilmasto- ja luontomyönteisempään tuotantoon sekä parempaan tuotantoeläinten hyvinvointiin. Huomioidaan tukijärjestelmässä vahvemmin myös viljelykelpoista maata uudistavat viljelymenetelmät.
 * Kehitetään kuluttajadataan perustuvia järjestelmiä, jotta tieto kuluttajien käytöksestä voidaan asiakkaan luvalla jakaa kaikille ruokaketjun toimijoille.
 * Suunnataan tuottajien neuvontapalvelut kannattavan yritystoiminnan kehittämiseen ja ennakoivaan markkinamuutoksiin sopeutumiseen.
-
-     &#x20;
