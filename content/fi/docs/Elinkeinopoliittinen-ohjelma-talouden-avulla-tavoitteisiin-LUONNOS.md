@@ -201,244 +201,70 @@ Yrityksen lopettaminen voi olla monivaiheinen ja hidas prosessi, joka vaatii asi
 
 ## [3. VIHREÄ VEROUUDISTUS](<> "")
 
-Talouden sopeuttaminen ympäristön rajoihin,
-työmarkkinoiden muutokset ja Suomen väestön ikääntyminen edellyttävät
-verotuksen uudistamista. Vihreän verouudistuksen tavoite on kannustaa
-kuluttajia ja yrityksiä vähäpäästöisiin ratkaisuihin ja varmistaa
-hyvinvointivaltion rahoitus oikeudenmukaisella tavalla.
+Talouden sopeuttaminen ympäristön rajoihin, työmarkkinoiden muutokset ja Suomen väestön ikääntyminen edellyttävät verotuksen uudistamista. Vihreän verouudistuksen tavoite on kannustaa kuluttajia ja yrityksiä vähäpäästöisiin ratkaisuihin ja varmistaa hyvinvointivaltion rahoitus oikeudenmukaisella tavalla.
 
- 
+Verotus vaikuttaa suoraan yritysten toimintaympäristöön ja verovaroin tuotetuilla julkisilla palveluilla on myös keskeinen merkitys elinkeinoelämälle. Yritykset tarvitsevat osaavaa ja tervettä työvoimaa, luotettavaa oikeusjärjestelmää, toimivia markkinoita ja riittävää infrastruktuuria.
 
-Verotus vaikuttaa suoraan yritysten toimintaympäristöön ja
-verovaroin tuotetuilla julkisilla palveluilla on myös keskeinen merkitys
-elinkeinoelämälle. Yritykset tarvitsevat osaavaa ja tervettä työvoimaa,
-luotettavaa oikeusjärjestelmää, toimivia markkinoita ja riittävää
-infrastruktuuria.
+Hyvän verojärjestelmän periaatteita ovat yksinkertaisuus, veropohjan laajuus ja tiiviys, neutraalius, tehokkuus sekä verojen kohdentuminen maksukyvyn mukaan. Veroilla on kuitenkin eroja – tässä esitetään vihreä verouudistus elinkeinopolitiikan näkökulmasta keskeisten verolajien osalta.
 
- 
+Verotuksen eri muutosten vaikutuksia on tarkasteltava kokonaisuutena sekä valtiontalouden, tuloerojen että yksittäisen veronmaksajan näkökulmasta. Tavoitteemme on vahvistaa verotuloja ja kaventaa tuloeroja, mutta
+esimerkiksi yrittäjien ja sijoittajien kohdalla tarkastelemme muutosten kokonaisvaikutusta, yhtiöverotus huomioiden.
 
-Hyvän verojärjestelmän periaatteita ovat yksinkertaisuus,
-veropohjan laajuus ja tiiviys, neutraalius, tehokkuus sekä verojen kohdentuminen
-maksukyvyn mukaan. Veroilla on kuitenkin eroja – tässä esitetään vihreä
-verouudistus elinkeinopolitiikan näkökulmasta keskeisten verolajien osalta.
+Päästöjen ja luonnonvarojen käytön verottaminen on markkinalähtöinen tapa hillitä haitallista kulutusta ja suosia vähäpäästöisiä tuotteita ja palveluja. Päästö- ja luonnonvaraverotuksen ensisijainen tehtävä ei ole kerryttää verotuloja, vaan ohjata toimintaa yhteiskunnan kannalta vähemmän haitalliseen suuntaan. Siksi näiden verojen rooli hyvinvointivaltion rahoituksen turvaamisessa on väistämättä rajallinen. Päästöverotuksen
+kompensointi energiarahalla on keino huolehtia ihmisten ostovoimasta ja muutosten sosiaalisesta oikeudenmukaisuudesta. Energiaraha toteuttaisi hiiliosingon periaatetta, jossa päästöjen vähentämiseen tähtäävistä veroista saadut tulot jaetaan kokonaan tai osittain takaisin kansalaisille.
 
- 
+Toimiva yritysverotus kohtelee erikokoisia ja omistuspohjaltaan erilaisia yhtiöitä tasapuolisesti, kannustaa kestävään liiketoimintaan ja edistää toimivia markkinoita. Reilut markkinat edellyttävät myös yritysveropohjan tilkitsemistä lainsäädännöllä Suomessa, EU:n tasolla ja globaalisti.
 
-Verotuksen eri muutosten vaikutuksia on tarkasteltava
-kokonaisuutena sekä valtiontalouden, tuloerojen että yksittäisen veronmaksajan
-näkökulmasta. Tavoitteemme on vahvistaa verotuloja ja kaventaa tuloeroja, mutta
-esimerkiksi yrittäjien ja sijoittajien kohdalla tarkastelemme muutosten
-kokonaisvaikutusta, yhtiöverotus huomioiden.
+Ansio- ja pääomatuloverotus vaikuttavat työmarkkinoihin ja yritysten rahoitusympäristöön. Työikäisen väestön supistumisen takia suuriin tuloveron kevennyksiin ei ole todennäköisesti varaa, jotta peruspalvelut pystytään turvaamaan kaikille. Ansiotuloverotuksen keventäminen yhdessä perustulon kanssa kuitenkin lisää kannusteita työllistää ja työskennellä Suomessa sekä pitää yllä ostovoimaa. Pääomatulojen ansiotuloa matalampi verotus on edistänyt varallisuuden keskittymistä, eikä verotuksen progressiivisuus Suomessa toteudu ylimmissä tuloluokissa. Varallisuuden kasvun tasaisempi jakautuminen lisäisi hyvinvointia, talouden elinvoimaa ja edellytyksiä yrittäjyydelle.
 
- 
-
-Päästöjen ja luonnonvarojen käytön verottaminen on
-markkinalähtöinen tapa hillitä haitallista kulutusta ja suosia vähäpäästöisiä
-tuotteita ja palveluja. Päästö- ja luonnonvaraverotuksen ensisijainen tehtävä
-ei ole kerryttää verotuloja, vaan ohjata toimintaa yhteiskunnan kannalta
-vähemmän haitalliseen suuntaan. Siksi näiden verojen rooli hyvinvointivaltion
-rahoituksen turvaamisessa on väistämättä rajallinen. Päästöverotuksen
-kompensointi energiarahalla on keino huolehtia ihmisten ostovoimasta ja
-muutosten sosiaalisesta oikeudenmukaisuudesta. Energiaraha toteuttaisi
-hiiliosingon periaatetta, jossa päästöjen vähentämiseen tähtäävistä veroista
-saadut tulot jaetaan kokonaan tai osittain takaisin kansalaisille.
-
- 
-
-Toimiva yritysverotus kohtelee erikokoisia ja
-omistuspohjaltaan erilaisia yhtiöitä tasapuolisesti, kannustaa kestävään
-liiketoimintaan ja edistää toimivia markkinoita. Reilut markkinat edellyttävät
-myös yritysveropohjan tilkitsemistä lainsäädännöllä Suomessa, EU:n tasolla ja
-globaalisti.
-
- 
-
-Ansio- ja pääomatuloverotus vaikuttavat työmarkkinoihin ja
-yritysten rahoitusympäristöön. Työikäisen väestön supistumisen takia suuriin
-tuloveron kevennyksiin ei ole todennäköisesti varaa, jotta peruspalvelut
-pystytään turvaamaan kaikille. Ansiotuloverotuksen keventäminen yhdessä
-perustulon kanssa kuitenkin lisää kannusteita työllistää ja työskennellä
-Suomessa sekä pitää yllä ostovoimaa. Pääomatulojen ansiotuloa matalampi verotus
-on edistänyt varallisuuden keskittymistä, eikä verotuksen progressiivisuus
-Suomessa toteudu ylimmissä tuloluokissa. Varallisuuden kasvun tasaisempi
-jakautuminen lisäisi hyvinvointia, talouden elinvoimaa ja edellytyksiä
-yrittäjyydelle.
-
- 
-
-Arvonlisävero koskee käytännössä kaikkea elinkeinotoimintaa
-ja sen tuotto valtiolle on merkittävä. Arvonlisäverotuksen yksinkertaistaminen
-toisi hyötyjä, jos vihreän elinkeinopolitiikan kannalta tärkeitä aloja ja
+Arvonlisävero koskee käytännössä kaikkea elinkeinotoimintaa ja sen tuotto valtiolle on merkittävä. Arvonlisäverotuksen yksinkertaistaminen toisi hyötyjä, jos vihreän elinkeinopolitiikan kannalta tärkeitä aloja ja
 palveluita pystytään tukemaan tehokkaammin toisten ohjauskeinojen avulla.
 
- 
+Vihreän verouudistuksen kokonaisuudessa painotetaan taloutta vähiten vääristäviä veroja, kuten kiinteistöjen, perintöjen ja varallisuuden verottamista, ja toisaalta haittaveroja, joilla pyritään ohjaamaan käyttäytymistä yhteiskunnan kannalta myönteiseen suuntaan.
 
-Vihreän verouudistuksen kokonaisuudessa painotetaan taloutta
-vähiten vääristäviä veroja, kuten kiinteistöjen, perintöjen ja varallisuuden
-verottamista, ja toisaalta haittaveroja, joilla pyritään ohjaamaan
-käyttäytymistä yhteiskunnan kannalta myönteiseen suuntaan.
+### Päästöverotuksella ja energiarahalla päästöt alas oikeudenmukaisesti
 
- 
+Päästö- ja luonnonvaraverojen vaikutus ostovoimaan on järkevintä kompensoida energiarahalla, joka on sidottu kerättyjen päästö- ja luonnonvaraverotulojen määrään. Energiarahan voi jakaa tasaisesti kaikille tai
+kohdentaa tarvelähtöisesti. 
 
-Päästöverotuksella ja energiarahalla päästöt alas
-oikeudenmukaisesti
+* Sidotaan fossiilisten polttoaineiden valmistevero indeksiin, jotta se ohjaa päästövähennyksiin suunnitelmallisesti ja ennakoitavasti. Pitäydytään korotuksista tilanteissa, joissa fossiilisten
+  polttoaineiden hinnat ovat nousseet poikkeuksellisen paljon lyhyessä ajassa.
+* Poistetaan fossiilisten polttoaineiden alennetut verokannat siirtymäajalla.
+* Säädetään vero lentoliikenteelle, jätteenpoltolle, ainespuun polttamiselle  ja neitseelliselle maa-ainekselle. Selvitetään ympäristöperusteista veroa elintarvikkeille.
+* Maksetaan suuri osa päästö- ja luonnonvaraverotuksella kerätyistä tuloista energiarahana takaisin kansalaisille.
 
- 
+### Reilumpi yritysverotus parantaa toimintaympäristöä
 
-Päästö- ja luonnonvaraverojen vaikutus ostovoimaan on
-järkevintä kompensoida energiarahalla, joka on sidottu kerättyjen päästö- ja
-luonnonvaraverotulojen määrään. Energiarahan voi jakaa tasaisesti kaikille tai
-kohdentaa tarvelähtöisesti.
+Yhteisöverokannoilla kilpailemisen aika on päättymässä. Sen osoittaa globaaliin yritysveron minimitasoon tähtäävä OECD:n verouudistus sekä mallin pohjalle rakennettu EU:n minimiverodirektiivi. Suomessa yhteisöveroa laskettiin useaan otteeseen 2000-luvulla, mikä on luonut paineita muualle veropohjaan. 
 
- 
+Listaamattomien yhtiöiden osinkoveron laskennassa tulee siirtyä nettovarallisuuteen perustuvasta mallista selkeisiin euromääräisiin rajoihin. Uudistus kannustaa investointeihin, vähentää esteitä listautumiselle
+ja tukee pienyrittäjiä. Suomi on ainoa Euroopan maa, jossa yrityksen nettovarallisuus vaikuttaa osinkojen verotukseen. Nykymalli suosii aineellisia sijoituksia tekeviä yrityksiä palvelualojen kustannuksella. Samalla se
+kasvattaa varallisuuseroja sekä kannustaa tulonmuuntoon ja verotuksen keventämiseen esimerkiksi sijoitusasunnoilla. Euromääräiset rajat tulee asettaa tasolle, jolla pienen nettovarallisuuden yhtiöstä maksettujen pienten osinkojen verotus kevenee ja suuren nettovarallisuuden yhtiöistä maksettujen suurten osinkojen verotus kiristyy nykyisestä. Uudistus tulee toteuttaa niin, että se vahvistaa verotuloja ja kaventaa tuloeroja.
 
-•   
-Sidotaan fossiilisten polttoaineiden valmistevero
-indeksiin, jotta se ohjaa päästövähennyksiin suunnitelmallisesti ja
-ennakoitavasti. Pitäydytään korotuksista tilanteissa, joissa fossiilisten
-polttoaineiden hinnat ovat nousseet poikkeuksellisen paljon lyhyessä ajassa.
-
-•   
-Poistetaan fossiilisten polttoaineiden alennetut
-verokannat siirtymäajalla.
-
-•   
-Säädetään vero lentoliikenteelle,
-jätteenpoltolle, ainespuun polttamiselle 
-ja neitseelliselle maa-ainekselle. Selvitetään ympäristöperusteista
-veroa elintarvikkeille.
-
-•   
-Maksetaan suuri osa päästö- ja luonnonvaraverotuksella
-kerätyistä tuloista energiarahana takaisin kansalaisille.
-
- 
-
-Reilumpi yritysverotus parantaa toimintaympäristöä
-
- 
-
-Yhteisöverokannoilla kilpailemisen aika on päättymässä. Sen
-osoittaa globaaliin yritysveron minimitasoon tähtäävä OECD:n verouudistus sekä
-mallin pohjalle rakennettu EU:n minimiverodirektiivi. Suomessa yhteisöveroa
-laskettiin useaan otteeseen 2000-luvulla, mikä on luonut paineita muualle
-veropohjaan.
-
- 
-
-Listaamattomien yhtiöiden osinkoveron laskennassa tulee
-siirtyä nettovarallisuuteen perustuvasta mallista selkeisiin euromääräisiin
-rajoihin. Uudistus kannustaa investointeihin, vähentää esteitä listautumiselle
-ja tukee pienyrittäjiä. Suomi on ainoa Euroopan maa, jossa yrityksen
-nettovarallisuus vaikuttaa osinkojen verotukseen. Nykymalli suosii aineellisia
-sijoituksia tekeviä yrityksiä palvelualojen kustannuksella. Samalla se
-kasvattaa varallisuuseroja sekä kannustaa tulonmuuntoon ja verotuksen
-keventämiseen esimerkiksi sijoitusasunnoilla. Euromääräiset rajat tulee asettaa
-tasolle, jolla pienen nettovarallisuuden yhtiöstä maksettujen pienten osinkojen
-verotus kevenee ja suuren nettovarallisuuden yhtiöistä maksettujen suurten
-osinkojen verotus kiristyy nykyisestä. Uudistus tulee toteuttaa niin, että se
-vahvistaa verotuloja ja kaventaa tuloeroja.
-
- 
-
-Yritysten mahdollisuutta tehdä vihreitä investointeja
-omarahoitteisesti voidaan tukea ottamalla käyttöön vihreä investointivaraus.
-Investointivaraus antaisi yritykselle mahdollisuuden siirtää verotettavaa
-tulosta myöhempään ajankohtaan selkeästi määriteltyjen ehtojen täyttyessä.
-Mikäli investointia ei tehdä, investointivaraus tuloutetaan yrityksen tulokseen
-ja verotetaan. Vihreät investoinnit tulee määritellä teknologianeutraalisti
-niin, että kriteereinä käytetään päästövähennyksiä ja luonnonvarojen käytön
+Yritysten mahdollisuutta tehdä vihreitä investointeja omarahoitteisesti voidaan tukea ottamalla käyttöön vihreä investointivaraus. Investointivaraus antaisi yritykselle mahdollisuuden siirtää verotettavaa tulosta myöhempään ajankohtaan selkeästi määriteltyjen ehtojen täyttyessä. Mikäli investointia ei tehdä, investointivaraus tuloutetaan yrityksen tulokseen ja verotetaan. Vihreät investoinnit tulee määritellä teknologianeutraalisti niin, että kriteereinä käytetään päästövähennyksiä ja luonnonvarojen käytön
 vähentämistä.
 
- 
+Suuret monikansalliset yritykset hyödyntävät mahdollisuuksia kirjata voittonsa alhaisen verotuksen maissa. Tämä vääristää kilpailua, heikentää uusien yritysten kasvumahdollisuuksia ja nakertaa veropohjaa. Lähdevero osinkoverotuksesta nykyisin vapautetuille yhteisöille laajentaisi veropohjaa ja mahdollistaisi esimerkiksi ulkomaisten institutionaalisten sijoittajien saamien osinkojen verottamisen.
 
-Suuret monikansalliset yritykset hyödyntävät mahdollisuuksia
-kirjata voittonsa alhaisen verotuksen maissa. Tämä vääristää kilpailua,
-heikentää uusien yritysten kasvumahdollisuuksia ja nakertaa veropohjaa.
-Lähdevero osinkoverotuksesta nykyisin vapautetuille yhteisöille laajentaisi
-veropohjaa ja mahdollistaisi esimerkiksi ulkomaisten institutionaalisten
-sijoittajien saamien osinkojen verottamisen.
+* Säilytetään yhteisövero pohjoismaisella tasolla ja ehkäistään haitallista verokilpailua kansainvälisellä koordinaatiolla.
+* Siirrytään listaamattomien yhtiöiden osinkoverotuksessa eurooppalaiseen malliin, jossa osinkojen verotus perustuu selkeisiin euromääräisiin rajoihin ja poistetaan nettovarallisuuteen perustuva huojennus.
+* Otetaan käyttöön vihreä investointivaraus ja korotetaan vihreiden investointien poistoprosenttia.
+* Tiivistetään yritysveropohjaa uudistamalla yleistä veronkiertosäännöstä ja väliyhteisölakia yritysten voitonsiirron estämiseksi.
+* Säädetään maltillinen lähdevero osinkoverotuksesta vapautettujen yhteisöjen osinkotuloille.
+* Toimeenpannaan monikansallisten yritysten julkista maakohtaista raportointia koskeva direktiivi Suomessa niin, että eritelty raportointivelvollisuus koskee kaikkia lainkäyttöalueita ja kaikkia suuryrityksiä.
 
- 
+### Ansio- ja pääomatuloverotus lähemmäs toisiaan
 
-•   
-Säilytetään yhteisövero pohjoismaisella tasolla
-ja ehkäistään haitallista verokilpailua kansainvälisellä koordinaatiolla.
+Kannusteet muuntaa ansiotuloja pääomatuloiksi vähenevät, kun näiden tulojen verotusta tuodaan lähemmäs toisiaan. Pienten pääomatulojen verotuksen keventäminen kannustaa tavallisia suomalaisia sijoittamaan. Progression lisääminen vahvistaa julkista taloutta ja kaventaa varallisuuseroja.
 
-•   
-Siirrytään listaamattomien yhtiöiden
-osinkoverotuksessa eurooppalaiseen malliin, jossa osinkojen verotus perustuu
-selkeisiin euromääräisiin rajoihin ja poistetaan nettovarallisuuteen perustuva
-huojennus.
+Yksi vaihtoehto pääomatuloverotuksen uudistamiseen on normaalituottomalli, jossa laskennallisen normaalituoton alittavaa pääomatuloa verotettaisiin kevyemmin. Tämä olisi neutraali tapa kohdella eri sijoitusmuotoja, mutta suosisi suurten pääomien säilyttävää hallinnointia. Mallin vaikutuksia riskinottoon, verokertymään sekä tulo- ja varallisuuseroihin tulee selvittää tarkemmin. Tärkeää on myös tilkitä veropohjan aukkoja, jotka mahdollistavat varakkaimmille nimellistä tasoa alemman pääomatulojen verotuksen.
 
-•   
-Otetaan käyttöön vihreä investointivaraus ja
-korotetaan vihreiden investointien poistoprosenttia.
+* Vähennetään ansiotuloverotuksen suhteellista osuutta verokertymästä vaarantamatta julkisen talouden tasapainoa. Painotetaan pieni- ja keskituloisten verotuksen keventämistä kannustinloukkujen purkamiseksi.
+* Lisätään pääomatuloveron progressiivisuutta. Selvitetään pääomaverotuksen normaalituottomallin käyttöönottoa.
+* Tiivistetään pääomatuloverotuksen veropohjaa puuttumalla keinotekoisiin järjestelyihin, joilla pyritään välttämään sijoitusvarallisuuden tuoton verotus Suomessa ja poistamalla metsälahjavähennys.
+* Annetaan hyvinvointialueille verotusoikeus, joka vahvistaa itsehallintoa ja luo kannustimia toimia tehokkaasti.
 
-•   
-Tiivistetään yritysveropohjaa uudistamalla
-yleistä veronkiertosäännöstä ja väliyhteisölakia yritysten voitonsiirron
-estämiseksi.
-
-•   
-Säädetään maltillinen lähdevero
-osinkoverotuksesta vapautettujen yhteisöjen osinkotuloille.
-
-•   
-Toimeenpannaan monikansallisten yritysten
-julkista maakohtaista raportointia koskeva direktiivi Suomessa niin, että
-eritelty raportointivelvollisuus koskee kaikkia lainkäyttöalueita ja kaikkia suuryrityksiä.
-
- 
-
-Ansio- ja pääomatuloverotus lähemmäs toisiaan
-
- 
-
-Kannusteet muuntaa ansiotuloja pääomatuloiksi vähenevät, kun
-näiden tulojen verotusta tuodaan lähemmäs toisiaan. Pienten pääomatulojen
-verotuksen keventäminen kannustaa tavallisia suomalaisia sijoittamaan.
-Progression lisääminen vahvistaa julkista taloutta ja kaventaa
-varallisuuseroja.
-
- 
-
-Yksi vaihtoehto pääomatuloverotuksen uudistamiseen on
-normaalituottomalli, jossa laskennallisen normaalituoton alittavaa pääomatuloa
-verotettaisiin kevyemmin. Tämä olisi neutraali tapa kohdella eri
-sijoitusmuotoja, mutta suosisi suurten pääomien säilyttävää hallinnointia.
-Mallin vaikutuksia riskinottoon, verokertymään sekä tulo- ja varallisuuseroihin
-tulee selvittää tarkemmin. Tärkeää on myös tilkitä veropohjan aukkoja, jotka
-mahdollistavat varakkaimmille nimellistä tasoa alemman pääomatulojen
-verotuksen.
-
- 
-
-•   
-Vähennetään ansiotuloverotuksen suhteellista
-osuutta verokertymästä vaarantamatta julkisen talouden tasapainoa. Painotetaan
-pieni- ja keskituloisten verotuksen keventämistä kannustinloukkujen
-purkamiseksi.
-
-•   
-Lisätään pääomatuloveron progressiivisuutta.
-Selvitetään pääomaverotuksen normaalituottomallin käyttöönottoa.
-
-•   
-Tiivistetään pääomatuloverotuksen veropohjaa
-puuttumalla keinotekoisiin järjestelyihin, joilla pyritään välttämään
-sijoitusvarallisuuden tuoton verotus Suomessa ja poistamalla
-metsälahjavähennys.
-
-•   
-Annetaan hyvinvointialueille verotusoikeus, joka
-vahvistaa itsehallintoa ja luo kannustimia toimia tehokkaasti.
-
-     &#x20;
-
-Uudistetaan arvonlisävero
-
- 
+### Uudistetaan arvonlisävero
 
 Laajapohjainen arvonlisävero on yksinkertainen ja ennakoitava
 tapa kerätä verotuloja. Nykyinen arvonlisävero ei kuitenkaan vastaa hyvän
@@ -447,9 +273,7 @@ osittain mielivaltainen. Tavoitteena tulee olla tärkeiden alojen ja palvelujen
 kuten kulttuurin, liikunnan ja joukkoliikenteen tukeminen. Tiedetään kuitenkin,
 että arvonlisäveron ohjausvaikutus hintoihin ja kulutuskäyttäytymiseen on
 heikko. Tavoitteet voidaan saavuttaa myös esimerkiksi tulonsiirroilla ja
-toimialakohtaisilla yritystuilla.
-
- 
+toimialakohtaisilla yritystuilla. 
 
 Pienituloiset kotitaloudet maksavat enemmän arvonlisäveroja
 kuin suurituloiset suhteessa tuloihinsa. Siksi on tärkeää varmistaa, että
@@ -459,66 +283,25 @@ yksityistalouksille myyvälle pienyrittäjälle, jonka tarvikehankinnat ovat
 pieniä, liikevaihdosta maksettava arvonlisävero on suoraan pois yrittäjän
 omasta toimeentulosta.
 
- 
+* Lyhyellä aikavälillä nostetaan lentoliikenne ylimpään alv-kantaan ja madalletaan korjauspalvelujen arvonlisäveroa.
+* Keskipitkällä aikavälillä vähennetään arvonlisäverokantojen lukumäärää ja korvataan vastaavasti matalampien alv-kantojen verotukia tehokkaammilla suorilla ohjauskeinoilla.
+* Varmistetaan verotuksen kokonaisprogressiivisuuden säilyminen arvonlisäverouudistuksen yhteydessä
+  tuloverotuksen, indeksikorotusten ja perustulon avulla.
 
-•   
-Lyhyellä aikavälillä nostetaan lentoliikenne
-ylimpään alv-kantaan ja madalletaan korjauspalvelujen arvonlisäveroa.
+### Painotetaan taloutta vähiten vääristäviä veroja
 
-•   
-Keskipitkällä aikavälillä vähennetään
-arvonlisäverokantojen lukumäärää ja korvataan vastaavasti matalampien
-alv-kantojen verotukia tehokkaammilla suorilla ohjauskeinoilla.
+Kiinteistövero on esimerkki verosta, joka ei juuri ohjaa käyttäytymistä, sillä kiinteistöomistusten sijaintia ei voi muuttaa. Perintö- ja varallisuusvero hidastavat varallisuuserojen syntymistä, eikä niillä ole yhtä merkittäviä haitallisia kannustinvaikutuksia kuin monilla muilla veroilla.
 
-•   
-Varmistetaan verotuksen
-kokonaisprogressiivisuuden säilyminen arvonlisäverouudistuksen yhteydessä
-tuloverotuksen, indeksikorotusten ja perustulon avulla.
+Elintarvikkeiden terveysperusteisella verolla vähennettäisiin liiallisen suolan, sokerin ja tyydyttyneen rasvan saantia. Tässä ensimmäinen vaihe olisi säätää ainesosaperustainen sokerivero, jonka ulkopuolelle rajataan esimerkiksi hedelmät. Seuraavissa vaiheissa terveysvero laajennetaan kattamaan myös rasvaiset ja suolaiset tuotteet.
 
- 
-
-Painotetaan taloutta vähiten vääristäviä veroja
-
- 
-
-Kiinteistövero on esimerkki verosta, joka ei juuri ohjaa käyttäytymistä,
-sillä kiinteistöomistusten sijaintia ei voi muuttaa. Perintö- ja
-varallisuusvero hidastavat varallisuuserojen syntymistä, eikä niillä ole yhtä
-merkittäviä haitallisia kannustinvaikutuksia kuin monilla muilla veroilla.
-
- 
-
-Elintarvikkeiden terveysperusteisella verolla vähennettäisiin
-liiallisen suolan, sokerin ja tyydyttyneen rasvan saantia. Tässä ensimmäinen
-vaihe olisi säätää ainesosaperustainen sokerivero, jonka ulkopuolelle rajataan
-esimerkiksi hedelmät. Seuraavissa vaiheissa terveysvero laajennetaan kattamaan
-myös rasvaiset ja suolaiset tuotteet.
-
- 
-
-•   
-Lisätään kiinteistöveron osuutta verokertymästä,
-ja uudistetaan kiinteistöverotus vastaamaan paremmin markkina-arvoa.
-
-•   
-Laajennetaan perintöverotuksen
-progressioasteikkoa. Mahdollistetaan pidennetty perintöveron maksuaika
-sukupolvenvaihdosten lisäksi silloin, kun perintö on omassa käytössä ollut
-asunto tai kiinteistö.
-
-•   
-Otetaan käyttöön maltillinen varallisuusvero
-suurille omaisuuksille.
-
-•   
-Otetaan vaiheittain käyttöön elintarvikkeiden
-laaja-alainen terveysvero.
-
- 
+* Lisätään kiinteistöveron osuutta verokertymästä, ja uudistetaan kiinteistöverotus vastaamaan paremmin markkina-arvoa.
+* Laajennetaan perintöverotuksen progressioasteikkoa. Mahdollistetaan pidennetty perintöveron maksuaika sukupolvenvaihdosten lisäksi silloin, kun perintö on omassa käytössä ollut asunto tai kiinteistö.
+* Otetaan käyttöön maltillinen varallisuusvero suurille omaisuuksille.
+* Otetaan vaiheittain käyttöön elintarvikkeiden laaja-alainen terveysvero.
 
 [4. OSAAMISEN VARMISTAMINEN JA
 JOUSTAVAT TYÖMARKKINAT](<> "")
-==============================
+------------------------------
 
  
 
