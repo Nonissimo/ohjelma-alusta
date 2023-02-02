@@ -48,7 +48,7 @@ Puoluehallituksen esitys 21.1. puoluevaltuustolle
 
 [1. VIHREÄ TALOUS
 ELINKEINOPOLITIIKAN LÄHTÖKOHTANA]()
-===================================
+-----------------------------------
 
 Hyvän elinkeinopolitiikan edellytys on vihreän talouden
 kokonaiskuvan hahmottaminen. Markkinoiden ja talouden keinoja tulee käyttää
@@ -179,7 +179,7 @@ levittämään poliittisilla ratkaisuilla.
 
 [2. YRITTÄJYYS ELINVOIMAN
 TUOJANA]()
-==========
+----------
 
 Hyvinvointivaltion yhtenä kivijalkana toimivat yritykset,
 niin työllistävät yritykset kuin yhden hengen itsensätyöllistäjät. Vihreät
@@ -205,17 +205,7 @@ tilanteissa yhteiskunnan tulee joustaa, jotta yrittäjä voi siirtyä välillä
 palkkatöihin ja toisaalta tukea erilaisissa elämäntilanteissa, kuten
 perhevapaiden ja sairauden aikana.
 
-Tukea yrittäjyyden alkuun
-
-
-
-
-
- 
-
-
-
-
+### Tukea yrittäjyyden alkuun
 
 Nuoret ovat kiinnostuneita yrittäjyydestä, mutta heillä
 harvoin on mahdollisuutta kokeilla yrittäjyyttä ennen päätöstään lähteä
@@ -223,231 +213,61 @@ yrittäjäksi. Yrittäjyyden käsitettä tulee normalisoida ja tarjota nuoren
 urasuunnittelun tueksi realistista tietoa yrittäjyydestä, yritystoiminnan riskeistä
 ja vaativuudesta.
 
-
-
-
-
- 
-
-
-
-
-
 Vihreät haluaa edistää yrittäjyyttä niin, että yrittäjäksi
 siirtyminen ja siitä takaisin palkkatöihin palaaminen ovat molemmat mahdollisia
 minimibyrokratialla ja  ilman
 kannustinloukkuja, kuten pitkää ajanjaksoa ilman työttömyysturvaa.
 
-
-
-
-
- 
-
-
-
-
-
 Ensimmäisten työntekijöiden palkkaus koetaan liian suurena
 riskinä. Tämän kynnyksen madaltaminen mahdollistaisi yrityksen kasvun ja siitä
 seuraavat yhteiskunnalliset hyödyt.
 
+* Tehdään eri viranomaisten yhteinen linjaus
+  siitä, kuka katsotaan yrittäjäksi ja yhdenmukaistetaan yrittäjyyden kohtelu
+  kannustinloukkuja ja ristiriitaisuuksia minimoiden.
+* Yksinkertaistetaan aloittavan yrittäjän ja
+  yrityksen tukien hakua ja mahdollistetaan tukien hakeminen opastetusti yhdeltä
+  luukulta.
+* Suunnitellaan liikkuminen yrittämisen,
+  palkkatyön ja muiden elämäntilanteiden välillä niin, että työ kannattaa aina.
+  Näitä voi olla myös yhtaikaa.
+* Tuodaan yrittäjyyden kokeilu halukkaille
+  nuorille osaksi opintoja.
+* Huolehditaan, että omaishoidon tuki ei ole
+  esteenä starttirahan myöntämiselle.
+* Huojennetaan yksinyrittäjän palkkaaman
+  ensimmäisen työntekijän työnantajamaksuja ensimmäisenä työskentelyvuonna.
+  Hyödynnetään yksinyrittäjän rekrytukikokeilun (2022–2023) kokemuksia.
 
+### Yritysten erilaiset muodot
 
-
-
- 
-
-
-
-
-
-•   
-Tehdään eri viranomaisten yhteinen linjaus
-siitä, kuka katsotaan yrittäjäksi ja yhdenmukaistetaan yrittäjyyden kohtelu
-kannustinloukkuja ja ristiriitaisuuksia minimoiden.
-
-
-
-
-
-•   
-Yksinkertaistetaan aloittavan yrittäjän ja
-yrityksen tukien hakua ja mahdollistetaan tukien hakeminen opastetusti yhdeltä
-luukulta.
-
-
-
-
-
-•   
-Suunnitellaan liikkuminen yrittämisen,
-palkkatyön ja muiden elämäntilanteiden välillä niin, että työ kannattaa aina.
-Näitä voi olla myös yhtaikaa.
-
-
-
-
-
-•   
-Tuodaan yrittäjyyden kokeilu halukkaille
-nuorille osaksi opintoja.
-
-
-
-
-
-•   
-Huolehditaan, että omaishoidon tuki ei ole
-esteenä starttirahan myöntämiselle.
-
-
-
-
-
-•   
-Huojennetaan yksinyrittäjän palkkaaman
-ensimmäisen työntekijän työnantajamaksuja ensimmäisenä työskentelyvuonna.
-Hyödynnetään yksinyrittäjän rekrytukikokeilun (2022–2023) kokemuksia.
-
-
-
-
-
- 
-
-
-
-
-
-Yritysten erilaiset muodot
-
-
-
-
-
- 
-
-
-
-
-
-Yhteiskunnallisen yrityksen tarkoitus on ratkaista
-yhteiskunnallisia tai ympäristöongelmia tai lahjoittaa suurin osa voitosta
-yhteiskunnallisen tavoitteen edistämiseen. Liiketoiminta on avointa ja
-läpinäkyvää. Suomessa on yli 200 sertifioitua yhteiskunnallista yritystä, mutta
-tätä yrityslajia ei tunneta lainsäädännössä, eikä tuoda esiin yrittämisen
-perustamisen palveluissa tai koulutuksissa.
-
-
-
-
-
- 
-
-
-
-
+Yhteiskunnallisen yrityksen tarkoitus on ratkaista yhteiskunnallisia tai ympäristöongelmia tai lahjoittaa suurin osa voitosta yhteiskunnallisen tavoitteen edistämiseen. Liiketoiminta on avointa ja läpinäkyvää. Suomessa on yli 200 sertifioitua yhteiskunnallista yritystä, mutta tätä yrityslajia ei tunneta lainsäädännössä, eikä tuoda esiin yrittämisen perustamisen palveluissa tai koulutuksissa.
 
 Myös osuustoiminta on varteenotettava vaihtoehto yksin- ja
 pienyrittäjille.
 
-
-
-
-
- 
-
-
-
-
-
-Yritysostot ovat yleinen tapa kasvattaa yrityksen kokoa.
-Jotta ostetun yhtiön arvo ei alenisi, voi emoyhtiö tarjota ennakoitavaa
-omistajuutta sekä operatiivista itsenäisyyttä. Tällaista lukuisten pienten
-yritysten ostamista ja omistamista kutsutaan compounder-malliksi. Sillä voidaan
-houkutella sijoittajia ja edistää elinvoimaisten pk-yritysten kehittymistä ja
-pysymistä Suomessa.
-
-
-
-
-
- 
-
-
-
-
+Yritysostot ovat yleinen tapa kasvattaa yrityksen kokoa. Jotta ostetun yhtiön arvo ei alenisi, voi emoyhtiö tarjota ennakoitavaa omistajuutta sekä operatiivista itsenäisyyttä. Tällaista lukuisten pienten yritysten ostamista ja omistamista kutsutaan compounder-malliksi. Sillä voidaan houkutella sijoittajia ja edistää elinvoimaisten pk-yritysten kehittymistä ja pysymistä Suomessa.
 
 Teknologian mahdollistamat uudet tavat järjestää
 yritystoimintaa, kuten älysopimukset ja hajautetut autonomiset organisaatiot
 tulee tunnistaa sääntelyssä.
 
+* Luodaan lainsäädäntökehys yhteiskunnallisille
+  yrityksille hyödyntäen Yhteiskunnallinen yritys -merkin kriteereitä ja Euroopan
+  komission määritelmää. Lisätään yhteiskunnallisen yrittämisen tunnettuutta.
+* Tuodaan osuustoiminta vaihtoehtona yrityksille
+  oppilaitosten yrittäjyyskoulutuksessa sekä maksuttomassa yritysneuvonnassa.
+  Varmistetaan, että yritystuet ottavat tasavertaisesti huomioon myös
+  osuuskunnat.
+* Edistetään vihreiden compounder-yritysten syntyä
+  ja pörssilistautumista kehittämällä kriteeristöjä yritysostoihin sekä
+  toimintatapoja ostetun yrityksen sisällyttämisestä emoyhtiöön suoran
+  sulauttamisen sijaan.
+* Selvitetään hajautettujen autonomisten
+  organisaatioiden laillinen asema ja ilmiöön liittyvät sääntelytarpeet, kuten
+  verotuskysymykset.
 
-
-
-
- 
-
-
-
-
-
-•   
-Luodaan lainsäädäntökehys yhteiskunnallisille
-yrityksille hyödyntäen Yhteiskunnallinen yritys -merkin kriteereitä ja Euroopan
-komission määritelmää. Lisätään yhteiskunnallisen yrittämisen tunnettuutta.
-
-
-
-
-
-•   
-Tuodaan osuustoiminta vaihtoehtona yrityksille
-oppilaitosten yrittäjyyskoulutuksessa sekä maksuttomassa yritysneuvonnassa.
-Varmistetaan, että yritystuet ottavat tasavertaisesti huomioon myös
-osuuskunnat.
-
-
-
-
-
-•   
-Edistetään vihreiden compounder-yritysten syntyä
-ja pörssilistautumista kehittämällä kriteeristöjä yritysostoihin sekä
-toimintatapoja ostetun yrityksen sisällyttämisestä emoyhtiöön suoran
-sulauttamisen sijaan.
-
-
-
-
-
-•   
-Selvitetään hajautettujen autonomisten
-organisaatioiden laillinen asema ja ilmiöön liittyvät sääntelytarpeet, kuten
-verotuskysymykset.
-
-
-
-
-
- 
-
-
-
-
-
-Kilpailu ja vapaat markkinat
-
-
-
-
-
- 
-
-
-
-
+### Kilpailu ja vapaat markkinat
 
 Terve kilpailu luo liiketoimintamahdollisuuksia uusille ja
 pienille yrityksille, kannustaa kehittämään toimintaa ja luomaan uusia
@@ -461,16 +281,6 @@ alkoholin myynnissä, on tunnistettu muutostarpeita. Suomalainen
 päivittäistavarakauppa, jonka sijoittautumiseen vaikutetaan suoraan muun muassa
 kaavoituspäätöksillä, on hyvin keskittynyttä.
 
-
-
-
-
- 
-
-
-
-
-
 Kilpailua ohjaavaa lainsäädäntöä tulee uudistaa myös EU:n
 puitteissa siten, että liiketoiminta ja teknologian kehitys eivät keskity
 harvoille. Kilpailuvalvonnan resursseja tulee vahvistaa, jotta markkinoiden
@@ -478,9 +288,7 @@ toimivuuden kannalta vahingollisiin ilmiöihin voidaan puuttua ja niitä voidaan
 ennaltaehkäistä. Yrityskauppavalvonnalla voidaan suoraan vaikuttaa siihen, että
 markkinat eivät haitallisesti keskity ja että toimialoja hallitsevat yritykset
 eivät estä uusien innovatiivisten kilpailijoiden tuloa alalle. Yrityskauppavalvonnan
-liikevaihtorajoja on laskettu, mutta osa haitallisista yrityskaupoista jää
-kuitenkin yrityskauppavalvonnan 
-ulkopuolelle. Useassa EU-maassa on jo järjestelmä, jossa toimivaltainen
+liikevaihtorajoja on laskettu, mutta osa haitallisista yrityskaupoista jää kuitenkin yrityskauppavalvonnan ulkopuolelle. Useassa EU-maassa on jo järjestelmä, jossa toimivaltainen
 taho voi samalla hakemuksella hakea sekä lainvastaiselle menettelylle kieltoa
 että kuluttajille hyvityksiä menetyksistä, joita heille on lainvastaisesta
 toiminnasta aiheutunut. Suomen tulee pyrkiä samaan, jotta käsittely sekä
