@@ -449,518 +449,138 @@ Standardisointi on noussut suurvaltojen valtakilpailun kentäksi. Vaikutusvalta 
 
 # [7. YRITYSTUILLA KOHTI VIHREÄÄ SIIRTYMÄÄ](<> "")
 
-Yritystukien tulee olla kannattavia sijoituksia. Huonosti
-kohdennettuina ne ovat haitallisia. Tärkeää on uudistaa yrityskenttää ja
-varmistaa, että yritystuilla saavutetaan halutut yhteiskunnalliset tavoitteet.
+Yritystukien tulee olla kannattavia sijoituksia. Huonosti kohdennettuina ne ovat haitallisia. Tärkeää on uudistaa yrityskenttää ja varmistaa, että yritystuilla saavutetaan halutut yhteiskunnalliset tavoitteet.
 
- 
+Yritystuet ovat sijoitus tulevaisuuteen. Niiden suurin haaste on oikea kohdentaminen: ne tulee ensisijaisesti kohdistaa yhteiskunnalle merkittävien ongelmien ratkaisuun, kuten ilmastonmuutoksen ja luontokadon torjuntaan ja kiertotalouden edistämiseen. Uudistavat yritystuet edistävät tutkimus-, kehitys- ja innovaatiotoimintaa. Lisäksi elämisen laatua parantavaa aineettoman pääoman kasvattamiseen tähtäävää toimintaa tulee tukea.
 
-Yritystuet ovat sijoitus tulevaisuuteen. Niiden suurin haaste
-on oikea kohdentaminen: ne tulee ensisijaisesti kohdistaa yhteiskunnalle
-merkittävien ongelmien ratkaisuun, kuten ilmastonmuutoksen ja luontokadon
-torjuntaan ja kiertotalouden edistämiseen. Uudistavat yritystuet edistävät
-tutkimus-, kehitys- ja innovaatiotoimintaa. Lisäksi elämisen laatua parantavaa
-aineettoman pääoman kasvattamiseen tähtäävää toimintaa tulee tukea.
+Suorat yritystuet ovat verotukia täsmällisempiä, mutta ne ovat hallinnollisesti raskaita ja niitä tulee käyttää harkiten. Valtiontalouden tasapainon kannalta yritystuet eivät ole ratkaiseva menoerä, mutta niillä on voimakas toimintaa ohjaava välillinen vaikutus. Yli miljardin euron yritystukikokonaisuutta on arvioitava kriittisesti: ilmasto- ja ympäristövaikutuksiltaan haitalliset tuet on poistettava. Tukien on edistettävä elinkeinotoiminnan uudistumista, ja yritystukien tarkastelu tulee tehdä tutkimustietoon perustuen.
 
- 
+Suomen panostus ilmastonmuutoksen ja luontokadon torjuntaan on moniin Euroopan maihin verrattuna liian vähäistä. Se heikentää kilpailukykyä. Yritystukien tulee kannustaa uudistavaan toimintaan, joka tukee näiden suurten haasteiden ratkaisemista ja tekee Suomesta houkuttelevan toimijan kansainvälisten sijoittajien näkökulmasta. Tukien avulla saavutettavien hyötyjen on selvästi ylitettävä niiden aiheuttamat ympäristöhaitat.
 
-Suorat yritystuet ovat verotukia täsmällisempiä, mutta ne
-ovat hallinnollisesti raskaita ja niitä tulee käyttää harkiten. Valtiontalouden
-tasapainon kannalta yritystuet eivät ole ratkaiseva menoerä, mutta niillä on
-voimakas toimintaa ohjaava välillinen vaikutus. Yli miljardin euron
-yritystukikokonaisuutta on arvioitava kriittisesti: ilmasto- ja
-ympäristövaikutuksiltaan haitalliset tuet on poistettava. Tukien on edistettävä
-elinkeinotoiminnan uudistumista, ja yritystukien tarkastelu tulee tehdä
-tutkimustietoon perustuen.
+Haittaverojen tulee yritystukien sijaan olla ensisijainen väline kohti vihreää taloutta. Silloin kun yritystukien maksamiselle on perusteita, niiden on ohjattava tehokkaaseen ja reilua muutosta tukevaan
+tulevaisuustyöhön. Pk-yrityksille tuki tutkimus- ja kehitystoimintaan on tärkeää. Suurille yrityksille myönnettävillä tuilla on suuri ja laaja vaikutus koko arvoverkossa.
 
- 
-
-Suomen panostus ilmastonmuutoksen ja luontokadon torjuntaan
-on moniin Euroopan maihin verrattuna liian vähäistä. Se heikentää kilpailukykyä.
-Yritystukien tulee kannustaa uudistavaan toimintaan, joka tukee näiden suurten
-haasteiden ratkaisemista ja tekee Suomesta houkuttelevan toimijan
-kansainvälisten sijoittajien näkökulmasta. Tukien avulla saavutettavien
-hyötyjen on selvästi ylitettävä niiden aiheuttamat ympäristöhaitat.
-
- 
-
-Haittaverojen tulee yritystukien sijaan olla ensisijainen
-väline kohti vihreää taloutta. Silloin kun yritystukien maksamiselle on
-perusteita, niiden on ohjattava tehokkaaseen ja reilua muutosta tukevaan
-tulevaisuustyöhön. Pk-yrityksille tuki tutkimus- ja kehitystoimintaan on
-tärkeää. Suurille yrityksille myönnettävillä tuilla on suuri ja laaja vaikutus
-koko arvoverkossa.
-
- 
-
-•   
-Ei rahoiteta ympäristölle tai ilmastolle
-merkittävää haittaa aiheuttavia hankkeita.
-
-•   
-Poistetaan siirtymäajalla yritystuet ja
-alennetut verokannat, jotka kompensoivat päästökaupasta ja fossiilisen energian
-kulutuksesta syntyneitä kustannuksia.
-
-•   
-Uudistetaan jäljelle jääviä tukia siten, että
-niissä painotetaan elinkeinorakenteen uudistumista ja vihreän siirtymän
-edistämistä sekä innovaatioita.
-
-•   
-Vauhditetaan uusiutumattomien luonnonvarojen
-kiertotaloutta valtion investoinneilla ja investointituilla.
-
-•   
-Luodaan tekniselle hiilensidonnalle selkeä
-sääntelykehikko ja riittävät taloudelliset kannustimet, jotta se yleistyy
-ilmastotavoitteittemme edellyttämässä tahdissa.
-
-•   
-Vaaditaan suurille yrityksille myönnettäviin
-uudistavan rahoituksen hankkeisiin kumppanuuksia pienempien yritysten sekä
-tutkimusorganisaatioiden kanssa.
-
- 
+* Ei rahoiteta ympäristölle tai ilmastolle merkittävää haittaa aiheuttavia hankkeita.
+* Poistetaan siirtymäajalla yritystuet ja alennetut verokannat, jotka kompensoivat päästökaupasta ja fossiilisen energian kulutuksesta syntyneitä kustannuksia.
+* Uudistetaan jäljelle jääviä tukia siten, että niissä painotetaan elinkeinorakenteen uudistumista ja vihreän siirtymän edistämistä sekä innovaatioita.
+* Vauhditetaan uusiutumattomien luonnonvarojen kiertotaloutta valtion investoinneilla ja investointituilla.
+* Luodaan tekniselle hiilensidonnalle selkeä sääntelykehikko ja riittävät taloudelliset kannustimet, jotta se yleistyy ilmastotavoitteittemme edellyttämässä tahdissa.
+* Vaaditaan suurille yrityksille myönnettäviin uudistavan rahoituksen hankkeisiin kumppanuuksia pienempien yritysten sekä tutkimusorganisaatioiden kanssa.
 
 # [8. KESTÄVIEN ELINKEINOJEN SUOMI](<> "")
 
- 
+Vihreän elinkeinopolitiikan ytimessä on elinkeinorakenteen jatkuva uudistuminen. Elinkeinorakenne vaikuttaa keskeisesti siihen, kuinka hyvin Suomi pystyy toimimaan luonnonvarojen kannalta kestävissä rajoissa ja kilpailemaan kansainvälisesti. Suomi ei ole pitkään aikaan ollut luonnonvaraintensiivinen talous. Kansantaloutemme pohjautuu osaamiseen ja ihmisiin.
 
-Vihreän elinkeinopolitiikan ytimessä on elinkeinorakenteen
-jatkuva uudistuminen. Elinkeinorakenne vaikuttaa keskeisesti siihen, kuinka
-hyvin Suomi pystyy toimimaan luonnonvarojen kannalta kestävissä rajoissa ja
-kilpailemaan kansainvälisesti. Suomi ei ole pitkään aikaan ollut
-luonnonvaraintensiivinen talous. Kansantaloutemme pohjautuu osaamiseen ja
-ihmisiin.
+Menestyäksemme ja ollaksemme kokoamme suurempia kansainvälisesti on suomalaisen elinkeinorakenteen siirryttävä korkeamman jalostusasteen tuotantoon pois sellun ja raaka-aineiden myynnistä. Samalla
+osaamisintensiivisten palvelujen ja aineettoman tuotannon osuuden tulee kasvaa myös vientiteollisuudessa. Vakauden ja kriisinkestävyyden näkökulmasta tärkeää on myös elinkeinorakenteen monipuolisuus. Elinkeinorakenne uudistuu jatkuvasti, mutta politiikkatoimilla tulee edesauttaa elinkeinorakenteen monipuolistumista ja vahvistumista erityisesti kestävyysratkaisuja luovilla auringonnousun aloilla. Suomen tulee panostaa nykyistä enemmän T\&K-toimintaan ja syväteknologioihin. Syväteknologialla viitataan kasvuyrityksiin, joiden liiketoiminta perustuu tieteen ja teknologian tuoreisiin läpimurtoihin.
 
- 
+Tässä linjauksessa tarkempaan käsittelyyn on valittu korkean osaamisen palvelut, teollisuus, kiertotalous, alkutuotanto ja ruokaketju. Näiden alojen uudistumisella on olennainen merkitys vihreän siirtymän onnistumisessa ja ne ovat merkittäviä talouden ja työllisyyden näkökulmasta.
 
-Menestyäksemme ja ollaksemme kokoamme suurempia
-kansainvälisesti on suomalaisen elinkeinorakenteen siirryttävä korkeamman
-jalostusasteen tuotantoon pois sellun ja raaka-aineiden myynnistä. Samalla
-osaamisintensiivisten palvelujen ja aineettoman tuotannon osuuden tulee kasvaa
-myös vientiteollisuudessa. Vakauden ja kriisinkestävyyden näkökulmasta tärkeää
-on myös elinkeinorakenteen monipuolisuus. Elinkeinorakenne uudistuu jatkuvasti,
-mutta politiikkatoimilla tulee edesauttaa elinkeinorakenteen monipuolistumista
-ja vahvistumista erityisesti kestävyysratkaisuja luovilla auringonnousun
-aloilla. Suomen tulee panostaa nykyistä enemmän T\&K-toimintaan ja
-syväteknologioihin. Syväteknologialla viitataan kasvuyrityksiin, joiden
-liiketoiminta perustuu tieteen ja teknologian tuoreisiin läpimurtoihin.
+## [8.1. MENESTYSTÄ OSAAMISINTENSIIVISISTÄ PALVELUISTA](<> "")
 
- 
-
-Tässä linjauksessa tarkempaan käsittelyyn on valittu korkean
-osaamisen palvelut, teollisuus, kiertotalous, alkutuotanto ja ruokaketju.
-Näiden alojen uudistumisella on olennainen merkitys vihreän siirtymän
-onnistumisessa ja ne ovat merkittäviä talouden ja työllisyyden näkökulmasta.
-
- 
-
-[8.1. MENESTYSTÄ
-OSAAMISINTENSIIVISISTÄ PALVELUISTA](<> "")
-------------------------------------------
-
- 
-
-Digitalisaatio on muuttanut perinteisiä asetelmia. Valokuitua
-pitkin koko maailma on tavoitettavissa sekunneissa Ilomantsin Möhköstä
-Hongkongiin. Alueellinen elinvoima ei ole riippuvainen vain raskaasta
-teollisuudesta, vaan työpaikkoja syntyy myös palveluviennistä. Erityisesti
-kaupungeissa palveluihin ja kulttuurialoihin pohjautuva vienti muodostavat nyt
-ja tulevaisuudessa suuren osuuden liiketoiminnasta. Vihreä elinkeinopolitiikka
-tunnistaakin kaupunkien merkityksen Suomen elinvoimaisuuden ja kehityksen
+Digitalisaatio on muuttanut perinteisiä asetelmia. Valokuitua pitkin koko maailma on tavoitettavissa sekunneissa Ilomantsin Möhköstä Hongkongiin. Alueellinen elinvoima ei ole riippuvainen vain raskaasta
+teollisuudesta, vaan työpaikkoja syntyy myös palveluviennistä. Erityisesti kaupungeissa palveluihin ja kulttuurialoihin pohjautuva vienti muodostavat nyt ja tulevaisuudessa suuren osuuden liiketoiminnasta. Vihreä elinkeinopolitiikka tunnistaakin kaupunkien merkityksen Suomen elinvoimaisuuden ja kehityksen
 kannalta.
 
- 
-
-Yksityiset palvelut ilman kauppaa työllistävät yli miljoona
-ihmistä, ja myös valtaosa uusista työpaikoista syntyy palvelualoille. Taloudet
-palveluvaltaistuvat niin Suomessa kuin muuallakin länsimaissa, mutta Suomessa
-tämä on tapahtunut verrokkimaita hitaammin. Ympäristön ja hyvinvoinnin
+Yksityiset palvelut ilman kauppaa työllistävät yli miljoona ihmistä, ja myös valtaosa uusista työpaikoista syntyy palvelualoille. Taloudet palveluvaltaistuvat niin Suomessa kuin muuallakin länsimaissa, mutta Suomessa tämä on tapahtunut verrokkimaita hitaammin. Ympäristön ja hyvinvoinnin
 näkökulmasta tähän olisi saatava muutos.
 
- 
-
-Palveluvienti on kasvanut jo pitkään tavaravientiä nopeammin,
-ja palvelut kattavat noin kolmasosan Suomen viennin kokonaisarvosta.
-Digitalisaatio on palvelujen viennin väline, joka mahdollistaa globaalisti
-skaalautuvan toiminnan. Erityisesti korkean osaamisen ja digitalisoitavissa
-olevien palveluiden kasvavat maailmanmarkkinat tarjoavat mahdollisuuksia
-kansainvälistymiseen ja palveluyritysten kasvuun. Myös Suomen perinteisesti
-vahvassa konepajateollisuudessa yhä useamman yrityksen liikevaihdosta suuri osa
-tulee palveluista.
-
- 
-
-Palveluista puhutaan usein aineettomina, mahdollisuutena
-saada talouskasvua ilman materiaalisen tuotannon haittoja. Kuitenkin myös
-palvelut tarvitsevat resursseja: mobiilipelit tarvitsevat digilaitteita ja pilvipalvelut
-käyttävät sähköä.  Myös perinteiset
-palvelut käyttävät kiinteistöjä ja energiaa. Vaikka palvelut eivät aineettomia
-olekaan, ovat ne silti voittopuolisesti ekologisesti haitattomampia kuin
-tavarat. Liikenteen ja logistiikan palveluja lukuun ottamatta suuri osa
-palvelualoista on päästöintensiteetiltään (toiminnan päästöt suhteutettuna
-arvonlisään) pieniä verrattuna moniin muihin toimialoihin. Palvelualat voivat
-myös luoda ratkaisuja ilmastokriisin ja luontokadon pysäyttämiseksi ja
-edesauttaa muiden toimialojen, kuten teollisuuden ja rakentamisen vihreää
-siirtymää. Tällaisten päästöjä vähentävien palvelujen kysyntä on voimakkaassa
-kasvussa maailmalla. Uusia palveluyrityksiä tulee rohkaista panostamaan
-tutkimus- ja kehitystoimintaan samalla tavalla kuin teollisuusyrityksiäkin.
-
- 
-
-Yritystoimintaa tukevien palvelujen käyttö digipalveluista
-toimistohotelleihin lisää tuottavuutta. Tuottavuusloikkaa ei tapahdu, ellei
-tutkimus- ja kehittämistoiminnan tuotoksia oteta laajasti käyttöön yrityksissä.
-Tarvitsemme yrityksille suunnattuja, digitaalista siirtymää tukevia
-kannustimia.
-
- 
-
-Uusien palveluiden ja palveluammattien syntyä pitää tukea
-myös muilla kuin teknologia-aloilla. Esimerkiksi kulttuurialoilla on luovia
-ammattilaisia, joiden perustamille yrityksille tulee tulevaisuudessa olemaan
-runsaasti kysyntää. Kulttuurivienti on merkittävä mahdollisuus Suomelle.
-Vertailukohta löytyy esimerkiksi naapurimaa Ruotsin saavuttamasta asemasta  monilla kulttuuriviennin alueilla kuten
-musiikissa. Kulttuuripalveluilla on myös positiivisia kerrannaisvaikutuksia
-hyvinvointiin, työllisyyteen sekä ihmisten osallisuuteen.
-
- 
-
-•   
-Ulotetaan vihreää siirtymää edistävät
-investointikannustimet tasapuolisesti myös palveluille.
-
-•   
-Tunnistetaan elinkeinopolitiikassa paremmin kaupunkien
-merkitys ja kasautumisedut, jotka vaikuttavat erityisesti palvelualoilla.
-
-•   
-Kohdennetaan valtion viennin edistämisen tuista
-nykyistä suurempi osa luoville aloille ja kehitetään alalle sopivia
-tuki-instrumentteja. Vakiinnutetaan Creative Business Finland ja kehitetään sen
-toimintaa vastaamaan paremmin taide- ja kulttuurialan kansainvälistymisen
-tarpeisiin.
-
-•   
-Vauhditetaan yritysten digitalisaatiota mm.
-laajentamalla T\&K-verohuojennus koskemaan yritysten tekemiä data-,
-pilvipalvelu- ja ICT-investointeja.
-
-•   
-Jatketaan audiovisuaalisen alan tuotantotukea.
-
- 
-
-[8.2. TEOLLISUUS MAHDOLLISTAA
-VIHREÄN SIIRTYMÄN](<> "")
--------------------------
-
- 
-
-Vihreän teollisuuspolitiikan tavoitteena on edistää
-suomalaisen ja eurooppalaisen teollisuuden kilpailu- ja uudistumiskykyä
-huolehtien samalla sen kestävyyssiirtymästä. Käytännössä vihreällä
-teollisuuspolitiikalla edistetään teollisuuden hiilivapaata energiakäyttöä sekä
-pysäytetään teollisesta toiminnasta aiheutuvaa luontokatoa edistämällä
-kiertotalousratkaisuja. Teollisuus on avainasemassa vihreän siirtymän edistämisessä,
-ja tavoitteiden saavuttaminen vaatii valtavan mittaluokan investointeja.
-
- 
-
-Vihreän elinkeinopolitiikan kovaa ydintä on siirtyminen
-lineaaritaloudesta kiertotalouteen. Siinä missä hiilineutraalius auttaa
-ilmastokriisistä selviämisessä, on kiertotalous yksi tärkeä keino luontokadon
-pysäyttämiseen. Kiertotaloudessa ei tuoteta jatkuvasti uutta, vaan hyödynnetään
-käytössä olevia tuotteita, materiaaleja sekä infrastruktuuria kuten rakennuksia
-mahdollisimman pitkään. Vihreä siirtymä vaatii toteutuakseen kuitenkin myös
-kaivostoimintaa.  Samaan aikaan
-uusiutumattomien luonnonvarojen käyttöä ja louhintaa tulee vähentää
-materiaali-innovaatioilla. Kierrätysastetta on nostettava mahdollisimman
-paljon, mutta pelkät kierrätysmateriaalit eivät riitä vielä kasvavan kulutuksen
-aikana.
-
- 
+Palveluvienti on kasvanut jo pitkään tavaravientiä nopeammin, ja palvelut kattavat noin kolmasosan Suomen viennin kokonaisarvosta. Digitalisaatio on palvelujen viennin väline, joka mahdollistaa globaalisti skaalautuvan toiminnan. Erityisesti korkean osaamisen ja digitalisoitavissa olevien palveluiden kasvavat maailmanmarkkinat tarjoavat mahdollisuuksia kansainvälistymiseen ja palveluyritysten kasvuun. Myös Suomen perinteisesti vahvassa konepajateollisuudessa yhä useamman yrityksen liikevaihdosta suuri osa tulee palveluista.
 
-Vihreä siirtymä edellyttää, että teollisuudella on
-käytössä  riittävä määrä päästötöntä ja
-toimitusvarmaa sekä hinnaltaan kilpailukykyistä energiaa. Erityisesti sähkön
-tuotannon kasvattaminen ja tasaisuus (säätövoima) sekä kulutusjoustot ja
-sähkövarastot ovat keskiössä, kun yhteiskunnan eri sektorit sähköistyvät.
+Palveluista puhutaan usein aineettomina, mahdollisuutena saada talouskasvua ilman materiaalisen tuotannon haittoja. Kuitenkin myös palvelut tarvitsevat resursseja: mobiilipelit tarvitsevat digilaitteita ja pilvipalvelut käyttävät sähköä. Myös perinteiset palvelut käyttävät kiinteistöjä ja energiaa. Vaikka palvelut eivät aineettomia olekaan, ovat ne silti voittopuolisesti ekologisesti haitattomampia kuin tavarat. Liikenteen ja logistiikan palveluja lukuun ottamatta suuri osa palvelualoista on päästöintensiteetiltään (toiminnan päästöt suhteutettuna arvonlisään) pieniä verrattuna moniin muihin toimialoihin. Palvelualat voivat myös luoda ratkaisuja ilmastokriisin ja luontokadon pysäyttämiseksi ja edesauttaa muiden toimialojen, kuten teollisuuden ja rakentamisen vihreää
+siirtymää. Tällaisten päästöjä vähentävien palvelujen kysyntä on voimakkaassa kasvussa maailmalla. Uusia palveluyrityksiä tulee rohkaista panostamaan tutkimus- ja kehitystoimintaan samalla tavalla kuin teollisuusyrityksiäkin.
 
- 
+Yritystoimintaa tukevien palvelujen käyttö digipalveluista toimistohotelleihin lisää tuottavuutta. Tuottavuusloikkaa ei tapahdu, ellei tutkimus- ja kehittämistoiminnan tuotoksia oteta laajasti käyttöön yrityksissä. Tarvitsemme yrityksille suunnattuja, digitaalista siirtymää tukevia kannustimia.
 
-Suomalainen teollisuus on syvästi riippuvainen
-kansainvälisistä arvoketjuista erityisesti erilaisten puolivalmisteiden ja
-monien keskeisten raaka-aineiden osalta. Modernin yhteiskunnan ollessa entistä
-riippuvaisempi erilaisista kriittisistä teknologioista ja tuotteista myös
-suomalaisen ja eurooppalaisen teollisuustuotannon resilienssiä on
-vahvistettava.
+Uusien palveluiden ja palveluammattien syntyä pitää tukea myös muilla kuin teknologia-aloilla. Esimerkiksi kulttuurialoilla on luovia ammattilaisia, joiden perustamille yrityksille tulee tulevaisuudessa olemaan runsaasti kysyntää. Kulttuurivienti on merkittävä mahdollisuus Suomelle.
+Vertailukohta löytyy esimerkiksi naapurimaa Ruotsin saavuttamasta asemasta monilla kulttuuriviennin alueilla kuten musiikissa. Kulttuuripalveluilla on myös positiivisia kerrannaisvaikutuksia hyvinvointiin, työllisyyteen sekä ihmisten osallisuuteen.
 
- 
+* Ulotetaan vihreää siirtymää edistävät investointikannustimet tasapuolisesti myös palveluille.
+* Tunnistetaan elinkeinopolitiikassa paremmin kaupunkien merkitys ja kasautumisedut, jotka vaikuttavat erityisesti palvelualoilla.
+* Kohdennetaan valtion viennin edistämisen tuista nykyistä suurempi osa luoville aloille ja kehitetään alalle sopivia tuki-instrumentteja. Vakiinnutetaan Creative Business Finland ja kehitetään sen toimintaa vastaamaan paremmin taide- ja kulttuurialan kansainvälistymisen tarpeisiin.
+* Vauhditetaan yritysten digitalisaatiota mm. laajentamalla T\&K-verohuojennus koskemaan yritysten tekemiä data-, pilvipalvelu- ja ICT-investointeja.
+* Jatketaan audiovisuaalisen alan tuotantotukea.
 
-Kiertotalousajattelu teollisuuspolitiikan keskiöön
+## [8.2. TEOLLISUUS MAHDOLLISTAA VIHREÄN SIIRTYMÄN](<> "")
 
- 
+Vihreän teollisuuspolitiikan tavoitteena on edistää suomalaisen ja eurooppalaisen teollisuuden kilpailu- ja uudistumiskykyä huolehtien samalla sen kestävyyssiirtymästä. Käytännössä vihreällä teollisuuspolitiikalla edistetään teollisuuden hiilivapaata energiakäyttöä sekä pysäytetään teollisesta toiminnasta aiheutuvaa luontokatoa edistämällä kiertotalousratkaisuja. Teollisuus on avainasemassa vihreän siirtymän edistämisessä, ja tavoitteiden saavuttaminen vaatii valtavan mittaluokan investointeja.
 
-Kiertotalouden on oltava Suomen teollisuuspolitiikan
-keskeinen painopiste, jota edistetään konkreettisin tavoittein ja keinoin.
-Raaka-aineiden hyödyntämisen tehostamiseksi on rakennettava taloudellisia
-kannusteita ja ohjauskeinoja samalla, kun julkinen sektori tarkastelee kriittisesti
-omia hankintojaan.
+Vihreän elinkeinopolitiikan kovaa ydintä on siirtyminen lineaaritaloudesta kiertotalouteen. Siinä missä hiilineutraalius auttaa ilmastokriisistä selviämisessä, on kiertotalous yksi tärkeä keino luontokadon
+pysäyttämiseen. Kiertotaloudessa ei tuoteta jatkuvasti uutta, vaan hyödynnetään käytössä olevia tuotteita, materiaaleja sekä infrastruktuuria kuten rakennuksia mahdollisimman pitkään. Vihreä siirtymä vaatii toteutuakseen kuitenkin myös kaivostoimintaa. Samaan aikaan uusiutumattomien luonnonvarojen käyttöä ja louhintaa tulee vähentää materiaali-innovaatioilla. Kierrätysastetta on nostettava mahdollisimman paljon, mutta pelkät kierrätysmateriaalit eivät riitä vielä kasvavan kulutuksen aikana.
 
- 
+Vihreä siirtymä edellyttää, että teollisuudella on käytössä riittävä määrä päästötöntä ja toimitusvarmaa sekä hinnaltaan kilpailukykyistä energiaa. Erityisesti sähkön tuotannon kasvattaminen ja tasaisuus (säätövoima) sekä kulutusjoustot ja sähkövarastot ovat keskiössä, kun yhteiskunnan eri sektorit sähköistyvät.
 
-•   
-Asetetaan tuotteille - etenkin kodinkoneille ja
-elektroniikalle - vähimmäiskestovaatimukset sekä ohjelmistojen
-ylläpitovaatimukset. Tällä tavoin pystytään pidentämään laitteiden käyttöikää.
+Suomalainen teollisuus on syvästi riippuvainen kansainvälisistä arvoketjuista erityisesti erilaisten puolivalmisteiden ja monien keskeisten raaka-aineiden osalta. Modernin yhteiskunnan ollessa entistä riippuvaisempi erilaisista kriittisistä teknologioista ja tuotteista myös suomalaisen ja eurooppalaisen teollisuustuotannon resilienssiä on vahvistettava.
 
-•   
-Luodaan kiertotalouden strategisen ohjelman
-tavoitteille konkreettiset keinot ja toimenpiteet, joilla tavoitteisiin
-päästään sekä varataan ohjelman toimeenpanoon riittävät resurssit.
+### Kiertotalousajattelu teollisuuspolitiikan keskiöön
 
-•   
-Edistetään kannustimia ja verotusta, joilla
-neitseellisen raaka-aineen käyttö vähenee.
+Kiertotalouden on oltava Suomen teollisuuspolitiikan keskeinen painopiste, jota edistetään konkreettisin tavoittein ja keinoin. Raaka-aineiden hyödyntämisen tehostamiseksi on rakennettava taloudellisia kannusteita ja ohjauskeinoja samalla, kun julkinen sektori tarkastelee kriittisesti omia hankintojaan.
 
-•   
-Asetetaan julkisille hankinnoille sitovia
-kiertotalouden kysyntää edistäviä kriteerejä.
+* Asetetaan tuotteille - etenkin kodinkoneille ja elektroniikalle - vähimmäiskestovaatimukset sekä ohjelmistojen ylläpitovaatimukset. Tällä tavoin pystytään pidentämään laitteiden käyttöikää.
+* Luodaan kiertotalouden strategisen ohjelman tavoitteille konkreettiset keinot ja toimenpiteet, joilla tavoitteisiin päästään sekä varataan ohjelman toimeenpanoon riittävät resurssit.
+* Edistetään kannustimia ja verotusta, joilla neitseellisen raaka-aineen käyttö vähenee.
+* Asetetaan julkisille hankinnoille sitovia kiertotalouden kysyntää edistäviä kriteerejä.
+* Asetetaan myymättä jääneille kestokulutustavaroille EU:n laajuinen hävityskielto.
+* Asetetaan paljon materiaaleja kuluttaville tuotteille pakollinen kierrätysmateriaalien osuutta koskeva vaatimus koko EU:ssa ja lisätään kierrätysasteen näkyvyyttä.
+* Rajoitetaan EU:n laajuisesti pakkausmateriaalien määrää ja käyttöä tuotteiden käyttöturvallisuus huomioiden.
+* Varmistetaan lainsäädännöllä, että tuotteet ovat myös kolmansien osapuolten korjattavissa ja päivitettävissä koko elinkaarensa ajan.
 
-•   
-Asetetaan myymättä jääneille
-kestokulutustavaroille EU:n laajuinen hävityskielto.
+### Suomi mineraalien aikakaudella
 
-•   
-Asetetaan paljon materiaaleja kuluttaville
-tuotteille pakollinen kierrätysmateriaalien osuutta koskeva vaatimus koko
-EU:ssa ja lisätään kierrätysasteen näkyvyyttä.
+Kaivannaisten hyödyntämisessä tavoitellaan korkeaa jalostusarvoa jalostamattoman raaka-aineen viennin sijaan. Samaan aikaan louhintaa tulee hillitä materiaali-innovaatioilla, kaivosten ympäristöhaittoja on vähennettävä niiden ollessa toiminnassa, ja kaivosalueiden ennallistamisesta on huolehdittava.
 
-•   
-Rajoitetaan EU:n laajuisesti pakkausmateriaalien
-määrää ja käyttöä tuotteiden käyttöturvallisuus huomioiden.
+* Lainsäädännön muutoksilla lisätään valtion mahdollisuuksia ohjata mineraalien korkeaa jalostusarvoa.
+* Edellytetään yrityksiä varautumaan kaivosalueiden ennallistamiseen ja mahdollisten vahinkojen korjaamiseen. Luontoarvojen heikkeneminen on kompensoitava täysimääräisesti.
+* Rajataan kaivostoiminnan ulkopuolelle kaikki arvokkaat luontoalueet, kulttuuriympäristöt ja vesialueet. Edellytetään saamelaiskäräjien päätöstä kaivoksista saamelaisten kotiseutualueella.
+* Nostetaan valtiolle osoitettavaa kaivosveroa ja verotetaan kaivostoiminnan tulosta nykyistä enemmän. Verotuksen tulee taata, että Suomi hyötyy mineraalien maailmanmarkkinahintojen ollessa korkealla.
 
-•   
-Varmistetaan lainsäädännöllä, että tuotteet ovat
-myös kolmansien osapuolten korjattavissa ja päivitettävissä koko elinkaarensa
-ajan.
+### Hiiletön energia vihreän siirtymän edellytyksenä
 
- 
+Uusien kestävien energiatuotannon ja varastoinnin ratkaisujen kehittämiseen ja käyttöönottoon on kannustettava aktiivisesti valtion tasolla. Kaikissa energiaan liittyvissä politiikkatoimissa on huomoitava muuttuvan energiasysteemin kaikki arvoketjut elinkaarinäkökulmalla.
 
-Suomi mineraalien aikakaudella
+* Ohjataan tutkimus- ja kehitysrahoitusta energiainnovaatioiden kehittämiseen ja demohankkeisiin.
+* Uusien ratkaisujen käyttöönottoa on tuettava ja sujuvoitettava erityisesti sääntelyn avulla.
 
- 
-
-Kaivannaisten hyödyntämisessä tavoitellaan korkeaa
-jalostusarvoa jalostamattoman raaka-aineen viennin sijaan. Samaan aikaan
-louhintaa tulee hillitä materiaali-innovaatioilla, kaivosten ympäristöhaittoja
-on vähennettävä niiden ollessa toiminnassa, ja kaivosalueiden ennallistamisesta
-on huolehdittava.
+## [8.3. MAASEUDUN ELINKEINOT VAHVEMMIKSI](<> "")
 
- 
-
-•   
-Lainsäädännön muutoksilla lisätään valtion
-mahdollisuuksia ohjata mineraalien korkeaa jalostusarvoa.
-
-•   
-Edellytetään yrityksiä varautumaan
-kaivosalueiden ennallistamiseen ja mahdollisten vahinkojen korjaamiseen.
-Luontoarvojen heikkeneminen on kompensoitava täysimääräisesti.
-
-•   
-Rajataan kaivostoiminnan ulkopuolelle kaikki
-arvokkaat luontoalueet, kulttuuriympäristöt ja vesialueet. Edellytetään
-saamelaiskäräjien päätöstä kaivoksista saamelaisten kotiseutualueella.
+Vahvistetaan maaseudun elinkeinoja ottamalla käyttöön kustannustehokkaimmat toimet suomalaisen luonnon pelastamiseen ja hiilivarastojen lisäämiseen.
 
-•   
-Nostetaan valtiolle osoitettavaa kaivosveroa ja
-verotetaan kaivostoiminnan tulosta nykyistä enemmän. Verotuksen tulee taata,
-että Suomi hyötyy mineraalien maailmanmarkkinahintojen ollessa korkealla.
+Vihreä elinkeinopolitiikka huomioi kaikessa päätöksenteossa luonnon kantokyvyn todelliset rajat. Metsiin liittyvistä tavoitteista ensisijaisia ovat luontokadon pysäyttäminen sekä hiilinielujen ja -varastojen
+kasvattaminen. Valtaosa metsistämme on yksityisomistuksessa ja viime kädessä päätökset metsien käsittelystä tapahtuvat metsäkuviotasolla, joten metsänomistajien intresseihin vaikuttaminen on metsäpolitiikan keskeinen väline. Päästökauppahintojen perusteella arvioituna metsiemme hiilinielun arvo ylittää jo metsänomistajille maksetut kantorahatulot, joten merkittävä kannustevaikutus metsien hiilinielujen kasvattamiseen voidaan saavuttaa yksinkertaisesti antamalla metsänomistajille lisää omistajuutta niihin. Metsätalouden merkitys tulee maassamme korostumaan jatkossakin, sillä se on yhtä lailla ilmastopolitiikan kuin raaka-ainetuotannon väline. Se tulee edelleen työllistämään merkittävän joukon suomalaisia, mutta työnkuva muuttuu nykyisestä puuntuotannon maksimoinnista enemmän kannattavuuden sekä luonnonhoidon ja hiilinielujen optimoinnin suuntaan.
 
- 
+Valtion mailla tapahtuvan elinkeinotoiminnan on huomioitava alueen muut käyttötarpeet ja sopeuduttava hiilinielu- ja luonnonsuojelutavoitteisiin. Luonnon monimuotoisuus ei saa heiketä valtion mailla, vaan sitä tulee vahvistaa ennallistamistoimenpitein. Lähtökohtana Suomen luontomarkkinoiden kehittämiselle voisi aluksi toimia se, että yksityiset metsänomistajat voisivat vaihtaa arvokkaita luontokohteitaan valtion talousmetsiin. Metsähallituksen tulee olla edelläkävijä ekologisen kompensaation markkinoilla sekä ostajana että myyjänä.
 
-Hiiletön energia vihreän siirtymän edellytyksenä
+Vihreän elinkeinopolitiikan tavoitteena on monimuotoinen, kannattava, ympäristöystävällinen ja riittävän omavarainen ruokaketju. Se tuottaa terveellistä ruokaa ja maataloustuotteita niin kotimarkkinoille kuin
+vientiinkin ja mahdollistaa kestävän kotimaisen maatalousyrittäjyyden ja huoltovarmuuden. Laajan alkutuotannon lisäksi ruokaketju kattaa logistiikan, jalostuksen, kaupan ja palvelut monimuotoisesti ja laadukkaasti vaativia markkinoita kannattavasti palvellen.
 
- 
-
-Uusien kestävien energiatuotannon ja varastoinnin ratkaisujen
-kehittämiseen ja käyttöönottoon on kannustettava aktiivisesti valtion tasolla.
-Kaikissa energiaan liittyvissä politiikkatoimissa on huomoitava muuttuvan
-energiasysteemin kaikki arvoketjut elinkaarinäkökulmalla.
+Luonnonolosuhteemme asettavat omat haasteensa, joiden vuoksi suomalainen ruokaketju ei voi kilpailla alkutuotannon hinnalla ja volyymeilla. Maatalouspolitiikan tulee tukea ja ohjata alkutuottajia ratkaisuihin, jotka mahdollistavat kannattavan yritystoiminnan näissäkin olosuhteissa. Tarvitaan
+myös riittävä korvaus tuotetuista tuotteista. Tuottajien omaa roolia ruokaketjun ohjaamisessa on vahvistettava. Jalostavan teollisuuden on varmistettava mahdollisuus reagoida toimintaympäristön muutoksiin, hyödyntää kaikkia yhteistyömahdollisuuksia, varmistaa hintakilpailukyvyn tehokkuus ja
+panostaa osaamiseen. Maaseutuyrittäjien itse muodostamat yhteenliittymät voivat astua voimakkaammin esille muun muassa jalostuksen, viennin, palveluiden ja matkailun alalla. Jakelukanavina voidaan viennin ja suoramyynnin lisäksi hyödyntää esimerkiksi uusia älykkäitä verkkoalustoja ja logistiikkaratkaisuja.
 
- 
+### Taloudelliset kannusteet hiilensidontaan
 
-•   
-Ohjataan tutkimus- ja kehitysrahoitusta
-energiainnovaatioiden kehittämiseen ja demohankkeisiin.
+Suunnitellaan metsätalouden verotus ja tuet yhdeksi kokonaisuudeksi, jossa metsänomistajien taloudelliset intressit ovat linjassa hiilineutraalisuus-, luonnonsuojelu- sekä ennallistamistavoitteiden kanssa. Samalla luodaan ja vahvistetaan mahdollisuuksia metsäelinkeinoihin, jotka perustuvat muuhun kuin puuraaka-aineen tuotantoon.
 
-•   
-Uusien ratkaisujen käyttöönottoa on tuettava ja
-sujuvoitettava erityisesti sääntelyn avulla.
+* Otetaan käyttöön olemassaolevaa metsävaratietojärjestelmää hyödyntävä hiilitukijärjestelmä, jossa
+  metsänomistajia tuetaan hiilivaraston kasvun perusteella.
+* Yksityiselle hiilikompensaatiomarkkinalle luodaan selkeät pelisäännöt, joilla varmistetaan hiilensidonnan aito lisäisyys.
 
- 
+### Taloudelliset kannusteet luonnosta huolehtimiseen
 
-[8.3. MAASEUDUN ELINKEINOT
-VAHVEMMIKSI](<> "")
--------------------
+Luonnon ja metsien monikäytön arvon tulee näkyä myös metsätaloudessa, vahvistamalla metsänomistajien kannusteita huolehtia alueensa luonnonarvoista. Metsätalouden tukijärjestelmästä on poistettava kaikki
+kannattavuuslaskelmia vääristävät ja siten myös luonnonsuojelun kustannuksia nostavat tuet (esim. metsäteiden rakennus ja kunnostus sekä turvemaiden ojitus). Sen sijaan hiilitasetta parantavat ja
+puuntuotannollisesti arvokkaamman tukkipuun osuuden lisääntymiseen tähtäävät kannusteet ovat perusteltuja (turvemaiden vettäminen, ennallistaminen tai metsittäminen sekä taimikonhoito).
 
- 
+* Parannetaan luonnonsuojelun kustannustehokkuutta käyttämällä olemassaolevien suojeluohjelmien ohella myös markkinaehtoisia ratkaisuja, kuten ekologista kompensaatiota ja suojeluhuutokauppoja sekä tukemalla yksityisen luontoarvomarkkinan syntymistä.
+* Rahoitetaan näitä toimia ottamalla käyttöön maankäytön muutosmaksu pellonraivaukselle, rakentamiselle ja muulle luontoa heikentävälle toiminnalle. Vaihtoehtoisesti otetaan käyttöön pakollinen ekologinen kompensaatio.
+* Metsätalouden tuet suunnataan kokonaan hiilitasetta parantaviin ja tukkipuun osuutta lisääviin tai luonnon tilaa parantaviin toimenpiteisiin.
 
-Vahvistetaan maaseudun elinkeinoja ottamalla käyttöön
-kustannustehokkaimmat toimet suomalaisen luonnon pelastamiseen ja
-hiilivarastojen lisäämiseen.
-
- 
+### Vapaa yrittäminen ja reilu kilpailu koko ruokaketjuun
 
-Vihreä elinkeinopolitiikka huomioi kaikessa päätöksenteossa
-luonnon kantokyvyn todelliset rajat. Metsiin liittyvistä tavoitteista
-ensisijaisia ovat luontokadon pysäyttäminen sekä hiilinielujen ja -varastojen
-kasvattaminen. Valtaosa metsistämme on yksityisomistuksessa ja viime kädessä
-päätökset metsien käsittelystä tapahtuvat metsäkuviotasolla, joten
-metsänomistajien intresseihin vaikuttaminen on metsäpolitiikan keskeinen
-väline. Päästökauppahintojen perusteella arvioituna metsiemme hiilinielun arvo
-ylittää jo metsänomistajille maksetut kantorahatulot, joten merkittävä
-kannustevaikutus metsien hiilinielujen kasvattamiseen voidaan saavuttaa
-yksinkertaisesti antamalla 
-metsänomistajille lisää omistajuutta niihin. Metsätalouden merkitys
-tulee maassamme korostumaan jatkossakin, sillä se on yhtä lailla
-ilmastopolitiikan kuin raaka-ainetuotannon väline. Se tulee edelleen
-työllistämään merkittävän joukon suomalaisia, mutta työnkuva muuttuu nykyisestä
-puuntuotannon maksimoinnista enemmän kannattavuuden sekä luonnonhoidon ja hiilinielujen
-optimoinnin suuntaan.
+Luonto- ja ilmastotavoitteet asettavat reunaehdot vihreälle elinkeinopolitiikalle, ja erityisen tärkeää tämä on maataloudessa. Ruokaketjun eri osien toimiva yhteistyö on avainasemassa siinä, että meillä on jatkossakin otimaista, puhdasta ja laadukasta ruokaa ja toisaalta, että siitä voidaan kehittää menestyvä vientituote. Lainsäädännön ja viranomaistoiminnan on tuettava innovatiivisia ja kestäviä ratkaisuja, jotka mahdollistavat monialayrittäjyyden ja joustavan työllistämisen. Tähän liittyy läheisesti kuluttajien tarpeiden tunnistaminen ja sellaisten tuotteiden tuottaminen, joille on kuluttajien keskuudessa kysyntää. Viranomaisten tulee tukea ennakoivaa sopeutumista isoihin pitkän aikavälin trendeihin, kuten lihantuotannon asteittainen korvautuminen kasviproteiineilla, ei jarruttaa niitä tai ylläpitää mielikuvaa, että nykyinen tuotantorakenne jatkuu ikuisesti.
 
- 
-
-Valtion mailla tapahtuvan elinkeinotoiminnan on huomioitava
-alueen muut käyttötarpeet ja sopeuduttava hiilinielu- ja
-luonnonsuojelutavoitteisiin. Luonnon monimuotoisuus ei saa heiketä valtion
-mailla, vaan sitä tulee vahvistaa ennallistamistoimenpitein. Lähtökohtana
-Suomen luontomarkkinoiden kehittämiselle voisi aluksi toimia se, että
-yksityiset metsänomistajat voisivat vaihtaa arvokkaita luontokohteitaan valtion
-talousmetsiin. Metsähallituksen tulee olla edelläkävijä ekologisen
-kompensaation markkinoilla sekä ostajana että myyjänä.
-
- 
-
-Vihreän elinkeinopolitiikan tavoitteena on monimuotoinen,
-kannattava, ympäristöystävällinen ja riittävän omavarainen ruokaketju. Se
-tuottaa terveellistä ruokaa ja maataloustuotteita niin kotimarkkinoille kuin
-vientiinkin ja mahdollistaa kestävän kotimaisen maatalousyrittäjyyden ja
-huoltovarmuuden. Laajan alkutuotannon lisäksi ruokaketju kattaa logistiikan,
-jalostuksen, kaupan ja palvelut monimuotoisesti ja laadukkaasti vaativia
-markkinoita kannattavasti palvellen.
-
- 
-
-Luonnonolosuhteemme asettavat omat haasteensa, joiden vuoksi
-suomalainen ruokaketju ei voi kilpailla alkutuotannon hinnalla ja volyymeilla.
-Maatalouspolitiikan tulee tukea ja ohjata alkutuottajia ratkaisuihin, jotka
-mahdollistavat kannattavan yritystoiminnan näissäkin olosuhteissa. Tarvitaan
-myös riittävä korvaus tuotetuista tuotteista. Tuottajien omaa roolia
-ruokaketjun ohjaamisessa on vahvistettava. Jalostavan teollisuuden on
-varmistettava mahdollisuus reagoida toimintaympäristön muutoksiin, hyödyntää
-kaikkia yhteistyömahdollisuuksia, varmistaa hintakilpailukyvyn tehokkuus ja
-panostaa osaamiseen. Maaseutuyrittäjien itse muodostamat yhteenliittymät voivat
-astua voimakkaammin esille muun muassa jalostuksen, viennin, palveluiden ja matkailun
-alalla. Jakelukanavina voidaan viennin ja suoramyynnin lisäksi hyödyntää
-esimerkiksi uusia älykkäitä verkkoalustoja ja logistiikkaratkaisuja.
-
- 
-
-Taloudelliset kannusteet hiilensidontaan
-
- 
-
-Suunnitellaan metsätalouden verotus ja tuet yhdeksi
-kokonaisuudeksi, jossa metsänomistajien taloudelliset intressit ovat linjassa
-hiilineutraalisuus-, luonnonsuojelu- sekä ennallistamistavoitteiden kanssa.
-Samalla luodaan ja vahvistetaan mahdollisuuksia metsäelinkeinoihin, jotka  perustuvat muuhun kuin puuraaka-aineen tuotantoon.
-
- 
-
-•   
-Otetaan käyttöön olemassaolevaa
-metsävaratietojärjestelmää hyödyntävä hiilitukijärjestelmä, jossa
-metsänomistajia tuetaan hiilivaraston kasvun perusteella.
-
-•   
-Yksityiselle hiilikompensaatiomarkkinalle
-luodaan selkeät pelisäännöt, joilla varmistetaan hiilensidonnan aito lisäisyys.
-
- 
-
-Taloudelliset kannusteet luonnosta huolehtimiseen
-
- 
-
-Luonnon ja metsien monikäytön arvon tulee näkyä myös
-metsätaloudessa, vahvistamalla metsänomistajien kannusteita huolehtia alueensa
-luonnonarvoista. Metsätalouden tukijärjestelmästä on poistettava kaikki
-kannattavuuslaskelmia vääristävät ja siten myös 
-luonnonsuojelun kustannuksia nostavat tuet (esim. metsäteiden rakennus
-ja kunnostus sekä turvemaiden ojitus). Sen sijaan hiilitasetta parantavat ja
-puuntuotannollisesti arvokkaamman tukkipuun osuuden lisääntymiseen tähtäävät
-kannusteet ovat perusteltuja (turvemaiden vettäminen, ennallistaminen tai
-metsittäminen sekä taimikonhoito).
-
- 
-
-•   
-Parannetaan luonnonsuojelun kustannustehokkuutta
-käyttämällä olemassaolevien suojeluohjelmien ohella myös markkinaehtoisia
-ratkaisuja, kuten ekologista kompensaatiota ja suojeluhuutokauppoja sekä
-tukemalla yksityisen luontoarvomarkkinan syntymistä.
-
-•   
-Rahoitetaan näitä toimia ottamalla käyttöön
-maankäytön muutosmaksu pellonraivaukselle, rakentamiselle ja muulle luontoa
-heikentävälle toiminnalle. Vaihtoehtoisesti otetaan käyttöön pakollinen
-ekologinen kompensaatio.
-
-•   
-Metsätalouden tuet suunnataan kokonaan
-hiilitasetta parantaviin ja tukkipuun osuutta lisääviin tai luonnon tilaa
-parantaviin toimenpiteisiin.
-
- 
-
-Vapaa yrittäminen ja reilu kilpailu koko ruokaketjuun
-
- 
-
-Luonto- ja ilmastotavoitteet asettavat reunaehdot vihreälle
-elinkeinopolitiikalle, ja erityisen tärkeää tämä on maataloudessa. Ruokaketjun
-eri osien toimiva yhteistyö on avainasemassa siinä, että meillä on jatkossakin
-kotimaista, puhdasta ja laadukasta ruokaa ja toisaalta, että siitä voidaan
-kehittää menestyvä vientituote. Lainsäädännön ja viranomaistoiminnan on
-tuettava innovatiivisia ja kestäviä ratkaisuja, jotka mahdollistavat
-monialayrittäjyyden ja joustavan työllistämisen. Tähän liittyy läheisesti
-kuluttajien tarpeiden tunnistaminen ja sellaisten tuotteiden tuottaminen,
-joille on kuluttajien keskuudessa kysyntää. Viranomaisten tulee tukea
-ennakoivaa sopeutumista isoihin pitkän aikavälin trendeihin, kuten
-lihantuotannon asteittainen korvautuminen kasviproteiineilla, ei jarruttaa
-niitä tai ylläpitää mielikuvaa, että nykyinen tuotantorakenne jatkuu ikuisesti.
-
- 
-
-•   
-Uudistetaan maatalouden tukia niin, että ne
-ohjaavat ilmasto- ja luontomyönteisempään tuotantoon sekä parempaan
-tuotantoeläinten hyvinvointiin. Huomioidaan tukijärjestelmässä vahvemmin myös
-viljelykelpoista maata uudistavat viljelymenetelmät.
-
-•   
-Kehitetään kuluttajadataan perustuvia
-järjestelmiä, jotta tieto kuluttajien käytöksestä voidaan asiakkaan luvalla
-jakaa kaikille ruokaketjun toimijoille.
-
-•   
-Suunnataan tuottajien neuvontapalvelut
-kannattavan yritystoiminnan kehittämiseen ja ennakoivaan markkinamuutoksiin
-sopeutumiseen.
+* Uudistetaan maatalouden tukia niin, että ne ohjaavat ilmasto- ja luontomyönteisempään tuotantoon sekä parempaan tuotantoeläinten hyvinvointiin. Huomioidaan tukijärjestelmässä vahvemmin myös viljelykelpoista maata uudistavat viljelymenetelmät.
+* Kehitetään kuluttajadataan perustuvia järjestelmiä, jotta tieto kuluttajien käytöksestä voidaan asiakkaan luvalla jakaa kaikille ruokaketjun toimijoille.
+* Suunnataan tuottajien neuvontapalvelut kannattavan yritystoiminnan kehittämiseen ja ennakoivaan markkinamuutoksiin sopeutumiseen.
 
      &#x20;
